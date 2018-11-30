@@ -1,0 +1,8 @@
+site_name: Gebiedsscan Documentatie
+theme:
+  name: 'readthedocs'
+pages:
+    - Startpagina: index.md
+    - Introductie: overview.md
+    - Gebiedsscan applicatie: gebiedsscan-client.md
+    - Conclusies en aanbevelingen: conclusions.md
