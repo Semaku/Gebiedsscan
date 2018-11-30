@@ -1,0 +1,23 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+
+
+//instead of overriding uk-logo we should have been able to declare the hook-logo() mixin. 
+// @mixin hook-logo() { //mixings are not working, cannot see why. if problem continues we should open a issue in the ui-kit github
+//     font-weight: 700;
+//     color: red;
+// }
+.uk-logo {
+    font-weight: 800;
+}
+
+.uk-logo-home {
+    padding: 0 15px 0 0;  
+}
+
+
+
+
+// $logo-font-family;
+// color: $logo-hover-color;

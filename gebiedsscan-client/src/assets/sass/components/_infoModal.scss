@@ -1,0 +1,128 @@
+.sk-modal-container {
+}
+
+.sk-modal-body {
+    border-radius: 10px;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+
+.sk-info-modal-header {
+    
+    & > .uk-container {
+        padding: 0;
+        background: rgba(42, 85, 135, 0.2);    
+    }
+}
+
+@media only screen and (max-width : 500px) {
+    .sk-info-modal-header-items {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .interested-users-form {
+        width: 60%;
+    }
+
+    .sk-modal-content {
+        // padding: 20px;
+    
+        .uk-tab {
+            flex-direction: column;
+        }
+    }
+}
+
+.sk-info-modal-header-items > li > a {
+    color: #2A5587;
+    font-size: 0.7em;
+    font-weight: 600;
+
+    &:hover {
+        color: #4572a5;
+        & > svg > g >g >use {
+            fill: #4572a5; 
+        }
+    }
+
+    &:visited {
+        color: #4572a5;
+    }
+}
+
+.sk-info-modal-header-items > li {
+    &:not(:first-child) {
+        border-right: 1px rgba(42, 85, 135, 0.2) solid;
+    }
+    
+    .liked {
+        & > svg > g >g >use {
+            fill: $base-red; 
+        }
+
+        &:hover {
+            color: #2A5587;
+            & > svg > g >g >use {
+                fill: $base-red; 
+            }
+        }
+    }
+}
+
+.sk-info-modal-header-items > .uk-active {
+    background: $base-red;
+    & > a {
+        color: #fff !important;
+        font-weight: 400;
+    }
+}
+
+.sk-image-map-container {
+    .image-map-item {
+        height: 300px;
+        position: relative;
+
+        & > .hero-image {
+            height: 300px;
+        }
+    }
+}
+
+.street-view-image {
+    position: absolute;
+    height: 60px;
+    bottom: 10px;
+    left: 10px;
+    z-index: 2000;
+    -webkit-box-shadow: 0 14px 25px rgba(0, 0, 0, 0.16);
+    box-shadow: 0 14px 25px rgba(0, 0, 0, 0.16);
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.sk-preview-modal-description-elements {
+    list-style: none;
+    padding: 0;
+
+}
+
+.uk-tab::before {
+    border-bottom: none;
+}
+
+.uk-tab > .uk-active > a {
+    border-bottom: 2px solid $base_red;
+}
+
+.uk-card-body-nieuws {
+    height: 50px;
+    overflow: hidden;
+}
+
+.uk-card-title-nieuws {
+    font-size: 1.2em;
+}

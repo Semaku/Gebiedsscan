@@ -1,0 +1,67 @@
+.sk-search-modal {
+    font-size: 0.8em;
+}
+
+.sk-container-results {
+    // height: 440px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+}
+.sk-result-card {
+    display: inline-block;
+    height: 420px;
+    width: 320px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 10px;
+    white-space: pre-wrap;      /* Webkit */    
+    white-space: -moz-pre-wrap; /* Firefox */     
+    white-space: -pre-wrap;     /* Opera <7 */    
+    white-space: -o-pre-wrap;   /* Opera 7 */     
+    word-wrap: break-word; 
+    top: 0;
+    cursor: pointer;
+}
+.sk-result-card-title {
+    height: 30px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical; 
+}
+.sk-result-card-description {
+    height: 96px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;  
+}
+
+.sk-initiatief {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    white-space: pre-wrap;      /* Webkit */    
+    white-space: -moz-pre-wrap; /* Firefox */     
+    white-space: -pre-wrap;     /* Opera <7 */    
+    white-space: -o-pre-wrap;   /* Opera 7 */     
+    word-wrap: break-word; 
+    top: 0;
+    cursor: pointer;
+}
+
+.sk-container-initiatief {
+    height: 100px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+}
+.sk-initiatief-grid {
+    padding-left: 30px;
+}

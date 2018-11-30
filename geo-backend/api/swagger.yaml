@@ -1,0 +1,370 @@
+openapi: 3.0.0
+info:
+  version: 1.0.0
+  title: Kaddaster-Semaku API
+  description: An api used to expose geo related data used for semaku geo-projects
+  contact:
+    name: Semaku
+    email: jose.pena.te.winkel@semaku.com
+    url: 'http://semaku.com'
+servers:
+  - url: 'http://kadaster.semaku/api'
+paths:
+  /point:
+    get:
+      description: >-
+        Returns information based on a point (GeoJSON). At the moment we only
+        return information from peercel, panden, verflijfobject
+      operationId: findBasedOnPoint
+      requestBody:
+        description: point to search
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PointRequest'
+      responses:
+        '200':
+          description: point response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PointResponse'
+        default:
+          description: unexpected error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /polygon:
+    get:
+      description: Returns information based on a polygon (GeoJSON).
+      operationId: findBasedOnPoint
+      requestBody:
+        description: polygon to search
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PolygonRequest'
+      responses:
+        '200':
+          description: polygon response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PolygonResponse'
+        default:
+          description: unexpected error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /bbox:
+    get:
+      description: Returns information based on the bbox
+      operationId: findBasedOnPoint
+      requestBody:
+        description: bbox to search
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/BboxRequest'
+      responses:
+        '200':
+          description: response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/BboxResponse'
+        default:
+          description: unexpected error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+  /sbi:
+    get:
+      description: >-
+        Returns list of businesses based on an sbi code or sbi category name
+        (one is mandatory)
+      parameters:
+        - name: id
+          in: query
+          description: ID of the SBI code to search
+          required: false
+          schema:
+            $ref: '#/components/schemas/SbiRequest'
+        - name: name
+          in: query
+          description: name of the SBI category to search
+          required: false
+          schema:
+            $ref: '#/components/schemas/SbiRequest'
+      responses:
+        '200':
+          description: response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SbiResponse'
+        default:
+          description: unexpected error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+components:
+  schemas:
+    PointRequest:
+      type: object
+      properties:
+        geometry:
+          $ref: '#/components/schemas/Point'
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/PointRequestItem'
+    PointRequestItem:
+      type: object
+      properties:
+        type:
+          example: panden
+          type: string
+          enum:
+            - panden
+            - verflijfobject
+            - peercel
+        attributes:
+          type: array
+          example:
+            - geometry
+            - constructionYear
+          items:
+            anyOf:
+              - $ref: '#/components/schemas/RequestPanden'
+              - $ref: '#/components/schemas/RequestPerceel'
+              - $ref: '#/components/schemas/RequestVerblijfsobject'
+    Point:
+      type: object
+      properties:
+        type:
+          example: Point
+          type: string
+        coordinates:
+          type: array
+          example: '[lon, lat]'
+          items:
+            type: integer
+    PointResponse:
+      type: object
+      properties:
+        panden:
+          type: object
+          properties:
+            geometry:
+              example: {}
+              type: string
+            constructionyear:
+              example: {}
+              type: string
+        perceel:
+          type: object
+          properties:
+            geometry:
+              example: {}
+              type: string
+        verflijfobject:
+          type: object
+          properties:
+            geometry:
+              example: {}
+              type: string
+            address:
+              example: {}
+              type: string
+    RequestPanden:
+      type: object
+      properties:
+        type:
+          example: panden
+          type: string
+          enum:
+            - panden
+        attributes:
+          type: array
+          example: '[geometry, constructionYear, ...]'
+          items:
+            type: string
+    RequestPerceel:
+      type: object
+      properties:
+        type:
+          example: perceel
+          type: string
+          enum:
+            - perceel
+        attributes:
+          type: array
+          example: '["geometry", "constructionYear"]'
+          items:
+            type: string
+    RequestVerblijfsobject:
+      type: object
+      properties:
+        type:
+          example: verblijfsobject
+          type: string
+          enum:
+            - verblijfsobject
+        attributes:
+          type: array
+          example: '["category", "address"]'
+          items:
+            type: string
+            enum:
+              - category
+              - address
+    PolygonRequest:
+      type: object
+      properties:
+        geometry:
+          $ref: '#/components/schemas/Polygon'
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/PolygonRequestItem'
+    PolygonRequestItem:
+      type: object
+      properties:
+        type:
+          example: brt
+          type: string
+          enum:
+            - panden
+        filter:
+          type: array
+          items:
+            type: string
+            example: bedrijventerrein
+        attributes:
+          type: array
+          example:
+            - functinalGebied
+            - geometry
+          items:
+            anyOf:
+              - $ref: '#/components/schemas/RequestBRT'
+    Polygon:
+      type: object
+      properties:
+        type:
+          example: Polygon
+          type: string
+        coordinates:
+          type: array
+          example: '[]'
+          items:
+            type: integer
+    PolygonResponse:
+      type: object
+      properties:
+        brt:
+          type: array
+          items:
+            type: object
+            properties:
+              geometry:
+                example: {}
+                type: string
+              constructionyear:
+                example: {}
+                type: string
+    RequestBRT:
+      type: object
+      properties:
+        type:
+          example: panden
+          type: string
+          enum:
+            - panden
+        attributes:
+          type: array
+          example: '[geometry, functinalGebied, ...]'
+          items:
+            type: string
+    BboxRequest:
+      type: object
+      properties:
+        bbox:
+          $ref: '#/components/schemas/Bbox'
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/BboxRequestItem'
+    BboxRequestItem:
+      type: object
+      properties:
+        type:
+          example: panden
+          enum:
+            - panden
+            - brt
+            - perceel
+        attributes:
+          type: array
+          example:
+            - geometry
+          items:
+            anyOf:
+              - $ref: '#/components/schemas/RequestPanden'
+    Bbox:
+      type: string
+      example: >-
+        4.750659343397447, 52.336103832881626, 5.0485583480506175,
+        52.42212837516586
+    BboxResponse:
+      type: object
+      properties:
+        panden:
+          type: array
+          items:
+            type: object
+            properties:
+              geometry:
+                example: {}
+                type: string
+    SbiRequest:
+      type: object
+      properties:
+        bbox:
+          $ref: '#/components/schemas/Bbox'
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/BboxRequestItem'
+    SbiResponse:
+      type: array
+      items:
+        type: object
+        properties:
+          sbiCode:
+            example: 1105
+            type: string
+          geometry:
+            example: {}
+            type: object
+          address:
+            example: 'Jacob le Mairestraat 253 , 7825XE, Emmen'
+            type: string
+    Error:
+      required:
+        - code
+        - message
+      properties:
+        code:
+          type: integer
+          format: int32
+        message:
+          type: string

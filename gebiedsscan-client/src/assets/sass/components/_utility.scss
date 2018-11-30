@@ -1,0 +1,128 @@
+// Search input
+.uk-search-input {
+    color: $global-color;
+}
+
+.uk-search-input-small {
+    padding-left: 28px !important;
+    padding-bottom: 6px;
+}
+
+.medium-placeholder::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    font-size: 20px;
+    color: $global-color;
+}
+.medium-placeholder::-moz-placeholder { /* Chrome/Opera/Safari */
+    font-size: 20px;
+    color: $global-color;
+}
+
+.small-placeholder::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    font-size: 16px;
+    color: $global-color;
+}
+
+
+.small-placeholder::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    font-size: 16px;
+    color: $global-color;
+}
+
+.xsmall-placeholder::-moz-placeholder { /* Chrome/Opera/Safari */
+    font-size: 12px;
+    color: $global-color;
+}
+
+.xsmall-placeholder::-webkit-input-placeholder{ /* Chrome/Opera/Safari */
+    font-size: 12px;
+    color: $global-color;
+}
+
+
+//color
+.sk-color-red {
+    color: $base-red;
+}
+
+//search icon 
+.uk-search-icon-small {
+    width: 20px !important;
+}
+
+//tab
+.uk-tab > * > a {
+    font-size: 0.74rem;
+}
+
+//accordion
+.uk-accordion-content {
+    font-size: 0.8em;
+    margin-top: 5px;
+    padding: 0 10px;
+}
+
+
+//button
+
+.sk-button {
+    background: white;
+
+    &:hover {
+        color: #d64a3f;
+        font-weight: 600
+    }
+}
+.sk-button-red {
+    color: $base-red !important;
+}
+.sk-button-gray {
+    color: $base-gray;
+}
+
+.sk-button-bold {
+    font-weight: 600;
+}
+
+.sk-fill-red-button {
+    border-radius: 4px;
+    background: $base-red;
+
+    &:hover {
+        background: #d64a3f;
+    }
+
+    &:active {
+        background: #d64a3f;
+    }
+
+    &:focus {
+        background: #d64a3f;
+    }
+}
+
+.sk-fill-blue-button {
+    border-radius: 4px;
+    background: #1e87f0;
+
+    &:hover {
+        background: #5497da;
+    }
+
+    &:active {
+        background: #5497da;
+    }
+
+    &:focus {
+        background: #5497da;
+    }
+}
+
+.sk-pointer {
+    cursor: pointer;
+}
+
+
+.leaflet-popup-content {
+    height: 350px !important;
+    width: 350px !important;
+}

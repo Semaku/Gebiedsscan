@@ -1,0 +1,25 @@
+version: "2"
+services:
+    database:
+        image: ojajoh/docker-postgis
+        container_name: kadaster-db
+        ports:
+            - "5432:5432"
+        volumes:
+            # LINUX directly mounted to the filessystem
+             - /var/appdata/userdata/pgdata:/var/lib/postgresql/data/pgdata
+            # FOR WINDOWS create a docker volume using : docker volume create --name pgdata-volume -d local
+            #- pgdata-volume:/var/lib/postgresql/data/pgdata
+        environment:
+            PGDATA: /var/lib/postgresql/data/pgdata
+            POSTGRES_DB: kadaster-db
+        restart: always
+# JUST FOR WNDOWS 
+# volumes:
+#    pgdata-volume:
+#        external: true
+# docker network create kadaster-network
+networks:
+  default:
+    external:
+      name: nginx-proxy

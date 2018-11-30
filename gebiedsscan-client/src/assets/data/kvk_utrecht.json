@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.1509, 52.0932]
+        },
+        "properties": {
+          "id": " 1441",
+          "kvknummer": "14052182",
+          "vestigingsnummer": "000032364369",
+          "businessName": "Dummy B.V.",
+          "tradeNames": "Dummy B.V.",
+          "statutoryNames": "Dummy B.V.",
+          "legalFormCode": "41",
+          "legalFormDescription": "Besloten vennootschap met gewone structuur",
+          "hasEntryInCommercialRegister": "1",
+          "isLegalPerson": "0",
+          "isEstablishment": "1",
+          "isMainEstablishment": "1",
+          "employees": "   0",
+          "street": "Dummy straat",
+          "houseNumber": "1",
+          "houseNumberAddition": "",
+          "postalCode": "9999ZZ",
+          "city": "Utrecht",
+          "website": "",
+          "mainActivitySbiCode": "  6420",
+          "mainActivitysbiCodeDescription": "FinanciÎle holdings",
+          "activity1SbiCode": "    0",
+          "activity1SbiCodeDescription": "",
+          "activity2SbiCode": "    0",
+          "activity2SbiCodeDescription": ""
+        }
+      }
+    ]
+  }

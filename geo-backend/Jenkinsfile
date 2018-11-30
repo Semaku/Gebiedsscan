@@ -1,0 +1,24 @@
+def label = "jenkins-slave-${UUID.randomUUID().toString()}"
+podTemplate(label: label, containers: [
+        containerTemplate(name: 'docker', image: 'chadmoon/jenkins-docker-kubectl', ttyEnabled: true, command: 'cat')]
+    ){
+    node(label) {
+        def imageTag = "379628169750.dkr.ecr.eu-west-1.amazonaws.com/kadaster-api:${env.BUILD_NUMBER}"
+         container(name: 'docker') {
+          stage('Preparation') {            
+            git url: "https://bitbucket.org/semaku/geo-backend.git", credentialsId: 'bitbucket', branch: 'master'
+          }
+          stage('build and push image') {
+            sh "docker build -f api/Dockerfile api -t ${imageTag}"
+            docker.withRegistry('https://379628169750.dkr.ecr.eu-west-1.amazonaws.com', 'ecr:eu-west-1:semaku-amazon-ecr') {
+                docker.image("${imageTag}").push()
+            }
+          }
+          stage("Deploy"){
+            sh "sed 's#379628169750.dkr.ecr.eu-west-1.amazonaws.com/kadaster-api:latest#'${imageTag}'#' api/k8s/deployment.yaml | kubectl --namespace=test apply -f -"
+            sh "kubectl rollout status --namespace=test deployment/kadaster-api"
+              
+          }
+        }       
+    }
+  }

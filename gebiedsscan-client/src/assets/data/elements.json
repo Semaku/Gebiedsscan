@@ -1,0 +1,588 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanaalzone Zuid2",
+        "description": "something",
+        "type": "project",
+        "development_theme": "",
+        "development_started_date": "",
+        "image_url": "",
+        "nr_participans_wanted": "",
+        "types_of_participants": [
+          "Investors",
+          "Other"
+        ],
+        "interesting_areas": "",
+        "vision": "",
+        "author": "",
+        "created": "",
+        "modified": "",
+        "likes": 0,
+        "location": {
+          "street_name": "",
+          "house_letter": "",
+          "house_nr": "",
+          "post_code": "",
+          "plaats": ""
+        },
+        "contact_person": {
+          "first_name": "",
+          "last_name": "",
+          "organization": "",
+          "phone_nr": "",
+          "email": ""
+        },
+        "external_source": {
+          "title": "",
+          "description": "",
+          "url": "",
+          "image_url": ""
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.491279887298657,
+              51.436612564630614
+            ],
+            [
+              5.491685183847749,
+              51.43596668702833
+            ],
+            [
+              5.492815632674982,
+              51.43486136214891
+            ],
+            [
+              5.502942661402407,
+              51.4333534546882
+            ],
+            [
+              5.503664633796279,
+              51.4350747594212
+            ],
+            [
+              5.491392456217307,
+              51.43682194959609
+            ],
+            [
+              5.491279887298657,
+              51.436612564630614
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "",
+        "name": "Campina",
+        "description": "something",
+        "type": "deelproject",
+        "development_theme": "",
+        "development_started_date": "",
+        "image_url": "",
+        "nr_participans_wanted": "",
+        "types_of_participants": [
+          "Investors",
+          "Other"
+        ],
+        "interesting_areas": "",
+        "vision": "",
+        "author": "",
+        "created": "",
+        "modified": "",
+        "likes": 0,
+        "location": {
+          "street_name": "",
+          "house_letter": "",
+          "house_nr": "",
+          "post_code": "",
+          "plaats": ""
+        },
+        "contact_person": {
+          "first_name": "",
+          "last_name": "",
+          "organization": "",
+          "phone_nr": "",
+          "email": ""
+        },
+        "external_source": {
+          "title": "",
+          "description": "",
+          "url": "",
+          "image_url": ""
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.499342951957209,
+              51.43539392290372
+            ],
+            [
+              5.499792299493587,
+              51.434504985986486
+            ],
+            [
+              5.49964059994155,
+              51.434024294837755
+            ],
+            [
+              5.50283363334547,
+              51.43357169225997
+            ],
+            [
+              5.503305028516501,
+              51.43480467435315
+            ],
+            [
+              5.499342951957209,
+              51.43539392290372
+            ]
+          ]
+        ]
+      }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+          "name": "Kanaalzone Zuid",
+          "description": "something",
+          "type": "project",
+          "development_theme": "",
+          "development_started_date": "",
+          "image_url": "",
+          "nr_participans_wanted": "",
+          "types_of_participants": [
+            "Investors",
+            "Other"
+          ],
+          "interesting_areas": "",
+          "vision": "",
+          "author": "",
+          "created": "",
+          "modified": "",
+          "likes": 0,
+          "location": {
+            "street_name": "",
+            "house_letter": "",
+            "house_nr": "",
+            "post_code": "",
+            "plaats": ""
+          },
+          "contact_person": {
+            "first_name": "",
+            "last_name": "",
+            "organization": "",
+            "phone_nr": "",
+            "email": ""
+          },
+          "external_source": {
+            "title": "",
+            "description": "",
+            "url": "",
+            "image_url": ""
+          }
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                5.491279887298657,
+                51.436612564630614
+              ],
+              [
+                5.491685183847749,
+                51.43596668702833
+              ],
+              [
+                5.492815632674982,
+                51.43486136214891
+              ],
+              [
+                5.502942661402407,
+                51.4333534546882
+              ],
+              [
+                5.503664633796279,
+                51.4350747594212
+              ],
+              [
+                5.491392456217307,
+                51.43682194959609
+              ],
+              [
+                5.491279887298657,
+                51.436612564630614
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Test 12",
+          "description": "something",
+          "type": "project"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                5.499342951957209,
+                51.43539392290372
+              ],
+              [
+                5.499792299493587,
+                51.434504985986486
+              ],
+              [
+                5.49964059994155,
+                51.434024294837755
+              ],
+              [
+                5.50283363334547,
+                51.43357169225997
+              ],
+              [
+                5.503305028516501,
+                51.43480467435315
+              ],
+              [
+                5.499342951957209,
+                51.43539392290372
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Test 1432",
+          "description": "something",
+          "type": "project"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                5.499342951957209,
+                51.43539392290372
+              ],
+              [
+                5.499792299493587,
+                51.434504985986486
+              ],
+              [
+                5.49964059994155,
+                51.434024294837755
+              ],
+              [
+                5.50283363334547,
+                51.43357169225997
+              ],
+              [
+                5.503305028516501,
+                51.43480467435315
+              ],
+              [
+                5.499342951957209,
+                51.43539392290372
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Test 115",
+          "description": "something",
+          "type": "project"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                5.499342951957209,
+                51.43539392290372
+              ],
+              [
+                5.499792299493587,
+                51.434504985986486
+              ],
+              [
+                5.49964059994155,
+                51.434024294837755
+              ],
+              [
+                5.50283363334547,
+                51.43357169225997
+              ],
+              [
+                5.503305028516501,
+                51.43480467435315
+              ],
+              [
+                5.499342951957209,
+                51.43539392290372
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Test 112",
+          "description": "something",
+          "type": "project"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                5.499342951957209,
+                51.43539392290372
+              ],
+              [
+                5.499792299493587,
+                51.434504985986486
+              ],
+              [
+                5.49964059994155,
+                51.434024294837755
+              ],
+              [
+                5.50283363334547,
+                51.43357169225997
+              ],
+              [
+                5.503305028516501,
+                51.43480467435315
+              ],
+              [
+                5.499342951957209,
+                51.43539392290372
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Test 133",
+          "description": "something",
+          "type": "project"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                5.499342951957209,
+                51.43539392290372
+              ],
+              [
+                5.499792299493587,
+                51.434504985986486
+              ],
+              [
+                5.49964059994155,
+                51.434024294837755
+              ],
+              [
+                5.50283363334547,
+                51.43357169225997
+              ],
+              [
+                5.503305028516501,
+                51.43480467435315
+              ],
+              [
+                5.499342951957209,
+                51.43539392290372
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Test 143",
+          "description": "something",
+          "type": "project"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                5.499342951957209,
+                51.43539392290372
+              ],
+              [
+                5.499792299493587,
+                51.434504985986486
+              ],
+              [
+                5.49964059994155,
+                51.434024294837755
+              ],
+              [
+                5.50283363334547,
+                51.43357169225997
+              ],
+              [
+                5.503305028516501,
+                51.43480467435315
+              ],
+              [
+                5.499342951957209,
+                51.43539392290372
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Test 1234",
+          "description": "something",
+          "type": "project"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                5.499342951957209,
+                51.43539392290372
+              ],
+              [
+                5.499792299493587,
+                51.434504985986486
+              ],
+              [
+                5.49964059994155,
+                51.434024294837755
+              ],
+              [
+                5.50283363334547,
+                51.43357169225997
+              ],
+              [
+                5.503305028516501,
+                51.43480467435315
+              ],
+              [
+                5.499342951957209,
+                51.43539392290372
+              ]
+            ]
+          ]
+        }
+      },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Initiatief 1",
+        "description": "something",
+        "type": "initiatief",
+        "development_theme": "",
+        "development_started_date": "",
+        "image_url": "",
+        "nr_participans_wanted": "",
+        "types_of_participants": [
+          "Investors",
+          "Other"
+        ],
+        "interesting_areas": "",
+        "vision": "",
+        "author": "",
+        "created": "",
+        "modified": "",
+        "likes": 0,
+        "location": {
+          "street_name": "",
+          "house_letter": "",
+          "house_nr": "",
+          "post_code": "",
+          "plaats": ""
+        },
+        "contact_person": {
+          "first_name": "",
+          "last_name": "",
+          "organization": "",
+          "phone_nr": "",
+          "email": ""
+        },
+        "external_source": {
+          "title": "",
+          "description": "",
+          "url": "",
+          "image_url": ""
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.496876239776611,
+          51.43473495754186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.498507022857666,
+          51.43470820386411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.501081943511963,
+          51.434480796970405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.492691993713379,
+          51.43644716032945
+        ]
+      }
+    }
+  ]
+}

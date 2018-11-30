@@ -1,0 +1,26 @@
+{
+  "name": "kadaster-api",
+  "version": "0.1.0",
+  "description": "Kadaster API",
+  "author": "Semaku",
+  "license": "GPL",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "dotenv": "^4.0.0",
+    "h2o2": "^7.0.1",
+    "hapi": "^16.6.2",
+    "hapi-query-filters": "^1.0.1",
+    "hapi-swagger": "^7.0.0",
+    "inert": "^4.1.0",
+    "lodash": "^4.17.10",
+    "pg": "^6.1.4",
+    "request": "^2.87.0",
+    "uid-generator": "^1.0.0",
+    "vision": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  }
+}

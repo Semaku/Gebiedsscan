@@ -1,0 +1,79 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: kadaster-api
+  labels:
+    app: kadaster-api
+  namespace: test
+spec:
+  selector:
+    app: kadaster-api
+  ports:
+  - name: http
+    port: 3003
+
+--- 
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: kadaster-api
+  namespace: test
+  annotations:
+    kubernetes.io/ingress.class: nginx    
+    kubernetes.io/tls-acme: 'true'  
+    # type of authentication
+    
+spec:
+  rules:
+    - host: kadaster-api.test.semaku.com
+      http:
+        paths:
+          - backend:
+              serviceName: kadaster-api
+              servicePort: 3003
+            path: /
+  tls:    
+    - hosts:
+        - "kadaster-api.test.semaku.com"
+      secretName: kadaster-api-test-tls
+
+---
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata: 
+  labels: 
+    app: kadaster-api
+  name: kadaster-api
+  namespace: test
+spec: 
+  replicas: 1
+  revisionHistoryLimit: 2
+  selector: 
+    matchLabels: 
+      app: kadaster-api
+  template: 
+    metadata: 
+      labels: 
+        app: kadaster-api
+    spec: 
+      containers: 
+      - name: kadaster-api
+        image: "379628169750.dkr.ecr.eu-west-1.amazonaws.com/kadaster-api:latest"
+        imagePullPolicy: IfNotPresent
+        env: 
+        - name: NODE_ENV
+          value: production
+        - name: NODE_PORT
+          value: "3003"
+        - name: DB_USER
+          value: postgres
+        - name: DB_PASS
+          value: u7D9p4M1gUH6
+        - name: DB_HOST
+          value: postgres-postgresql.dev
+        - name: DB_PORT
+          value: "5432"
+        - name: DB_NAME
+          value: "kadaster-db"
+        ports: 
+        - containerPort: 3003

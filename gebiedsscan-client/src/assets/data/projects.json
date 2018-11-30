@@ -1,0 +1,2812 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 1,
+        "ID": 1,
+        "name": "Picus Kade",
+        "description": "Combineer de dynamiek van het centrum met je eigen plekje in PicusKade. Like de pagina en blijf betrokken bij alle ontwikkelingen.",
+        "short_description": "Wonen aan de rand van het centrum",
+        "category": "deelproject",
+        "extra_vision": "32 koopwoningen, 85 sociale huurstudio's, 18 sociale huurappartementen  en 113 huurappartementen in de vrije sector, parkeren in parkeergarage",
+        "start": "najaar 2017",
+        "status": "In ontwikkeling",
+        "oplevering": "2019",
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": 2,
+        "architecten": "DiederenDirrix (Eindhoven)",
+        "nr_participans_wanted": 5,
+        "interesting_areas": null,
+        "hero_image": "https://indebuurt.nl/eindhoven/wp-content/uploads/2017/09/picuskade.jpg",
+        "pano_id": "GzI9yV43l6Po5_e28_1ibA",
+        "development_theme": [
+          "Inclusiviteit"
+        ],
+        "woningtypen": [
+          ["stadswoningen", " koopwoningen", " huurwoningen"]
+        ],
+        "types_of_participants": [
+          ["Investors", " Other"]
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "post_code": "5613CM",
+              "street_name": "Villapark"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "organization": "Woningcorporatie Wooninc",
+              "phone_nr": "040 265 44 00",
+              "e_mail": "info@wooninc.nl"
+            },
+            {},
+            {}
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Hurks van start met bouw prestigieus PicusKade",
+              "resource_description": "Het team van Hurks is nu echt van start gegaan met de bouw van het prestigieuze (her)ontwikkelingsplan PicusKade in Eindhoven. Op de locatie tussen het DAF Museum en het NRE-terrein in Eindhoven aan het Eindhovensch Kanaal -- het oudste industrieterrein van Eindhoven -- is stilaan de bouwplaats in gereedheid gebracht voor deze omvangrijke investering van de opdrachtgevers. Deze week gaat de eerste paal de grond in.",
+              "resource_img_url": "http://www.hurks.nl/application/files/cache/f3d8af093c0bd69107f8e4d42c65af50.jpg",
+              "resource_url": "http://www.hurks.nl/nl/over-ons/nieuws/Hurks-start-met-bouw-van-prestigieus-PicusKade"
+            },
+            {
+              "resource_title": "PicusKade facebook",
+              "resource_description": "facebook page",
+              "resource_img_url": "https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/9766_674872939293679_2864153935746960373_n.jpg?oh=475d96b107ba752bb481eab65210bc8e&oe=5B4E30F4",
+              "resource_url": "https://nl-nl.facebook.com/PicusKade/"
+            },
+            {
+              "resource_title": "PicusKade koop",
+              "resource_img_url": "https://www.wooninc.nl/upload/housing/projects/15/header_1.jpg",
+              "resource_url": "https://www.wooninc.nl/woningaanbod/nieuwbouw/picuskade-koop/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {},
+            {},
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.4903945, 51.4370023],
+            [5.4884165, 51.437313],
+            [5.4884838, 51.4375316],
+            [5.4898734, 51.4383809],
+            [5.4901319, 51.4382665],
+            [5.4904214, 51.4383994],
+            [5.4911052, 51.4379041],
+            [5.4913795, 51.4380466],
+            [5.4918354, 51.4377322],
+            [5.4903945, 51.4370023]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 4,
+        "ID": 2,
+        "name": "Bosflat",
+        "description": "Er komt een groene toren op Strijp-S! Maar dan niet zoals de Groene Toren op de Vestdijk. Het wordt een zeventig meter hoge toren met 125 bomen 5200 planten. We krijgen een echt Bosco Verticale en die gaat Trudotoren heten.",
+        "short_description": "De bosflat van Trudo - Trudotoren",
+        "category": "initiatief",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": "2019",
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "http://www.klokgebouw.nl/timthumb/timthumb.php?src=http://www.klokgebouw.nl/uploads/nieuws/1378.jpg&w=681",
+        "pano_id": "0VGkBKNc0SOJf7MVqjzrlg",
+        "development_theme": [
+          "Innovatie"
+        ],
+        "woningtypen": [
+          "sociale huurwoningen"
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "street_name": "Strijp-S"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_url": "https://indebuurt.nl/eindhoven/wonen/trudo-gaat-een-bosflat-bouwen~16866/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.458559, 51.446993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 5,
+        "ID": 3,
+        "name": "Onyx",
+        "description": "De toren komt op de Mathildelaan, daar waar ooit de parkeerplaats van het voormalige Philips Lighting was. De woontoren is een onderdeel van het hele plan Victoriapark. De wolkenkrabber (maar dan moet er wel laaghangende bewolking zijn) is bij voltooiing over zo’n twee jaar 83 meter hoog. Dat is net zo hoog als de Kennedytoren, hoger dan de Petruskerk en The Student Hotel (beide ongeveer 76 meter) en net wat lager dan de Vestedatoren (90 meter).",
+        "short_description": "De Onyx toren onderdeel van het plan Victoriapark",
+        "category": "initiatief",
+        "extra_vision": "134 apartamenten",
+        "start": null,
+        "status": null,
+        "oplevering": "2020",
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://indebuurt.nl/eindhoven/wp-content/uploads/2017/04/onyx-800x500.jpeg",
+        "pano_id": "fSm2sjsP9ArghEwGCBrYJg",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          "huurappartementen"
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "post_code": "5611BM",
+              "street_name": "Mathildelaan"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_img_url": "https://indebuurt.nl/eindhoven/wp-content/uploads/2017/04/onyx-800x500.jpeg",
+              "resource_url": "https://indebuurt.nl/eindhoven/wonen/nieuwe-wolkenkrabber-eindhoven-onyx~2832/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.472773, 51.440847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 6,
+        "ID": 4,
+        "name": "Blok 59",
+        "description": "De steigers verdwijnen en we kunnen al een beetje een indruk krijgen van het voorlopig hoogste gebouw van Strijp-S. Blok 59 heeft het hoogste punt bereikt. “Een hotspot voor creativiteit en ontspanning”, dat moet het 19 verdiepingen tellende appartementengebouw uiteindelijk worden.",
+        "short_description": "Blok 59 een hotspot voor creativiteit en ontspanning",
+        "category": "initiatief",
+        "extra_vision": "156 appartementen",
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": 8,
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "http://www.sdkvastgoed.nl/cms_file.php?fromDB=3906&maxWidth=1500&maxHeight=1500",
+        "pano_id": "Z2USXtjv2kMbGa7sRuQabQ",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          "huurappartementen"
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "street_name": "Strijp-S"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_url": "https://indebuurt.nl/eindhoven/wonen/het-voorlopig-hoogste-punt-van-strijp-s-laat-zich-zien~16224/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.459184, 51.447694]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 7,
+        "ID": 5,
+        "name": "Stationsplein / District E",
+        "description": "Het Stationsplein wordt een bruisend gebied waar je kunt wonen, werken en uitgaan. En het is natuurlijk een prachtige eerste indruk van ons Eindhoven wanneer je uit het station loopt. Veel groen – en zelfs een palmboom – maken het, naast een mooi, ook een duurzaam gebied waarin alvast rekening is gehouden met de klimaatverandering. En natúúrlijk blijft Anton Philips zijn prominente plekje behouden. Hier vind je alle informatie over het project.",
+        "short_description": "Stationsplein als bruisend woon-, werk en uitgaansgebied",
+        "category": "project",
+        "extra_vision": "circa 450 woningen, De drie torens zijn tussen de 76 en 158 meter hoog. In de torens komen naast woningen ook lobby’s en dakterrassen voor werk, uitzicht en ontspanning.",
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://indebuurt.nl/eindhoven/wp-content/uploads/2017/06/station-1-800x500.jpg",
+        "pano_id": "sudZsSOwGbdx8Pp1MecOpQ",
+        "development_theme": [
+          "Inclusiviteit"
+        ],
+        "woningtypen": [
+          "sociale huurwoningen en vrije sector"
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "post_code": "5611AB",
+              "street_name": "Stationsplein"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_url": "https://indebuurt.nl/eindhoven/gemeente/nieuwe-plannen-stationsplein~5920/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.47936, 51.442037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 8,
+        "ID": 6,
+        "name": "Jazztempel",
+        "description": "In Eindhoven dient zich een kans aan het in de binnenstad aan de kop van het kanaal gelegen voormalige NRE-terrein te herontwikkelen. De ambitie is om een goede, op nationaal niveau bekende Jazz-club te realiseren: een podiumzaal voor de grotere optredens maar vooral ook een intiem restaurant waar gelijktijdig met het nuttigen van een maaltijd en een glas wijn of bier genoten kan worden van live uitgevoerde muziek. Een fantastische plek voor easy listening Jazz, Soul, Lounge en World Music.",
+        "short_description": "Een fantastische plek voor easy listening Jazz, Soul, Lounge en World Music.",
+        "category": "initiatief",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": "2018",
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": "De Bever architecten",
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://static1.squarespace.com/static/59a412c946c3c467e8ab942b/5a819551ec212d8118353b4c/5a819552f9619ab1a999ddb3/1518441812322/0010a%2C+www%2C+0010a%2C2014-10-9%2C+view+2.jpg?format=2500w",
+        "pano_id": "gp3Ukz9S2x6Qb9knL-RqBA",
+        "development_theme": [
+          "Inclusiviteit"
+        ],
+        "woningtypen": [
+          ["combinatie van Jazzclub met restaurant", " podiumzaal en brouwerijcafé"]
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "street_name": "voormalig NRE-terrein, Nachtegaallaan"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_url": "http://www.debeverarchitecten.nl/index.php?pag=2&sub=4&id=71&nav=1&info=1"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.488522, 51.438349]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 9,
+        "ID": 7,
+        "name": "Mariënhage",
+        "description": "Cooperatie DELA start begin dit jaar met de renovatie en herontwikkeling van het gebied Mariënhage. Als in 2019 alles klaar is dan heeft het stadshart van Eindhoven een eigentijdse plek voor ontmoeting, verbinding en verdieping. DELA nam het gebied met bijbehorende gebouwen over van de Orde der Augustijnen en de gemeente Eindhoven.",
+        "short_description": "Een eigentijdse plek voor ontmoeting, verbinding en verdieping",
+        "category": "initiatief",
+        "extra_vision": "Zakelijk, 9.200 m2, Multifunctioneel\r\nWerken\r\nOntspannen\r\nLeren & Ontmoeten",
+        "start": "januari 2014",
+        "status": "In ontwikkeling",
+        "oplevering": "2019",
+        "author": null,
+        "created": 2013,
+        "modified": null,
+        "likes_shares": 5,
+        "architecten": null,
+        "nr_participans_wanted": 2,
+        "interesting_areas": null,
+        "hero_image": "https://www.dela.nl/-/media/images/headers/marienhage_header2.jpg?la=nl-nl&hash=4ED3FBA66BBD308F2E43451E281FB2771571CBC6",
+        "pano_id": "kLPQuazs3SWxoBd5R4qfcQ",
+        "development_theme": [
+          "Inclusiviteit"
+        ],
+        "woningtypen": [
+          ["ceremoniehuis", " Multifunctioneel", " Werken", "\r\nOntspannen", " Leren", " Ontmoeten"]
+        ],
+        "types_of_participants": [
+          "Other"
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "post_code": "5611CT",
+              "street_name": "Kanaalstraat",
+              "house_number": 4
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "first_name": "Bert",
+              "last_name": "Dirrix",
+              "organization": "Diederendirrix",
+              "phone_nr": "+31 (0)40 26 06 740",
+              "e_mail": "b.dirrix@diederendirrix.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Marienhage",
+              "resource_description": "Eén van de oudste verborgen pareltjes van Eindhoven, het ensemble van gebouwen van kloostercomplex Mariënhage wordt gerenoveerd, uitgebreid en herbestemd tot ceremoniehuis en congrescentrum DELAmondo. In opdracht van coöperatie DELA wordt in de Paterskerk en de Studentenkapel een eigentijdse plek gecreëerd die niet alleen herinneringen ademt, maar ook ruimte biedt aan een uiteenlopend programma voor rouw- en trouwplechtigheden, concerten, congressen, lezingen en kerkdiensten. In het voormalig jongensinternaat en gymnasium,  Augustinianum, wordt een conferentiehotel met 66 kamers ingericht; de benedenverdieping van de Studentenkapel biedt ruimte voor een restaurant.",
+              "resource_img_url": "http://www.diederendirrix.nl/website/wp-content/uploads/2017/05/Marienhage_1600px-500x500.jpg",
+              "resource_url": "https://www.dela.nl/over-dela/marienhage, http://www.diederendirrix.nl/nl/projecten/marienhage/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.484402, 51.438046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 10,
+        "ID": 8,
+        "name": "De Bunker",
+        "description": "Een hoge toren op, of eigenlijk in de Bunker. In juli kunnen we de bouwhelmen bij de John F. Kennedylaan verwachten.",
+        "short_description": "De Bunker woontoren",
+        "category": "initiatief",
+        "extra_vision": "210 woningen, kantoorruimte, horeca",
+        "start": "2016",
+        "status": "In ontwikkeling",
+        "oplevering": "2020",
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": 7,
+        "architecten": null,
+        "nr_participans_wanted": 4,
+        "interesting_areas": null,
+        "hero_image": "http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/v1/103636/Bunker_Tower03_Credit_Powerhouse_Company_en_DELVA_fgb9jf.jpg",
+        "pano_id": "nFZn_zTbSlYEvbIWwRHC9g",
+        "development_theme": [
+          ["Duurzamheid", " Inclusiviteit"]
+        ],
+        "woningtypen": [
+          ["woningen", " kantoren", " horeca voorziening", " parkeren"]
+        ],
+        "types_of_participants": [
+          ["Investors", " Other"]
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "post_code": "5612AB",
+              "street_name": "John F Kennedylaan",
+              "house_number": 3
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "organization": "Being Development",
+              "phone_nr": "020-8202181",
+              "e_mail": "info@beingdevelopment.nl"
+            },
+            {
+              "organization": "RED Company",
+              "phone_nr": "+31 (0)10 303 75 33",
+              "e_mail": "contact@realedc.com"
+            },
+            {
+              "organization": "Powerhouse Company",
+              "phone_nr": "31 10 404 67 89",
+              "e_mail": "office@powerhouse-company.com"
+            },
+            {
+              "organization": "Delva architecten",
+              "phone_nr": "31 (0)20 220 90 78",
+              "e_mail": "info@delva.la"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "De Bunker",
+              "resource_description": "web site of the Bunker",
+              "resource_img_url": "http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1920,f_auto,q_auto/v1/103636/Bunker_Tower01_Credit_Powerhouse_Company_lh8bzr.jpg",
+              "resource_url": "http://www.debunkereindhoven.nl/"
+            },
+            {},
+            {},
+            {}
+          ]
+        ],
+        "comments": [
+          [
+            {},
+            {},
+            {},
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.479756, 51.44709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 14,
+        "ID": 9,
+        "name": "Kanaalzone Noord",
+        "description": "Inhoud benodigd van de gemeente",
+        "short_description": "Inhoud benodigd van de gemeente",
+        "category": "project",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://delva.la/wp-content/uploads/2017/09/DELVA-Landscape-Architects-Amsterdam-Antwerpen-Steven-Delva-BPD-Boei-studioninedots-Coberco-Eindhoven-Campina3.jpg",
+        "pano_id": "fR66tYrnm5iBOah3ggCznw",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "street_name": "Kanaalzone"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {}
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.5043452, 51.4364944],
+            [5.5036646, 51.4350748],
+            [5.4934974, 51.4365224],
+            [5.4928342, 51.4376979],
+            [5.4936469, 51.4381419],
+            [5.4949161, 51.4388148],
+            [5.4964922, 51.4376319],
+            [5.5043452, 51.4364944]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 15,
+        "ID": 10,
+        "name": "Kanaalzone Zuid",
+        "description": "Dit was het terrein van de zuivelfabriek van Campina. De gemeente maakte deze week bekend dat dit een duurzame plek voor wonen, werken en recreëren.  De karakteristieke historische fabrieksgebouwen van Campina gaan samen de Zuivelfabriek vormen, het multifunctionele hart van de nieuwe wijk. Dit wordt een autovrije plek, zonder traditionele straten en stoepen, maar met ‘shared spaces’ die aanleiding geven voor ontmoeting, zo legt de gemeente uit. En we zien weer bootjes op het kanaal!",
+        "short_description": "De Zuivelfabriek",
+        "category": "project",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://indebuurt.nl/eindhoven/wp-content/uploads/2017/09/zuivelfabriek.jpg",
+        "pano_id": "M6QAGjMrERTJcvlM_-SSiw",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          "multifunctionele hart van de nieuwe wijk"
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "street_name": "Kanaalzone"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Het Eindhovens Kanaal wordt het tofste stukje Eindhoven en wel hierom",
+              "resource_description": "in de buurt article",
+              "resource_img_url": "https://indebuurt.nl/eindhoven/wp-content/uploads/2017/09/zuivelfabriek.jpg",
+              "resource_url": "https://indebuurt.nl/eindhoven/wonen/eindhovens-kanaal-wordt-tofste-stukje-eindhoven-en-wel-hierom~12159/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.4912799, 51.4366126],
+            [5.4913925, 51.4368219],
+            [5.5036646, 51.4350748],
+            [5.5029427, 51.4333535],
+            [5.4928156, 51.4348614],
+            [5.4916852, 51.4359667],
+            [5.4912799, 51.4366126]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 16,
+        "ID": 11,
+        "name": "Kop van het kanaal",
+        "description": "De ontwikkelingen rond de kop van het Eindhovensch Kanaal zijn in ontwikkeling. Diverse bouwplannen en de ontwikkeling van het NRE daar komen nu van de grond.",
+        "short_description": "Een plan in ontwikkeling",
+        "category": "deelproject",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": "n/a",
+        "author": null,
+        "created": 2015,
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://images2.persgroep.net/rcs/6YEw1q3f6WKSrmi9-GQvLW-biI8/diocontent/70927513/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+        "pano_id": "zjQwCbBr7JraZO-B2Ixt0Q",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Discussieavond over kop van kanaal in Eindhoven",
+              "resource_description": "EINDHOVEN <U+0096> De ontwikkelingen rond de kop van het Eindhovensch Kanaal zijn maandag 10 oktober onderwerp van een discussieavond van het Architectuurcentrum Eindhoven. Diverse bouwplannen en de ontwikkeling van het NRE daar komen nu van de grond.",
+              "resource_img_url": "https://images2.persgroep.net/rcs/6YEw1q3f6WKSrmi9-GQvLW-biI8/diocontent/70927513/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+              "resource_url": "https://www.ed.nl/default/discussieavond-over-kop-van-kanaal-in-eindhoven~a858d2f9/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.4877287, 51.4377093],
+            [5.4880839, 51.4375666],
+            [5.4882119, 51.4376638],
+            [5.4884838, 51.4375316],
+            [5.4882936, 51.4369137],
+            [5.4877327, 51.4369975],
+            [5.4867544, 51.436738],
+            [5.4866268, 51.4368075],
+            [5.4865267, 51.4367763],
+            [5.4863607, 51.4370647],
+            [5.4863165, 51.4371897],
+            [5.4853834, 51.4373051],
+            [5.4861023, 51.4383426],
+            [5.4870568, 51.4378696],
+            [5.4869898, 51.4376752],
+            [5.4876784, 51.4375739],
+            [5.4877287, 51.4377093]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 17,
+        "ID": 12,
+        "name": "DolmusDela",
+        "description": "DELAmondo: Een nieuwe eenheid van de Eindhovense Paterskerk, het oude Augustinianum en de Studentenkapel.",
+        "short_description": "Eindhovense Paterskerk, het oude Augustinianum en de Studentenkapel",
+        "category": "deelproject",
+        "extra_vision": null,
+        "start": null,
+        "status": "In ontwikkeling",
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://www.hvm.nl//dynamic/media/92/images/Projecten/Dela%201.jpg",
+        "pano_id": "pAlpZqYU6c9cfOsaKMtjRw",
+        "development_theme": [
+          "Inclusiviteit"
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          ["Investors", " Other"]
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "organization": "cooperatie Dela",
+              "phone_nr": "040 260 16 36"
+            },
+            {},
+            {}
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Marienhage",
+              "resource_url": "http://www.diederendirrix.nl/nl/projecten/marienhage/"
+            },
+            {
+              "resource_title": "DELA realiseert ceremoniehuis",
+              "resource_description": "youtube link",
+              "resource_url": "https://www.youtube.com/watch?v=R_KnrzTaHCc"
+            },
+            {
+              "resource_title": "Verbinden",
+              "resource_description": "DELAmondo: Een nieuwe eenheid van de\r\nEindhovense Paterskerk, het oude Augustinianum\r\nen de Studentenkapel.",
+              "resource_url": "https://eindhoven.raadsinformatie.nl/document/1711507/1/document"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {},
+            {},
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.4852507, 51.4388665],
+            [5.4855266, 51.4388306],
+            [5.4856216, 51.4387711],
+            [5.4862113, 51.438729],
+            [5.4864014, 51.4386515],
+            [5.4861726, 51.4384376],
+            [5.4861023, 51.4383426],
+            [5.4853834, 51.4373051],
+            [5.482852, 51.4382264],
+            [5.4830237, 51.4384046],
+            [5.4835751, 51.4382496],
+            [5.4837182, 51.4384278],
+            [5.4836618, 51.4387787],
+            [5.4844135, 51.4388553],
+            [5.4844395, 51.4387412],
+            [5.4843174, 51.4383679],
+            [5.4850593, 51.4383078],
+            [5.4851053, 51.4383094],
+            [5.4851639, 51.4383136],
+            [5.4852412, 51.4388308],
+            [5.4852507, 51.4388665]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 20,
+        "ID": 13,
+        "name": "NRE terrein",
+        "description": "Made by NRE, dat is de titel van het woon-werk-project dat de grote open plek op het NRE-terrein gaat opvullen. Daar komen vier nieuwe gebouwen met 13 woningen, bedrijven, ambachtelijke en creatieve werkplekken, een expositieruimte, een klein hotel en parkeervoorzieningen.",
+        "short_description": "Woningen, bedrijven een klein hotel en parkeervoorzieningen",
+        "category": "deelproject",
+        "extra_vision": "De vier verschillende gebouwen krijgen hun eigen functie, in totaal met 5000 vierkante meter vloeroppervlak. De 2000 vierkante meter grond wordt daarmee behoorlijk volgebouwd.",
+        "start": "2018",
+        "status": null,
+        "oplevering": "2020",
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://vastgoed.eindhoven.nl/sites/default/files/objecten/gebouw_3_luchtfoto.jpg",
+        "pano_id": "o823NDbNzkOSUKj9WZIzQQ",
+        "development_theme": [
+          ["Duurzamheid", " Inclusiviteit\r\n\r\n"]
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          ["Investors", " Ontwikkelaars", " Other"]
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "street_name": "NRE-terrein"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            },
+            {}
+          ]
+        ],
+        "external": [
+          [
+            {},
+            {
+              "resource_title": "NRE-terrein Eindhoven",
+              "resource_description": "NRE terrein presentation",
+              "resource_url": "https://prezi.com/lgnr99joaeed/nre-terrein-eindhoven/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {},
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.4898734, 51.4383809],
+            [5.4884838, 51.4375316],
+            [5.488135, 51.4377173],
+            [5.488398, 51.4379168],
+            [5.4872576, 51.4384886],
+            [5.4873263, 51.4385599],
+            [5.487064, 51.4386885],
+            [5.4874871, 51.4390164],
+            [5.4876359, 51.4391946],
+            [5.4876707, 51.43943],
+            [5.4883555, 51.4393438],
+            [5.4884354, 51.4393509],
+            [5.4888117, 51.4391579],
+            [5.4892462, 51.4394429],
+            [5.4898732, 51.43905],
+            [5.4896446, 51.4389289],
+            [5.4900321, 51.4386574],
+            [5.4902951, 51.4388356],
+            [5.490523, 51.4386784],
+            [5.4898734, 51.4383809]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 22,
+        "ID": 14,
+        "name": "Made by NRE",
+        "description": "Het plan van collectief ‘Made by NRE’ en Houben/Van Mierlo architecten is door gemeente Eindhoven geselecteerd als winnaar voor de herontwikkeling van de laatste vier kavels op het NRE-terrein in Eindhoven.",
+        "short_description": "Herontwikkeling van de laatste vier kavels op het NRE-terrein",
+        "category": "initiatief",
+        "extra_vision": null,
+        "start": "2018",
+        "status": "2018 moet de vergunning aangevraagd worden, in 2019 kan er dan gebouwd worden",
+        "oplevering": "2020",
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://images3.persgroep.net/rcs/5FpMEVyQoYtDut5iwcUq5bqNhJ8/diocontent/115437575/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+        "pano_id": "I101FD1TaT5GCk4S0Pgu0g",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "street_name": "NRE-terrein"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Made by NRE",
+              "resource_description": "Wonen én werken in Made by NRE, slotstuk van het NRE-terrein in Eindhoven",
+              "resource_img_url": "https://images3.persgroep.net/rcs/5FpMEVyQoYtDut5iwcUq5bqNhJ8/diocontent/115437575/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+              "resource_url": "https://www.ed.nl/eindhoven/wonen-eneacute-n-werken-in-made-by-nre-slotstuk-van-het-nre-terrein-in-eindhoven~a69e6449/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.488136, 51.438234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 23,
+        "ID": 15,
+        "name": "NRE-Terrein Openbare ruimte",
+        "description": "De bijzondere aantrekkingskracht van het NRE-terrein wordt gemaakt door een aan aantal specifieke (ruimtelijke) kenmerken. Kenmerken die de afgelopen 100 jaar gevormd zijn. De belangrijkste zijn de basis voor het inrichtingsplan openbare ruimte: werkende weefsel, werkvloer met actieve plint, functioneel en industrieel, NRE-groen, taferelen, beleefbare karakteristiek.",
+        "short_description": "Functioneel en industrieel, NRE-groen, taferelen en meer…",
+        "category": "initiatief",
+        "extra_vision": "opdrachtgever gemeente Eindhoven\r\nteam Tom van Tuijn, Edith Kolkman\r\ngrootte 2,2 ha",
+        "start": "2015",
+        "status": null,
+        "oplevering": "2017",
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://static1.squarespace.com/static/53ce2991e4b0efb67d703e05/t/5829eea9725e259c85652b2b/1479143096878/?format=2500w",
+        "pano_id": "aJky9q58Qcq7ZYU_PuS-mA",
+        "development_theme": [
+          "Inclusiviteit"
+        ],
+        "woningtypen": [
+          "openbare ruimte"
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "street_name": "Gasfabriek"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "first_name": "Tom",
+              "last_name": "van Tuijn",
+              "organization": "TOM VAN TUIJN STEDENBOUW",
+              "phone_nr": "0031 6 212 212 39",
+              "e_mail": "info@tomvantuijn.com"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "NRE-terrein Eindhoven Openbare Ruimte",
+              "resource_description": "project pagina",
+              "resource_img_url": "https://static1.squarespace.com/static/53ce2991e4b0efb67d703e05/t/5829eea9725e259c85652b2b/1479143096878/?format=2500w",
+              "resource_url": "https://www.tomvantuijn.com/nreterrein-openbare-ruimte/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.488136, 51.438234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 24,
+        "ID": 16,
+        "name": "Groene bergen / Deken van Somerenstraat",
+        "description": "SDK Vastgoed mag het plan Nieuw Bergen gaan ontwikkelen in de Deken Van Somerenstraat in Eindhoven. Niet alleen het bewonerscomité, ook de ambtelijke selectiecommissie én het college van B en W kozen het plan als winnaar van de prijsvraag.",
+        "short_description": "SDK Vastgoed mag dit gebied gaan ontwikkelen",
+        "category": "initiatief",
+        "extra_vision": "kleinere woonblokken met in totaal 246 woningen\r\n",
+        "start": "2017",
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": "FAAM Architects",
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://images4.persgroep.net/rcs/S5I0XQ9FSBO_C-K1jokg6tFGidM/diocontent/106953549/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+        "pano_id": "MWGF2bnEvAklo-exd6bNAQ",
+        "development_theme": [
+          ["Inclusiviteit", " Innovatie"]
+        ],
+        "woningtypen": [
+          "woonblokken"
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "street_name": "Deken van Somewrenstraat"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "organization": "Arom ruimtelijk advies",
+              "phone_nr": "31 (0)40 782 0660",
+              "e_mail": "w@arom.nl"
+            },
+            {
+              "organization": "FAAM Architects",
+              "phone_nr": "31(40) 296 33 96",
+              "e_mail": "info@faamarchitects.nl"
+            },
+            {
+              "organization": "Stuyvesant"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Bergen Binnen",
+              "resource_img_url": "https://static1.squarespace.com/static/53ce2991e4b0efb67d703e05/t/59302d85d1758e61d78f055d/1496329647704/?format=2500w",
+              "resource_url": "https://www.tomvantuijn.com/deken-van-somerenstraat/"
+            },
+            {
+              "resource_title": "SDK Vastgoed 'wint' project Deken Van Somerenstraat Eindhoven",
+              "resource_img_url": "https://images3.persgroep.net/rcs/p7S2rHRoCaf7_7YNEUaLF2cQtG0/diocontent/106959255/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+              "resource_url": "https://www.ed.nl/eindhoven/sdk-vastgoed-wint-project-deken-van-somerenstraat-eindhoven~a4340b03/"
+            },
+            {}
+          ]
+        ],
+        "comments": [
+          [
+            {},
+            {},
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.47508, 51.435221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 27,
+        "ID": 17,
+        "name": "Fifth",
+        "description": "Eindhovense nostalgie, historische waarde en jarenlange ervaring op gebied evenementen bundelen zich op de meest energieke plek ‘down town’ Eindhoven.",
+        "short_description": "De meest energieke plek ‘down town’ Eindhoven",
+        "category": "initiatief",
+        "extra_vision": "FIFTH | NRE is een geweldige aanwinst als evenementenlocatie voor Eindhoven, waar bijzondere evenementen en ontvangsten gefaciliteerd kunnen worden. Eigenschappen als flexibiliteit, creativiteit, meedenken, oplossend vermogen, dienstbaar en gastvrij is ons op het lijf geschreven. Ontzorgen waar mogelijk en wensen realiseren.",
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "http://www.fifthnre.com/wp-content/uploads/2015/04/slider-02-eventlocatie-eindhoven-centrum-fifth-nre-terrein-industrieel-locatie.jpg",
+        "pano_id": "auaWDeBuGM1xg31rARDnGQ",
+        "development_theme": [
+          "Inclusiviteit"
+        ],
+        "woningtypen": [
+          ["Dinner", " drinks", " jazz music"]
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "post_code": "5613CM",
+              "street_name": "Gasfabriek ",
+              "house_number": 5
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "phone_nr": "0499 375 537",
+              "e_mail": "info@fifthnre.com"
+            },
+            {}
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "The Fifth",
+              "resource_description": "web site",
+              "resource_img_url": "https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/27067265_1518615428207798_4734320782778103801_n.jpg?oh=bb12247e33e3f21a3437fccb644b62cf&oe=5AFFF7D8",
+              "resource_url": "http://www.fifthnre.com/"
+            },
+            {
+              "resource_title": "The Fifth facebook",
+              "resource_description": "facebook page",
+              "resource_img_url": "https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/15873137_1168806329855378_755828171203588614_n.png?oh=10dc4668302bbe4eb92c05eafdac8c60&oe=5B1537C4",
+              "resource_url": "https://nl-nl.facebook.com/FIFTHNRE/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {},
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4898599, 51.4383434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 29,
+        "ID": 18,
+        "name": "dok40eindhoven",
+        "description": "Dok40 is wonen direct tegen de binnenstad, in een urban en industriële omgeving. Waar je geniet van alles dat Eindhoven te bieden heeft. Van Fifth NRE aan de overkant, de restaurantjes in de Bergen tot de Urban Shopper op Strijp-S; je bent er in no time.",
+        "short_description": "Wonen direct tegen de binnenstad, in een urban en industriële omgeving",
+        "category": "deelproject",
+        "extra_vision": "18 ruime stadswoningen\r\n2 STADSVILLA'S\r\n38 appartementen\r\nVan de 38 appartementen zijn er 11 SPECIALS waarvan 7 loftappartementen",
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://www.dok40eindhoven.nl/cms_file.php?fromDB=3836&width=&height=&forceJPEG&jpegQuality=90",
+        "pano_id": "hj0IBSvCtzw4i9X-R4__xQ",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          ["stadswoningen", " apartamenten"]
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "https://www.dok40eindhoven.nl/contact/"
+            },
+            {}
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "DOK 40",
+              "resource_description": "web site",
+              "resource_img_url": "https://www.dok40eindhoven.nl/cms_file.php?fromDB=3835&width=&height=&forceJPEG&jpegQuality=90",
+              "resource_url": "https://www.dok40eindhoven.nl/"
+            },
+            {
+              "resource_title": "Vansantvoort DOK 40",
+              "resource_img_url": "https://www.vansantvoort.nl/wp-content/uploads/48215978-768x543.jpeg",
+              "resource_url": "https://www.vansantvoort.nl/nieuwbouw-project/eindhoven-dok40/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {},
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.487896, 51.4369731],
+            [5.4878303, 51.4368038],
+            [5.4891919, 51.4365834],
+            [5.4874201, 51.4357031],
+            [5.4867544, 51.436738],
+            [5.4877327, 51.4369975],
+            [5.487896, 51.4369731]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": 31,
+        "ID": 19,
+        "name": "Milieustraat Eindhoven",
+        "description": "Nu is er nog de milieustraat voor Eindhoven-zuid gevestigd, maar over een paar jaar zou het terrein op de hoek Gabriël Metsulaan-Kanaaldijk-Zuid omgetoverd moeten zijn in een 'creatief industrieterrein'.",
+        "short_description": "Een 'creatief industrieterrein'",
+        "category": "deelproject",
+        "extra_vision": "Milieustraat Eindhoven wordt mogelijk'creatief industrieterrein'",
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://images4.persgroep.net/rcs/e4IUP9YGTfDyIbRUn8A9pYCY4LM/diocontent/106914391/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+        "pano_id": "RMHFjX6XDAQajgbJEPqltQ",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "post_code": "5613LC",
+              "street_name": "Gabriël Metsulaan"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Milieustraat Eindhoven wordt mogelijk'creatief industrieterrein'",
+              "resource_description": "ED news",
+              "resource_img_url": "https://images4.persgroep.net/rcs/e4IUP9YGTfDyIbRUn8A9pYCY4LM/diocontent/106914391/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+              "resource_url": "https://www.ed.nl/eindhoven/milieustraat-eindhoven-wordt-mogelijk-creatief-industrieterrein~a8e24bfc/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.4979219, 51.4355939],
+            [5.4976862, 51.4349356],
+            [5.4956131, 51.4352198],
+            [5.4958321, 51.4358885],
+            [5.4979219, 51.4355939]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": "NA",
+        "ID": 20,
+        "name": "Kiki en Joost",
+        "description": "Ontwerpersduo Kiki van Eijk en Joost van Bleiswijk hoopt dat ze begin 2018 kunnen beginnen met de verbouwing van hun nieuwe werkplek aan de Gabriël Metsulaan in Eindhoven. Om die vervolgens uit te bouwen tot een nieuwe creatieve hotspot.",
+        "short_description": "Van ontwerpersduo Kiki van Eijk en Joost van Bleiswijk",
+        "category": "initiatief",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://images3.persgroep.net/rcs/DTpi1EPhaelZfIoxjlXzpNfK_Tg/diocontent/115931235/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+        "pano_id": "oBWv6mhhRQRSOsVGT8QKJA",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "post_code": "5613LC",
+              "street_name": "Gabriël Metsulaan",
+              "house_number": 1
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Ontwerpers Kiki en Joost die locatie Pizza Geert overnemen: ‘Dit is goed voor de stad’",
+              "resource_description": "ED news",
+              "resource_img_url": "https://images0.persgroep.net/rcs/sLHZpOI1Vu0sjS32Iowba_buZbc/diocontent/115931226/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+              "resource_url": "https://www.ed.nl/eindhoven/ontwerpers-kiki-en-joost-die-locatie-pizza-geert-overnemen-enlsquo-dit-is-goed-voor-de-stadenrsquo~a2f45f40/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.495954, 51.435701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": "NA",
+        "ID": 21,
+        "name": "Campina terrein - De Zuivelfabriek",
+        "description": "In Eindhoven ontstaat een nieuw stuk stad dat begint bij het Campinaterrein. Van hieruit verandert de kanaalzone in een gebied met meer diversiteit. Wonen, werken en elkaar ontmoeten zijn belangrijke pijlers in de toekomst. Eén ding is zeker; het wordt een bruisende plek en een bron van nieuwe energie en inzichten.",
+        "short_description": "Een bruisende plek en een bron van nieuwe energie en inzichten",
+        "category": "deelproject",
+        "extra_vision": null,
+        "start": null,
+        "status": "Wijk in ontwikkeling",
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://www.zuivelfabriekeindhoven.nl/media/131560/nieuwbouw-eindhoven-campina-collage-pleinview-2.jpg",
+        "pano_id": "apzKHT5P79vEeOxUShEkzw",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          "n/a"
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven",
+              "post_code": "5613LH",
+              "street_name": "Dirk Boutslaan",
+              "house_number": 2
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            },
+            {}
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Campinaterrein Eindhoven",
+              "resource_img_url": "https://www.zuivelfabriekeindhoven.nl/media/131561/nieuwbouw-eindhoven-campina-collage-vogelvlucht.jpg",
+              "resource_url": "https://www.zuivelfabriekeindhoven.nl/?gclid=EAIaIQobChMIhfqToZPf2AIVgzgbCh1GTQixEAAYASAAEgIM_vD_BwE"
+            },
+            {
+              "resource_title": "BPD gaat Campinaterrein Eindhoven omvormen tot wijkje De Zuivelfabriek",
+              "resource_img_url": "https://images4.persgroep.net/rcs/4N8D2SrulGTdo0VYDhME6M4_dvs/diocontent/100580990/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+              "resource_url": "https://www.ed.nl/eindhoven/bpd-gaat-campinaterrein-eindhoven-omvormen-tot-wijkje-de-zuivelfabriek~a809bc34/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {},
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.499343, 51.4353939],
+            [5.503305, 51.4348047],
+            [5.5028336, 51.4335717],
+            [5.4996406, 51.4340243],
+            [5.4997923, 51.434505],
+            [5.499343, 51.4353939]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": "NA",
+        "ID": 22,
+        "name": "Augustinianum Woningbouw",
+        "description": "Al sinds 1959 kijken we vanaf de Geldropseweg naar de gebouwen van het Augustinianum. De oudste middelbare school van Eindhoven. Dit jaar verhuist de school naar een fantastisch nieuw gebouw aan de oostelijke rand van het terrein.\r\n\r\nDe rest van deze prachtige locatie wordt door Hurks uit Eindhoven ontwikkeld tot een nieuwe, kleinschalige woonwijk. Waar historie voelbaar en zichtbaar is. Waar ruimte is. En groen. Waar bijzondere huizen komen. Waar een nieuwe toekomst wacht. Een eigenzinnige plek die Augustus gaat heten. Wonen in Augustus kan straks. Interesse tonen, inschrijven en Augustus volgen kan hier en nu.",
+        "short_description": "Woningen bij het Augustinianum",
+        "category": "deelproject",
+        "extra_vision": "Hurks uit Eindhoven ontwikkeld deze locatie tot een nieuwe, kleinschalige woonwijk. Waar historie voelbaar en zichtbaar is. Waar ruimte is. En groen. Waar bijzondere huizen komen",
+        "start": null,
+        "status": "positief beoordeeld",
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://scontent-ams3-1.xx.fbcdn.net/v/t31.0-8/19984072_276313936169810_8722748487209193802_o.jpg?oh=7de2a7e21de86a46e2f0f96ec17a1335&oe=5B130979",
+        "pano_id": "GES4xDwiAKaNiIMVPXqyQg",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "organization": "Hurks",
+              "phone_nr": "040 262 61 00",
+              "e_mail": "info@hurks.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Buren Kleuren Augustus",
+              "resource_description": "Al sinds 1959 kijken we vanaf de Geldropseweg naar de gebouwen van het Augustinianum. De oudste middelbare school van Eindhoven. Dit jaar verhuist de school naar een fantastisch nieuw gebouw aan de oostelijke rand van het terrein.",
+              "resource_img_url": "https://www.woneninaugustus.nl/media/c4/c46e251dbe6d04a2543b8282ff486eb7/o/augustus-buurtverkenning-base-20170506-48.jpg",
+              "resource_url": "https://www.woneninaugustus.nl/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.4996021, 51.433851],
+            [5.4990331, 51.4319865],
+            [5.4968645, 51.4322689],
+            [5.4972339, 51.4332779],
+            [5.497927, 51.4332059],
+            [5.4980995, 51.4337359],
+            [5.498336, 51.4337051],
+            [5.4984605, 51.434021],
+            [5.4996021, 51.433851]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": "NA",
+        "ID": 23,
+        "name": "Augustinianum school",
+        "description": "Het Augustinianum staat in Eindhoven bekend als ‘school voor slimme leerlingen’. De ambitie van de school is om naast gedegen onderwijs ook sport, drama en popmuziek in te zetten als beeldmerk. Een school die uitstraalt waar hij voor staat en inhoud geeft aan het lesprogramma.\r\n\r\nCentraal ontwerpidee voor deze nieuwbouw was de Agora. De Agora, letterlijk ‘verzamelplaats.’ was in veel Griekse steden de plek waar handel werd gedreven en waar men elkaar ontmoette. In het Augustinianum dient de Agora als symbool voor ontmoeting, gelegen in het hart van de school. Rondom deze ruimte liggen op verschillende verdiepingen de diverse ‘Vakdomeinen’ gericht op alfa, bèta en gamma.",
+        "short_description": "De oudste middelbare school van Eindhoven",
+        "category": "deelproject",
+        "extra_vision": "Nieuwbouw van een school voor Havo, Atheneum en Gymnasium onderwijs\r\nIn samenwerking met: Studio Leon Thier\r\nOpdrachtgever: Augustinianum / Stichting Carmel College\r\nBruto Vloeroppervlakte: 9330 m2\r\nInterieur architect: De Kliuw",
+        "start": "40544",
+        "status": null,
+        "oplevering": "42917",
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": "Architecten-En-En",
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://images.adsttc.com/media/images/5a6a/7ca7/f197/ccbe/7700/03ea/newsletter/EnEn_Augustinianum_BASE_16.jpg?1516928158",
+        "pano_id": "zSUVjL8-4YFQeVPJh-Hcmg",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "organization": "Studio Leon Thier",
+              "phone_nr": "31 (0)70 358 40 00",
+              "e_mail": "info@studioleonthier.nl"
+            },
+            {
+              "organization": "www.architecten-en-en.nl",
+              "phone_nr": "040 246 27 28",
+              "e_mail": "info@architecten-en-en.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Augustinianum Eindhoven",
+              "resource_img_url": "http://www.architecten-en-en.nl/images/frontend/bgfader/78/afbeeldingen/EnEn_Augustinianum_BASE_11.jpg",
+              "resource_url": "http://www.architecten-en-en.nl/projecten/onderwijs/augustinianum-eindhoven.html\r\n"
+            },
+            {
+              "resource_title": "Drukte in de gangen van het nieuwe Augustinianum Eindhoven",
+              "resource_img_url": "https://images1.persgroep.net/rcs/0td5xWt78921QX2ysfFmvLJvWvs/diocontent/114209541/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+              "resource_url": "https://www.ed.nl/eindhoven/drukte-in-de-gangen-van-het-nieuwe-augustinianum-eindhoven~a45ce5c2/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {},
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.5013874, 51.4335851],
+            [5.5007451, 51.4317249],
+            [5.4990331, 51.4319865],
+            [5.4996021, 51.433851],
+            [5.5013874, 51.4335851]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": "NA",
+        "ID": 24,
+        "name": "Merwedekanaalzone",
+        "description": "De Merwedekanaalzone is een gebied van Punt Oog in Al tot en met Westraven. Het gebied waar vooral veel gaat veranderen, is ongeveer 60 hectare groot en ligt tussen de Dr. M.A. Tellegenlaan en de A12. Het wordt een stadswijk waar mensen met plezier kunnen wonen, werken en ontspannen.",
+        "short_description": "Een stadswijk waar mensen met plezier kunnen wonen, werken en ontspannen",
+        "category": "project",
+        "extra_vision": "Onderzocht wordt of het gebied kan veranderen en of er tot ongeveer 2030 tussen de 6.000 tot 10.000 woningen gebouwd kunnen worden. Dit zijn vooral koop- en huurappartementen maar ook eengezinswoningen. Zo bouwt Utrecht aan een gezonde en duurzame stad voor de toekomst. Een compacte stad die tot 2030 groeit van 340.000 naar 410.000 inwoners.",
+        "start": null,
+        "status": null,
+        "oplevering": "2030",
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://www.utrecht.nl/uploads/tx_templavoila/2017-03-Merwedekanaal-Luchtfoto-snij.jpg",
+        "pano_id": "p398y5lWoy37-MmNoK1Btg",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Utrecht"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "phone_nr": "14 030",
+              "e_mail": "merwedekanaalzone@utrecht.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_title": "Merwedekanaalzone",
+              "resource_img_url": "https://www.utrecht.nl/uploads/tx_templavoila/2017-03-Merwedekanaal-Luchtfoto-snij.jpg",
+              "resource_url": "https://www.utrecht.nl/wonen-en-leven/bouwen/bouwprojecten/merwedekanaalzone/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.1039709, 52.0809555],
+            [5.104444, 52.0813857],
+            [5.104917, 52.081816],
+            [5.1050977, 52.0819524],
+            [5.1051839, 52.0819079],
+            [5.1052701, 52.0818633],
+            [5.1052772, 52.0818595],
+            [5.1052949, 52.0818499],
+            [5.1053117, 52.0818388],
+            [5.1063509, 52.0811528],
+            [5.1063814, 52.0811293],
+            [5.1064447, 52.0810841],
+            [5.1065337, 52.0810171],
+            [5.1066478, 52.0809334],
+            [5.1068444, 52.0807774],
+            [5.107006, 52.0806452],
+            [5.1072081, 52.0804754],
+            [5.1075043, 52.0802207],
+            [5.1076061, 52.080128],
+            [5.1076359, 52.0801002],
+            [5.1077226, 52.0800202],
+            [5.1078463, 52.0798981],
+            [5.1079885, 52.0797492],
+            [5.1079896, 52.079748],
+            [5.1079989, 52.0797382],
+            [5.1081734, 52.0795491],
+            [5.1081789, 52.0795426],
+            [5.1081843, 52.079536],
+            [5.1083446, 52.0793436],
+            [5.1083641, 52.0793203],
+            [5.1084722, 52.0791858],
+            [5.1086188, 52.0789997],
+            [5.1088002, 52.078758],
+            [5.108808, 52.0787605],
+            [5.1088106, 52.0787608],
+            [5.1088329, 52.0787292],
+            [5.1088413, 52.0787172],
+            [5.1089451, 52.0785701],
+            [5.1089987, 52.0784854],
+            [5.10904, 52.0784202],
+            [5.1091029, 52.0783207],
+            [5.1091238, 52.0782825],
+            [5.1091826, 52.0781746],
+            [5.1092073, 52.0781292],
+            [5.1094772, 52.0775941],
+            [5.109495, 52.0775522],
+            [5.109584, 52.0773423],
+            [5.109634, 52.0772396],
+            [5.1096296, 52.0772336],
+            [5.1096734, 52.0771023],
+            [5.1097395, 52.0769065],
+            [5.1097845, 52.0767745],
+            [5.1097884, 52.0767723],
+            [5.1100568, 52.0757612],
+            [5.1100596, 52.0757524],
+            [5.1101613, 52.0753643],
+            [5.1102079, 52.075179],
+            [5.1102645, 52.0749575],
+            [5.1103122, 52.0747737],
+            [5.1103422, 52.0746566],
+            [5.1103502, 52.0746282],
+            [5.1103857, 52.0744919],
+            [5.1104218, 52.0743462],
+            [5.110456, 52.0742068],
+            [5.1104916, 52.0740705],
+            [5.1105281, 52.073929],
+            [5.1105327, 52.0739116],
+            [5.1105269, 52.0739111],
+            [5.1105319, 52.073891],
+            [5.1105382, 52.0738908],
+            [5.1105641, 52.0737925],
+            [5.110586, 52.0737023],
+            [5.1106167, 52.0735805],
+            [5.1106592, 52.0734191],
+            [5.1107009, 52.0732533],
+            [5.1107472, 52.0730768],
+            [5.1107903, 52.0729052],
+            [5.1108171, 52.0728084],
+            [5.1108386, 52.0727278],
+            [5.1108374, 52.0727276],
+            [5.1109244, 52.0723957],
+            [5.1109856, 52.0721594],
+            [5.1110231, 52.0720152],
+            [5.1110614, 52.0718625],
+            [5.1111229, 52.071622],
+            [5.1111888, 52.0713706],
+            [5.1112475, 52.0711427],
+            [5.1112869, 52.0709934],
+            [5.1113189, 52.0708684],
+            [5.1114284, 52.0704459],
+            [5.1114525, 52.0703474],
+            [5.1115381, 52.0700127],
+            [5.1115961, 52.0697783],
+            [5.1117177, 52.0693118],
+            [5.1117591, 52.0691557],
+            [5.1118056, 52.0689831],
+            [5.111875, 52.0687161],
+            [5.1119116, 52.0685663],
+            [5.1119216, 52.0685256],
+            [5.1119337, 52.0684743],
+            [5.1119941, 52.0682418],
+            [5.1120262, 52.068111],
+            [5.112045, 52.0680362],
+            [5.1120515, 52.0680103],
+            [5.1120561, 52.0679923],
+            [5.112108, 52.0677899],
+            [5.1121398, 52.0676698],
+            [5.1121613, 52.067587],
+            [5.1121669, 52.0675642],
+            [5.1121874, 52.0674893],
+            [5.1122214, 52.0673886],
+            [5.1122459, 52.0673248],
+            [5.1122649, 52.0672774],
+            [5.1122688, 52.0672632],
+            [5.1122724, 52.0672497],
+            [5.1122768, 52.0672358],
+            [5.1123659, 52.0670155],
+            [5.1123753, 52.0669906],
+            [5.1123911, 52.0669487],
+            [5.1124331, 52.0668277],
+            [5.1124508, 52.0667771],
+            [5.1124617, 52.066747],
+            [5.112487, 52.0666744],
+            [5.1125337, 52.0665033],
+            [5.1125699, 52.0663695],
+            [5.1125929, 52.0662882],
+            [5.1126348, 52.0661255],
+            [5.1126857, 52.0659203],
+            [5.1126834, 52.06592],
+            [5.1127612, 52.0656007],
+            [5.1129172, 52.0649734],
+            [5.1129245, 52.0649439],
+            [5.1129342, 52.064903],
+            [5.1130026, 52.0646319],
+            [5.1130254, 52.0645435],
+            [5.1130475, 52.0644527],
+            [5.113069, 52.0643695],
+            [5.1131145, 52.0642519],
+            [5.1131151, 52.0642504],
+            [5.1131268, 52.0642202],
+            [5.1131478, 52.0641866],
+            [5.1131819, 52.0641576],
+            [5.1132342, 52.0641414],
+            [5.1134075, 52.0640997],
+            [5.1135809, 52.064058],
+            [5.114115, 52.0639456],
+            [5.1141125, 52.0639411],
+            [5.1141121, 52.0639404],
+            [5.1140947, 52.0639098],
+            [5.1139707, 52.0636917],
+            [5.113799, 52.0633909],
+            [5.1136612, 52.0631608],
+            [5.1136171, 52.0630844],
+            [5.1135733, 52.0630079],
+            [5.1135307, 52.0629328],
+            [5.1134662, 52.0628202],
+            [5.1133533, 52.0626195],
+            [5.1132832, 52.0624988],
+            [5.1132245, 52.062396],
+            [5.1131664, 52.062293],
+            [5.1131281, 52.0622242],
+            [5.1130724, 52.0621269],
+            [5.1130318, 52.0620537],
+            [5.1129903, 52.0619807],
+            [5.1129621, 52.0619322],
+            [5.1129242, 52.0618675],
+            [5.1128729, 52.0617815],
+            [5.1128553, 52.0617526],
+            [5.1128374, 52.0617238],
+            [5.1128008, 52.0616663],
+            [5.112776, 52.0616281],
+            [5.1127736, 52.061605],
+            [5.1127556, 52.0615918],
+            [5.1127317, 52.0615498],
+            [5.1127244, 52.0615506],
+            [5.1126623, 52.0614488],
+            [5.1126351, 52.0613775],
+            [5.1126242, 52.061349],
+            [5.1126266, 52.0613483],
+            [5.1126229, 52.0613352],
+            [5.1125831, 52.0612511],
+            [5.1125722, 52.0612355],
+            [5.1125413, 52.0611877],
+            [5.1125254, 52.0611622],
+            [5.1125094, 52.0611367],
+            [5.1124898, 52.0611007],
+            [5.1124604, 52.0610463],
+            [5.112431, 52.0609918],
+            [5.1123964, 52.0609255],
+            [5.1123959, 52.0609254],
+            [5.1123905, 52.0609142],
+            [5.1122259, 52.0605696],
+            [5.1121889, 52.0605029],
+            [5.112156, 52.0604235],
+            [5.112154, 52.06042],
+            [5.1121567, 52.0604195],
+            [5.1121614, 52.060391],
+            [5.1121578, 52.0603917],
+            [5.1121558, 52.0603883],
+            [5.1122178, 52.0603751],
+            [5.1121224, 52.0602023],
+            [5.1120087, 52.0599967],
+            [5.1118165, 52.0596479],
+            [5.1118164, 52.0596476],
+            [5.1118996, 52.0596299],
+            [5.1117957, 52.0594466],
+            [5.1116084, 52.0594845],
+            [5.1115651, 52.0594495],
+            [5.1115059, 52.059399],
+            [5.1114482, 52.059349],
+            [5.1113862, 52.0592957],
+            [5.1113322, 52.0592485],
+            [5.1111136, 52.0592936],
+            [5.1111115, 52.0592767],
+            [5.1109001, 52.0593198],
+            [5.1104877, 52.0594049],
+            [5.1104138, 52.0594225],
+            [5.1103529, 52.0594375],
+            [5.1102929, 52.0594519],
+            [5.1101575, 52.0594868],
+            [5.1101055, 52.059501],
+            [5.1100786, 52.0595086],
+            [5.1098453, 52.059583],
+            [5.1096474, 52.0596472],
+            [5.1093887, 52.0597466],
+            [5.1091301, 52.059846],
+            [5.1089478, 52.059914],
+            [5.1086961, 52.060012],
+            [5.1085331, 52.0600777],
+            [5.1084125, 52.0601284],
+            [5.1082836, 52.0601823],
+            [5.108169, 52.0602278],
+            [5.1080217, 52.0602775],
+            [5.1078842, 52.0603203],
+            [5.1077564, 52.0603569],
+            [5.1076268, 52.0603909],
+            [5.107445, 52.0604335],
+            [5.1072724, 52.0604751],
+            [5.1071872, 52.0604963],
+            [5.1071089, 52.0605067],
+            [5.1062675, 52.0606175],
+            [5.1062814, 52.0606564],
+            [5.106299, 52.060666],
+            [5.1063127, 52.0606774],
+            [5.1063312, 52.0606953],
+            [5.1063424, 52.0607077],
+            [5.1063575, 52.0607268],
+            [5.1063698, 52.0607467],
+            [5.1063807, 52.0607689],
+            [5.1064221, 52.0608879],
+            [5.1064627, 52.0610051],
+            [5.1064911, 52.0610862],
+            [5.1065553, 52.0612707],
+            [5.1066424, 52.0615273],
+            [5.1066877, 52.0616596],
+            [5.1067589, 52.0618774],
+            [5.1068174, 52.0620681],
+            [5.1069101, 52.0623715],
+            [5.1069472, 52.0624932],
+            [5.1070013, 52.0626713],
+            [5.1070168, 52.0627233],
+            [5.1070251, 52.0627432],
+            [5.1070289, 52.062751],
+            [5.1070426, 52.062773],
+            [5.1070496, 52.0627831],
+            [5.1070656, 52.0628043],
+            [5.1070816, 52.0628255],
+            [5.1070852, 52.0628311],
+            [5.1070918, 52.0628424],
+            [5.1070972, 52.0628539],
+            [5.1071035, 52.0628714],
+            [5.1071429, 52.0630083],
+            [5.1071861, 52.0631587],
+            [5.1072293, 52.0633091],
+            [5.1072549, 52.0633976],
+            [5.1073023, 52.0635627],
+            [5.1073375, 52.0636989],
+            [5.1073728, 52.0638351],
+            [5.1073938, 52.063917],
+            [5.1074148, 52.0639989],
+            [5.1074272, 52.0640449],
+            [5.1074551, 52.0641444],
+            [5.1074839, 52.0642394],
+            [5.1075127, 52.0643344],
+            [5.1075183, 52.0643541],
+            [5.1075177, 52.0643592],
+            [5.1075166, 52.0643626],
+            [5.1075148, 52.0643659],
+            [5.1075107, 52.0643724],
+            [5.1075084, 52.0643756],
+            [5.1075028, 52.0643817],
+            [5.1074961, 52.0643874],
+            [5.1074872, 52.0643936],
+            [5.1074714, 52.0643989],
+            [5.1074556, 52.0644043],
+            [5.1074808, 52.0645278],
+            [5.1074857, 52.0645297],
+            [5.1074952, 52.0645337],
+            [5.107504, 52.0645383],
+            [5.1075119, 52.0645434],
+            [5.1075191, 52.064549],
+            [5.107528, 52.0645581],
+            [5.1075344, 52.064568],
+            [5.1075384, 52.0645777],
+            [5.1075519, 52.0646493],
+            [5.107562, 52.064705],
+            [5.1075708, 52.0647643],
+            [5.1075785, 52.0648237],
+            [5.1075827, 52.0648614],
+            [5.1075865, 52.0649112],
+            [5.1075903, 52.0649609],
+            [5.1075932, 52.065018],
+            [5.1075945, 52.0650415],
+            [5.1075957, 52.0650651],
+            [5.1075968, 52.0650757],
+            [5.1075979, 52.0650863],
+            [5.1076013, 52.0651075],
+            [5.1076058, 52.0651287],
+            [5.1076182, 52.065179],
+            [5.1076305, 52.0652293],
+            [5.1076355, 52.0652559],
+            [5.1076381, 52.0652827],
+            [5.1076379, 52.0653097],
+            [5.1076355, 52.0653482],
+            [5.1076319, 52.0653985],
+            [5.1076282, 52.0654487],
+            [5.1076204, 52.0655135],
+            [5.1076109, 52.065587],
+            [5.1076009, 52.0656499],
+            [5.1075779, 52.0657733],
+            [5.1075548, 52.0658968],
+            [5.1075494, 52.0659197],
+            [5.1075428, 52.0659424],
+            [5.1075351, 52.0659651],
+            [5.1075262, 52.0659876],
+            [5.1075162, 52.0660098],
+            [5.1075026, 52.0660357],
+            [5.1074915, 52.0660545],
+            [5.1074757, 52.06608],
+            [5.1074437, 52.0661218],
+            [5.1074359, 52.066131],
+            [5.1074197, 52.0661494],
+            [5.1073936, 52.0661764],
+            [5.107371, 52.0661973],
+            [5.1073456, 52.0662192],
+            [5.107324, 52.0662376],
+            [5.1073032, 52.0662539],
+            [5.1072838, 52.0662664],
+            [5.1072698, 52.0662741],
+            [5.1072544, 52.0662816],
+            [5.1072368, 52.0662889],
+            [5.1072195, 52.066296],
+            [5.1071984, 52.0663015],
+            [5.1071731, 52.0663076],
+            [5.1071463, 52.0663132],
+            [5.1071206, 52.066317],
+            [5.1070942, 52.0663207],
+            [5.1070729, 52.0663224],
+            [5.107031, 52.0663248],
+            [5.1070017, 52.0663268],
+            [5.1069156, 52.0663329],
+            [5.1068287, 52.0663389],
+            [5.1066987, 52.0663485],
+            [5.1067179, 52.0665882],
+            [5.1067426, 52.0668968],
+            [5.1063109, 52.0673617],
+            [5.106533, 52.0674373],
+            [5.1068607, 52.0675526],
+            [5.1067295, 52.0680532],
+            [5.1065983, 52.0685538],
+            [5.1065668, 52.0686741],
+            [5.1065003, 52.0689356],
+            [5.1064337, 52.0691971],
+            [5.1064139, 52.069255],
+            [5.1063994, 52.0693069],
+            [5.1063848, 52.0693587],
+            [5.1063666, 52.0694257],
+            [5.1063483, 52.0694927],
+            [5.106329, 52.0695794],
+            [5.1063209, 52.0696157],
+            [5.1062934, 52.0697355],
+            [5.1062659, 52.0698553],
+            [5.1062569, 52.0699],
+            [5.1062471, 52.0699428],
+            [5.1062385, 52.0699806],
+            [5.1062298, 52.0700183],
+            [5.1062366, 52.0700392],
+            [5.1062411, 52.0700602],
+            [5.1062344, 52.0700927],
+            [5.1062276, 52.0701253],
+            [5.106182, 52.0701584],
+            [5.1061433, 52.0703091],
+            [5.1061046, 52.0704598],
+            [5.1060654, 52.0706126],
+            [5.1060261, 52.0707655],
+            [5.1059565, 52.0710374],
+            [5.1059008, 52.0712553],
+            [5.1058695, 52.0713167],
+            [5.1058383, 52.0713781],
+            [5.1058293, 52.0714104],
+            [5.1058274, 52.0714176],
+            [5.1058027, 52.0715432],
+            [5.1057781, 52.0716687],
+            [5.1057541, 52.0717904],
+            [5.1057345, 52.0718901],
+            [5.1057322, 52.0719019],
+            [5.1057223, 52.0719375],
+            [5.1057016, 52.0720248],
+            [5.1057371, 52.0720285],
+            [5.1057066, 52.0721469],
+            [5.1056705, 52.0722874],
+            [5.1055838, 52.0726254],
+            [5.1055332, 52.0728229],
+            [5.1054358, 52.0728082],
+            [5.1052454, 52.0733302],
+            [5.1050963, 52.073739],
+            [5.1047844, 52.0745912],
+            [5.1046987, 52.074803],
+            [5.1044357, 52.0753961],
+            [5.1044136, 52.0754443],
+            [5.10432, 52.0756372],
+            [5.1043124, 52.0756507],
+            [5.1043037, 52.0756639],
+            [5.1042939, 52.0756769],
+            [5.1042831, 52.0756895],
+            [5.1042712, 52.0757018],
+            [5.1042298, 52.0757402],
+            [5.1040682, 52.0758069],
+            [5.1040565, 52.0758108],
+            [5.1040384, 52.0758162],
+            [5.1040198, 52.0758209],
+            [5.1040008, 52.075825],
+            [5.1039814, 52.0758284],
+            [5.1039618, 52.0758311],
+            [5.1039419, 52.0758331],
+            [5.1039219, 52.0758344],
+            [5.1038657, 52.0758359],
+            [5.1036104, 52.0766042],
+            [5.1037087, 52.0766228],
+            [5.1037076, 52.0767755],
+            [5.1036946, 52.0770013],
+            [5.1036672, 52.0772205],
+            [5.1036131, 52.0774876],
+            [5.1035771, 52.0775075],
+            [5.1035407, 52.0776001],
+            [5.1035732, 52.0776328],
+            [5.103546, 52.0777204],
+            [5.1034998, 52.0778571],
+            [5.103423, 52.078054],
+            [5.1033331, 52.0782501],
+            [5.1032106, 52.0784762],
+            [5.1031203, 52.078627],
+            [5.1030176, 52.0787796],
+            [5.1029801, 52.0787887],
+            [5.102928, 52.0787704],
+            [5.1028574, 52.0788487],
+            [5.1029367, 52.0788761],
+            [5.1028617, 52.0789528],
+            [5.1028388, 52.0790206],
+            [5.1026694, 52.0792221],
+            [5.1025638, 52.0793298],
+            [5.1024704, 52.0794251],
+            [5.1022932, 52.0796054],
+            [5.1017122, 52.0801995],
+            [5.1017093, 52.0801997],
+            [5.1014915, 52.080422],
+            [5.1015571, 52.0804666],
+            [5.1014179, 52.0806064],
+            [5.1015503, 52.0806516],
+            [5.1017857, 52.0804122],
+            [5.1019151, 52.0804604],
+            [5.102318, 52.0800498],
+            [5.1023405, 52.0800306],
+            [5.1023678, 52.080014],
+            [5.1023991, 52.0800003],
+            [5.1024336, 52.07999],
+            [5.1024704, 52.0799833],
+            [5.1025085, 52.0799805],
+            [5.1025468, 52.0799815],
+            [5.1025844, 52.0799863],
+            [5.1026201, 52.0799949],
+            [5.1026531, 52.080007],
+            [5.1026824, 52.0800222],
+            [5.1027821, 52.0800868],
+            [5.1028757, 52.0801548],
+            [5.102963, 52.0802259],
+            [5.1030436, 52.0802999],
+            [5.1031276, 52.0803817],
+            [5.1031772, 52.0804246],
+            [5.1032343, 52.0804639],
+            [5.1033351, 52.0805293],
+            [5.1034304, 52.0805978],
+            [5.1035166, 52.0806602],
+            [5.1036073, 52.0807201],
+            [5.1037022, 52.0807775],
+            [5.1037962, 52.0808343],
+            [5.1038858, 52.0808936],
+            [5.1039709, 52.0809555]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": "NA",
+        "ID": 25,
+        "name": "Haasje over",
+        "description": "Oké, de skatehal op Strijp-S blijft staan. Maar hoe moet dat dan met de oorspronkelijke plannen om op deze plek een nieuwe woontoren te realiseren? “We gaan er ‘gewoon’ overheen bouwen,” antwoordt Sint Trudo-directeur Jack Hock. “Met een spectaculair gebouw: Haasje Over.”",
+        "short_description": "Haasje Over: spectaculair hoogstandje op Strijp–S",
+        "category": "initiatief",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://c1.staticflickr.com/3/2940/32333665253_18d593a142_o.png",
+        "pano_id": "5VGgv-s8cjCSv804Qj8b2w",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_img_url": "https://indebuurt.nl/eindhoven/wp-content/uploads/2017/11/haasje-over.png",
+              "resource_url": "http://www.trudo.nl/actueel/haasje-over-spectaculair-hoogstandje-op-strijp-s"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.447677, 51.447677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": "NA",
+        "ID": 26,
+        "name": "Woontoren Strijp-S",
+        "description": "Crepain Binst Architecture heeft de prijsvraag gewonnen voor een woontoren (70-110 m) in Eindhoven",
+        "short_description": "nieuwe woontoren op Strijp-S van 70 tot 110 meter hoog",
+        "category": "initiatief",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://indebuurt.nl/eindhoven/wp-content/uploads/2017/05/nieuwe-toren-strijp-s.jpg",
+        "pano_id": "Su9M0X943JzITiojiRnhnw",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_img_url": "https://indebuurt.nl/eindhoven/wp-content/uploads/2017/12/toren-strijp-s.jpg",
+              "resource_url": "https://indebuurt.nl/eindhoven/wonen/nieuwe-toren-strijp-s-gaat-er-zo-uitzien~4622/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.455919, 51.448753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": "NA",
+        "ID": 27,
+        "name": "bouwplan S-West",
+        "description": "Vanaf het tweede kwartaal van 2018 zijn de nieuwe woningen in het plan S-West op Strijp-S in Eindhoven te koop",
+        "short_description": "Bouwplan S-West",
+        "category": "initiatief",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://images1.persgroep.net/rcs/voUAR131o_uf6NULcykuCCEsgT4/diocontent/116297416/_fill/1272/900/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
+        "pano_id": "AHdHvmIgqA_-iCqFLGOwPA",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_img_url": "https://www.ed.nl/eindhoven/sneak-preview-van-bouwplan-s-west-in-eindhoven~a6482fc4/116297416/",
+              "resource_url": "https://www.ed.nl/eindhoven/sneak-preview-van-bouwplan-s-west-in-eindhoven~a6482fc4"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.460154, 51.460154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": "NA",
+        "ID": 28,
+        "name": "Meerzicht",
+        "description": "Uitzicht op vliegtuigjes, Meerhoven en een gaaf park. de Eindhovense vinex gaat skyhigh. Bij het winkelcentrum van Meerhoven komt een nieuwe toren en de verkoop van onder meer de bovenste verdiepingen gaat binnenkort van start.",
+        "short_description": "Hoogste puntje van Meerhoven",
+        "category": "initiatief",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "https://cloud.funda.nl/valentina_media/089/553/610_2160x1440.jpg",
+        "pano_id": "hPR89H8RvsDU2gdUSMMN1Q",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_img_url": "https://indebuurt.nl/eindhoven/wp-content/uploads/2017/11/meerhoven.jpeg",
+              "resource_url": "https://www.vansantvoort.nl/nieuwbouw-project/eindhoven-meerzichtappartementen/"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.408758, 51.4408758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": "NA",
+        "ID": 29,
+        "name": "Brainport Industries Campus",
+        "description": "Nabij afslag Eindhoven Airport van de Randweg wordt nu al de Brainport Industries Campus gebouwd. Een hypermodern verzamelgebouw voor innovatieve bedrijven en instellingen",
+        "short_description": "De campus van de toekomst",
+        "category": "initiatief",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "http://www.metaalnieuws.nl/wp-content/uploads/2017/12/startschot-brainport.jpg",
+        "pano_id": "A06WWJkxKDcA5kVInMauwg",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_img_url": "https://indebuurt.nl/eindhoven/wp-content/uploads/2017/12/bic-campus-1024x635.jpeg",
+              "resource_url": "http://www.brainportindustriescampus.com/nl/over-bic/wat-is-bic"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.417888, 51.452141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": "NA",
+        "ID": 30,
+        "name": "De Bakermat",
+        "description": "Soort van grote grachtenpandjes komen op de kale vlakte aan de Boschdijk, bij de ring",
+        "short_description": "De campus van de toekomst",
+        "category": "initiatief",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "http://www.debakermatvan.nl/images/pagina/de_bakermat_1-klein.jpg",
+        "pano_id": "Pux_nY6PVWzGfyWZ5yM-Ag",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Eindhoven"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@eindhoven.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {
+              "resource_img_url": "https://indebuurt.nl/eindhoven/wp-content/uploads/2017/11/bakermat.png",
+              "resource_url": "http://www.debakermatvan.nl/nl/home"
+            }
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.464934, 51.451138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "num": "NA",
+        "ID": 31,
+        "name": "Stadstuin Kanaalweg",
+        "description": "Inhoud benodigd van de gemeente",
+        "short_description": "Inhoud benodigd van de gemeente",
+        "category": "initiatief",
+        "extra_vision": null,
+        "start": null,
+        "status": null,
+        "oplevering": null,
+        "author": null,
+        "created": "NA",
+        "modified": null,
+        "likes_shares": "NA",
+        "architecten": null,
+        "nr_participans_wanted": "NA",
+        "interesting_areas": null,
+        "hero_image": "http://jaarverslag2016.utrechtnatuurlijk.nl/wp-content/uploads/2017/04/Steedes-en-tuinen-Eilandstede-FT.jpg",
+        "pano_id": "NQfRsjfNU9AarHqAo_e3Bg",
+        "development_theme": [
+          null
+        ],
+        "woningtypen": [
+          null
+        ],
+        "types_of_participants": [
+          null
+        ],
+        "address": [
+          [
+            {
+              "city": "Utrecht"
+            }
+          ]
+        ],
+        "contact": [
+          [
+            {
+              "e_mail": "info@utrecht.nl"
+            }
+          ]
+        ],
+        "external": [
+          [
+            {}
+          ]
+        ],
+        "comments": [
+          [
+            {}
+          ]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.082839, 52.092799]
+      }
+    }
+  ]
+}

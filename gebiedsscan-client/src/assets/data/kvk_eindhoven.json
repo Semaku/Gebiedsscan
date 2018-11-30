@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.474, 51.4382]
+      },
+      "properties": {
+        "id": " 1222",
+        "kvknummer": "14615389",
+        "vestigingsnummer": "            ",
+        "businessName": "Dummy B.V.",
+        "tradeNames": "Dummy B.V.",
+        "statutoryNames": "Dummy B.V.",
+        "legalFormCode": "41",
+        "legalFormDescription": "Besloten vennootschap met gewone structuur",
+        "hasEntryInCommercialRegister": "0",
+        "isLegalPerson": "0",
+        "isEstablishment": "1",
+        "isMainEstablishment": "0",
+        "employees": "   2",
+        "street": "Dummy straat",
+        "houseNumber": "1",
+        "houseNumberAddition": "",
+        "postalCode": "9999ZZ",
+        "city": "EINDHOVEN",
+        "website": "",
+        "mainActivitySbiCode": "  7912",
+        "mainActivitysbiCodeDescription": "Reisorganisatie",
+        "activity1SbiCode": "  7911",
+        "activity1SbiCodeDescription": "Reisbemiddeling",
+        "activity2SbiCode": "  6831",
+        "activity2SbiCodeDescription": "Bemiddeling bij handel, huur of verhuur van onroerend goed"
+      }
+    }
+  ]
+}

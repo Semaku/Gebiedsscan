@@ -1,0 +1,32 @@
+podTemplate(label: 'node-maven-node', containers: [
+    containerTemplate(name: 'maven', image: 'maven:3.5-jdk-8', ttyEnabled: true, command: 'cat'),
+    containerTemplate(name: 'node', image: 'node:8', ttyEnabled: true, command: 'cat')
+  ],
+  volumes: [
+      secretVolume(secretName: 'jenkins-maven-settings', mountPath: '/root/.m2'),
+      persistentVolumeClaim(claimName: 'jenkins-mvn-local-repo', mountPath: '/root/.mvnrepository')
+     ])
+
+  {
+
+    node('node-maven-node') {
+        container(name: 'node') {
+            stage('Preparation') { 
+                git url: "https://bitbucket.org/semaku/gebiedsscan-client.git", credentialsId: 'bitbucket', branch: 'develop'
+            }
+            stage('Build') {
+                sh 'npm install'
+                sh 'npm run build'
+            }
+        }
+        container(name: 'maven') {
+            stage('Build Artifacts') {
+                sh 'mvn clean deploy'
+            }
+        }
+    }
+  }
+
+
+
+

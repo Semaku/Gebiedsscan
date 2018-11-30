@@ -1,0 +1,5623 @@
+[
+  {
+    "SBI-1993": 1,
+    "SBI-2008": 1,
+    "description": "LANDBOUW EN DIENSTVERLENING T.B.V. DE LANDBOUW",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 56102,
+    "SBI-2008": 56102,
+    "description": "Cafe",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 4711,
+    "SBI-2008": 47718,
+    "description": "supermarkt",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 45112,
+    "SBI-2008": 45112,
+    "description": "Handel in en reparatie van personenauto's en lichte bedrijfsauto's (geen import van nieuwe)",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "0111, 0113",
+    "SBI-2008": "011, 012, 013",
+    "description": "Akkerbouw en fruitteelt (bedrijfsgebouwen)",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 112,
+    "SBI-2008": "011, 012, 013, 016",
+    "description": "Tuinbouw:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 112,
+    "SBI-2008": "011, 012, 013",
+    "description": "bedrijfsgebouwen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 112,
+    "SBI-2008": "011, 012, 013",
+    "description": "kassen zonder verwarming",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 112,
+    "SBI-2008": "011, 012, 013",
+    "description": "kassen met gasverwarming",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 112,
+    "SBI-2008": 113,
+    "description": "champignonkwekerijen (algemeen)",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 112,
+    "SBI-2008": 113,
+    "description": "champignonkwekerijen met mestfermentatie",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 112,
+    "SBI-2008": 163,
+    "description": "bloembollendroog- en prepareerbedrijven",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 112,
+    "SBI-2008": 11,
+    "description": "witlofkwekerijen (algemeen)",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 121,
+    "SBI-2008": "0141, 0142",
+    "description": "Fokken en houden van rundvee",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 122,
+    "SBI-2008": "0143, 0145",
+    "description": "Fokken en houden van overige graasdieren:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 122,
+    "SBI-2008": 143,
+    "description": "paardenfokkerijen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 122,
+    "SBI-2008": 145,
+    "description": "overige graasdieren",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 123,
+    "SBI-2008": 146,
+    "description": "Fokken en houden van varkens",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 124,
+    "SBI-2008": 147,
+    "description": "Fokken en houden van pluimvee:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 124,
+    "SBI-2008": 147,
+    "description": "legkippen",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 124,
+    "SBI-2008": 147,
+    "description": "opfokkippen en mestkuikens",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 124,
+    "SBI-2008": 147,
+    "description": "eenden en ganzen",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 124,
+    "SBI-2008": 147,
+    "description": "overig pluimvee",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 125,
+    "SBI-2008": 149,
+    "description": "Fokken en houden van overige dieren:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 125,
+    "SBI-2008": 149,
+    "description": "nertsen en vossen",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 125,
+    "SBI-2008": 149,
+    "description": "konijnen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 125,
+    "SBI-2008": 149,
+    "description": "huisdieren",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 125,
+    "SBI-2008": 149,
+    "description": "maden, wormen e.d.",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 125,
+    "SBI-2008": 149,
+    "description": "bijen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 125,
+    "SBI-2008": 149,
+    "description": "overige dieren",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 130,
+    "SBI-2008": 150,
+    "description": "Akker-en/of tuinbouw in combinatie met het fokken en houden van dieren (niet intensief)",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 14,
+    "SBI-2008": 16,
+    "description": "Dienstverlening t.b.v. de landbouw:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 14,
+    "SBI-2008": 16,
+    "description": "- algemeen (o.a. loonbedrijven): b.o. > 500 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 14,
+    "SBI-2008": 16,
+    "description": "- algemeen (o.a. loonbedrijven): b.o.<= 500 m?",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 14,
+    "SBI-2008": 16,
+    "description": "- plantsoenendiensten en hoveniersbedrijven: b.o. > 500 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 14,
+    "SBI-2008": 16,
+    "description": "- plantsoenendiensten en hoveniersbedrijven: b.o. <= 500 m?",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 142,
+    "SBI-2008":  162,
+    "description": "KI-stations",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 2,
+    "SBI-2008": 2,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2,
+    "SBI-2008": 2,
+    "description": "BOSBOUW EN DIENSTVERLENING T.B.V. BOSBOUW",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 20,
+    "SBI-2008": "021, 022, 024",
+    "description": "Bosbouwbedrijven",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 5,
+    "SBI-2008": 3,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 5,
+    "SBI-2008": 3,
+    "description": "VISSERIJ- EN VISTEELTBEDRIJVEN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 501.1,
+    "SBI-2008": 311,
+    "description": "Zeevisserijbedrijven",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 501.2,
+    "SBI-2008": 312,
+    "description": "Binnenvisserijbedrijven",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 502,
+    "SBI-2008": 32,
+    "description": "Vis- en schaaldierkwekerijen",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 502,
+    "SBI-2008": 32,
+    "description": "- oester-, mossel- en schelpenteeltbedrijven",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 502,
+    "SBI-2008": 32,
+    "description": "visteeltbedrijven",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 10,
+    "SBI-2008": 8,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 10,
+    "SBI-2008": 8,
+    "description": "TURFWINNING",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 103,
+    "SBI-2008": 89,
+    "description": "Turfwinningbedrijven",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 11,
+    "SBI-2008": 6,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 11,
+    "SBI-2008": 6,
+    "description": "AARDOLIE- EN AARDGASWINNING",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 111,
+    "SBI-2008": "061, 062",
+    "description": "Aardolie- en aardgaswinning:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 111,
+    "SBI-2008": 61,
+    "description": "aardoliewinputten",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 111,
+    "SBI-2008": 62,
+    "description": "- aardgaswinning incl. gasbeh.inst.: < 10.000.000 N m3/d",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 111,
+    "SBI-2008": 62,
+    "description": "- aardgaswinning incl. gasbeh.inst.: >= 10.000.000 N m3/d",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 14,
+    "SBI-2008": 8,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 14,
+    "SBI-2008": 8,
+    "description": "WINNING VAN ZAND, GRIND, KLEI, ZOUT, E.D.",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1421,
+    "SBI-2008": 812,
+    "description": "Steen-, grit- en krijtmalerijen (open lucht):",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1421,
+    "SBI-2008": 812,
+    "description": "algemeen",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1421,
+    "SBI-2008": 812,
+    "description": "steenbrekerijen",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 144,
+    "SBI-2008": 893,
+    "description": "Zoutwinningbedrijven",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 145,
+    "SBI-2008": 899,
+    "description": "Mergel- en overige delfstoffenwinningbedrijven",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 15,
+    "SBI-2008": "10, 11",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 15,
+    "SBI-2008": "10, 11",
+    "description": "VERVAARDIGING VAN VOEDINGSMIDDELEN EN DRANKEN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 151,
+    "SBI-2008": "101, 102",
+    "description": "Slachterijen en overige vleesverwerking:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 151,
+    "SBI-2008": "101, 102",
+    "description": "slachterijen en pluimveeslachterijen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 151,
+    "SBI-2008": 101,
+    "description": "vetsmelterijen",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 151,
+    "SBI-2008": 101,
+    "description": "bewerkingsinrichting van darmen en vleesafval",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 151,
+    "SBI-2008": 101,
+    "description": "- vleeswaren- en vleesconservenfabrieken: p.o. > 1000 m?",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 151,
+    "SBI-2008": 101,
+    "description": "- vleeswaren- en vleesconservenfabrieken: p.o. <= 1000 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 151,
+    "SBI-2008": 101,
+    "description": "- vleeswaren- en vleesconservenfabrieken: p.o. <= 200 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 151,
+    "SBI-2008": "101, 102",
+    "description": "loonslachterijen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 151,
+    "SBI-2008": 108,
+    "description": "- vervaardiging van snacks en vervaardiging van kant-en-klaar-maaltijden met p.o. < 2.000 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 152,
+    "SBI-2008": 102,
+    "description": "Visverwerkingsbedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 152,
+    "SBI-2008": 102,
+    "description": "drogen",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 152,
+    "SBI-2008": 102,
+    "description": "conserveren",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 152,
+    "SBI-2008": 102,
+    "description": "roken",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 152,
+    "SBI-2008": 102,
+    "description": "- verwerken anderszins: p.o.> 1000 m?",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 152,
+    "SBI-2008": 102,
+    "description": "- verwerken anderszins: p.o. <= 1000 m?",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 152,
+    "SBI-2008": 102,
+    "description": "- verwerken anderszins: p.o. <= 300 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 1531,
+    "SBI-2008": 1031,
+    "description": "Aardappelprodukten fabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1531,
+    "SBI-2008": 1031,
+    "description": "vervaardiging van aardappelproducten",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1531,
+    "SBI-2008": 1031,
+    "description": "- vervaardiging van snacks met p.o. < 2.000 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": "1532, 1533",
+    "SBI-2008": "1032, 1039",
+    "description": "Groente- en fruitconservenfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "1532, 1533",
+    "SBI-2008": "1032, 1039",
+    "description": "jam",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": "1532, 1533",
+    "SBI-2008": "1032, 1039",
+    "description": "groente algemeen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": "1532, 1533",
+    "SBI-2008": "1032, 1039",
+    "description": "met koolsoorten",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": "1532, 1533",
+    "SBI-2008": "1032, 1039",
+    "description": "met drogerijen",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": "1532, 1533",
+    "SBI-2008": "1032, 1039",
+    "description": "met uienconservering (zoutinleggerij)",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1541,
+    "SBI-2008": 104101,
+    "description": "Vervaardiging van ruwe plantaardige en dierlijke oli�n en vetten:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1541,
+    "SBI-2008": 104101,
+    "description": "- p.c. < 250.000 t/j",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1541,
+    "SBI-2008": 104101,
+    "description": "- p.c. >= 250.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1542,
+    "SBI-2008": 104102,
+    "description": "Raffinage van plantaardige en dierlijke oli�n en vetten:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1542,
+    "SBI-2008": 104102,
+    "description": "- p.c. < 250.000 t/j",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1542,
+    "SBI-2008": 104102,
+    "description": "- p.c. >= 250.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1543,
+    "SBI-2008": 1042,
+    "description": "Margarinefabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1543,
+    "SBI-2008": 1042,
+    "description": "- p.c. < 250.000 t/j",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1543,
+    "SBI-2008": 1042,
+    "description": "- p.c. >= 250.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1551,
+    "SBI-2008": 1051,
+    "description": "Zuivelprodukten fabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1551,
+    "SBI-2008": 1051,
+    "description": "- gedroogde produkten, p.c. >= 1,5 t/u",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 1551,
+    "SBI-2008": 1051,
+    "description": "- geconcentreerde produkten, verdamp. cap. >=20 t/u",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 1551,
+    "SBI-2008": 1051,
+    "description": "- melkprodukten fabrieken v.c. < 55.000 t/j",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 1551,
+    "SBI-2008": 1051,
+    "description": "- melkprodukten fabrieken v.c. >= 55.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1551,
+    "SBI-2008": 1051,
+    "description": "overige zuivelprodukten fabrieken",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1552,
+    "SBI-2008": 1052,
+    "description": "Consumptie-ijsfabrieken: p.o. > 200 m?",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 1552,
+    "SBI-2008": 1052,
+    "description": "- consumptie-ijsfabrieken: p.o. <= 200�m?",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 1561,
+    "SBI-2008": 1061,
+    "description": "Meelfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1561,
+    "SBI-2008": 1061,
+    "description": "- p.c. >= 500 t/u",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1561,
+    "SBI-2008": 1061,
+    "description": "- p.c. < 500 t/u",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1561,
+    "SBI-2008": 1061,
+    "description": "Grutterswarenfabrieken",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1562,
+    "SBI-2008": 1062,
+    "description": "Zetmeelfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1562,
+    "SBI-2008": 1062,
+    "description": "- p.c. < 10 t/u",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1562,
+    "SBI-2008": 1062,
+    "description": "- p.c. >= 10 t/u",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1571,
+    "SBI-2008": 1091,
+    "description": "Veevoerfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1571,
+    "SBI-2008": 1091,
+    "description": "destructiebedrijven",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 1571,
+    "SBI-2008": 1091,
+    "description": "- beender-, veren-, vis-, en vleesmeelfabriek",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 1571,
+    "SBI-2008": 1091,
+    "description": "- drogerijen (gras, pulp, groenvoeder, veevoeder) cap. < 10 t/u water",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1571,
+    "SBI-2008": 1091,
+    "description": "- drogerijen (gras, pulp, groenvoeder, veevoeder) cap. >= 10 t/u water",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 1571,
+    "SBI-2008": 1091,
+    "description": "- mengvoeder, p.c. < 100 t/u",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1571,
+    "SBI-2008": 1091,
+    "description": "- mengvoeder, p.c. >= 100 t/u",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1572,
+    "SBI-2008": 1092,
+    "description": "Vervaardiging van voer voor huisdieren",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1581,
+    "SBI-2008": 1071,
+    "description": "Broodfabrieken, brood- en banketbakkerijen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1581,
+    "SBI-2008": 1071,
+    "description": "- v.c. < 7500 kg meel/week, bij gebruik van charge-ovens",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 1581,
+    "SBI-2008": 1071,
+    "description": "- v.c. >= 7500 kg meel/week",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 1582,
+    "SBI-2008": 1072,
+    "description": "Banket, biscuit- en koekfabrieken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 1583,
+    "SBI-2008": 1081,
+    "description": "Suikerfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1583,
+    "SBI-2008": 1081,
+    "description": "- v.c. < 2.500 t/j",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 1583,
+    "SBI-2008": 1081,
+    "description": "- v.c. >= 2.500 t/j",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 1584,
+    "SBI-2008": 10821,
+    "description": "Verwerking cacaobonen en vervaardiging chocolade- en suikerwerk:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1584,
+    "SBI-2008": 10821,
+    "description": "- Cacao- en chocoladefabrieken: p.o. > 2.000 m?",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 1584,
+    "SBI-2008": 10821,
+    "description": "- cacao- en chocoladefabrieken vervaardigen van chocoladewerken met p.o. < 2.000 m?",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 1584,
+    "SBI-2008": 10821,
+    "description": "- cacao- en chocoladefabrieken vervaardigen van chocoladewerken met p.o. <= 200 m?",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 1584,
+    "SBI-2008": 10821,
+    "description": "Suikerwerkfabrieken met suiker branden",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1584,
+    "SBI-2008": 10821,
+    "description": "- Suikerwerkfabrieken zonder suiker branden: p.o. > 200 m?",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 1584,
+    "SBI-2008": 10821,
+    "description": "- suikerwerkfabrieken zonder suiker branden: p.o. <= 200 m?",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 1585,
+    "SBI-2008": 1073,
+    "description": "Deegwarenfabrieken",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 1586,
+    "SBI-2008": 1083,
+    "description": "Koffiebranderijen en theepakkerijen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1586,
+    "SBI-2008": 1083,
+    "description": "koffiebranderijen",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 1586,
+    "SBI-2008": 1083,
+    "description": "theepakkerijen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 1587,
+    "SBI-2008": 108401,
+    "description": "Vervaardiging van azijn, specerijen en kruiden",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1589,
+    "SBI-2008": 1089,
+    "description": "Vervaardiging van overige voedingsmiddelen",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1589.1,
+    "SBI-2008": 1089,
+    "description": "Bakkerijgrondstoffenfabrieken",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1589.2,
+    "SBI-2008": 1089,
+    "description": "Soep- en soeparomafabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1589.2,
+    "SBI-2008": 1089,
+    "description": "zonder poederdrogen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 1589.2,
+    "SBI-2008": 1089,
+    "description": "met poederdrogen",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1589.2,
+    "SBI-2008": 1089,
+    "description": "Bakmeel- en puddingpoederfabrieken",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1591,
+    "SBI-2008": 110101,
+    "description": "Destilleerderijen en likeurstokerijen",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1592,
+    "SBI-2008": 110102,
+    "description": "Vervaardiging van ethylalcohol door gisting:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 1592,
+    "SBI-2008": 110102,
+    "description": "- p.c. < 5.000 t/j",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 1592,
+    "SBI-2008": 110102,
+    "description": "- p.c. >= 5.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": "1593 t/m 1595",
+    "SBI-2008": "1102 t/m 1104",
+    "description": "Vervaardiging van wijn, cider e.d.",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 1596,
+    "SBI-2008": 1105,
+    "description": "Bierbrouwerijen",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1597,
+    "SBI-2008": 1106,
+    "description": "Mouterijen",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 1598,
+    "SBI-2008": 1107,
+    "description": "Mineraalwater- en frisdrankfabrieken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 16,
+    "SBI-2008": 12,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 16,
+    "SBI-2008": 12,
+    "description": "VERWERKING VAN TABAK",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 160,
+    "SBI-2008": 120,
+    "description": "Tabakverwerkende industrie",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 17,
+    "SBI-2008": 13,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 17,
+    "SBI-2008": 13,
+    "description": "VERVAARDIGING VAN TEXTIEL",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 171,
+    "SBI-2008": 131,
+    "description": "Bewerken en spinnen van textielvezels",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 172,
+    "SBI-2008": 132,
+    "description": "Weven van textiel:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 172,
+    "SBI-2008": 132,
+    "description": "aantal weefgetouwen < 50",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 172,
+    "SBI-2008": 132,
+    "description": "aantal weefgetouwen >= 50",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 173,
+    "SBI-2008": 133,
+    "description": "Textielveredelingsbedrijven",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": "174, 175",
+    "SBI-2008": 139,
+    "description": "Vervaardiging van textielwaren",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 1751,
+    "SBI-2008": 1393,
+    "description": "Tapijt-, kokos- en vloermattenfabrieken",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": "176, 177",
+    "SBI-2008": "139, 143",
+    "description": "Vervaardiging van gebreide en gehaakte stoffen en artikelen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 18,
+    "SBI-2008": 14,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 18,
+    "SBI-2008": 14,
+    "description": "VERVAARDIGING VAN KLEDING; BEREIDEN EN VERVEN VAN BONT",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 181,
+    "SBI-2008": 141,
+    "description": "Vervaardiging kleding van leer",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 182,
+    "SBI-2008": 141,
+    "description": "Vervaardiging van kleding en -toebehoren (excl. van leer)",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 183,
+    "SBI-2008": "142, 151",
+    "description": "Bereiden en verven van bont; vervaardiging van artikelen van bont",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 19,
+    "SBI-2008": 19,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 19,
+    "SBI-2008": 15,
+    "description": "VERVAARDIGING VAN LEER EN LEDERWAREN (EXCL. KLEDING)",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 191,
+    "SBI-2008": "151,152",
+    "description": "Lederfabrieken",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 192,
+    "SBI-2008": 151,
+    "description": "Lederwarenfabrieken (excl. kleding en schoeisel)",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 193,
+    "SBI-2008": 152,
+    "description": "Schoenenfabrieken",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 20,
+    "SBI-2008": "",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 20,
+    "SBI-2008": 16,
+    "description": "HOUTINDUSTRIE EN VERVAARDIGING ARTIKELEN VAN HOUT, RIET, KURK E.D.",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2010.1,
+    "SBI-2008": 16101,
+    "description": "Houtzagerijen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2010.2,
+    "SBI-2008": 16102,
+    "description": "Houtconserveringsbedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2010.2,
+    "SBI-2008": 16102,
+    "description": "met creosootolie",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2010.2,
+    "SBI-2008": 16102,
+    "description": "met zoutoplossingen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 202,
+    "SBI-2008": 1621,
+    "description": "Fineer- en plaatmaterialenfabrieken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": "203, 204, 205",
+    "SBI-2008": 162,
+    "description": "Timmerwerkfabrieken, vervaardiging overige artikelen van hout",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": "203, 204, 205",
+    "SBI-2008": 162,
+    "description": "Timmerwerkfabrieken, vervaardiging overige artikelen van hout, p.o. < 200 m2",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 205,
+    "SBI-2008": 162902,
+    "description": "Kurkwaren-, riet- en vlechtwerkfabrieken",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 21,
+    "SBI-2008": 17,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 21,
+    "SBI-2008": 17,
+    "description": "VERVAARDIGING VAN PAPIER, KARTON EN PAPIER- EN KARTONWAREN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2111,
+    "SBI-2008": 1711,
+    "description": "Vervaardiging van pulp",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2112,
+    "SBI-2008": 1712,
+    "description": "Papier- en kartonfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2112,
+    "SBI-2008": 1712,
+    "description": "- p.c. < 3 t/u",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 2112,
+    "SBI-2008": 1712,
+    "description": "- p.c. 3 - 15 t/u",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2112,
+    "SBI-2008": 1712,
+    "description": "- p.c. >= 15 t/u",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 212,
+    "SBI-2008": 172,
+    "description": "Papier- en kartonwarenfabrieken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2121.2,
+    "SBI-2008": 17212,
+    "description": "Golfkartonfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2121.2,
+    "SBI-2008": 17212,
+    "description": "- p.c. < 3 t/u",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2121.2,
+    "SBI-2008": 17212,
+    "description": "- p.c. >= 3 t/u",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 22,
+    "SBI-2008": 58,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 22,
+    "SBI-2008": 58,
+    "description": "UITGEVERIJEN, DRUKKERIJEN EN REPRODUKTIE VAN OPGENOMEN MEDIA",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 221,
+    "SBI-2008": 581,
+    "description": "Uitgeverijen (kantoren): kantoren b.v.o.  <= 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "",
+    "SBI-2008": "",
+    "description": "Uitgeverijen (kantoren): kantoren b.v.o.  > 1.500 m2 per object",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2221,
+    "SBI-2008": 1811,
+    "description": "Drukkerijen van dagbladen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2222,
+    "SBI-2008": 1812,
+    "description": "Drukkerijen (vlak- en rotatie-diepdrukkerijen)",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2222.6,
+    "SBI-2008": 18129,
+    "description": "Kleine drukkerijen en kopieerinrichtingen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 2223,
+    "SBI-2008": 1814,
+    "description": "Grafische afwerking",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 2223,
+    "SBI-2008": 1814,
+    "description": "Binderijen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 2224,
+    "SBI-2008": 1813,
+    "description": "Grafische reproduktie en zetten",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 2225,
+    "SBI-2008": 1814,
+    "description": "Overige grafische aktiviteiten",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 223,
+    "SBI-2008": 182,
+    "description": "Reproduktiebedrijven opgenomen media",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "",
+    "SBI-2008": "",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 23,
+    "SBI-2008": 19,
+    "description": "AARDOLIE-/STEENKOOLVERWERK. IND.; BEWERKING SPLIJT-/KWEEKSTOFFEN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 231,
+    "SBI-2008": 191,
+    "description": "Cokesfabrieken",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 2320.1,
+    "SBI-2008": 19201,
+    "description": "Aardolieraffinaderijen",
+    "radius": 1500,
+    "category": 6
+  },
+  {
+    "SBI-1993": 2320.2,
+    "SBI-2008": 19202,
+    "description": "Smeeroli�n- en vettenfabrieken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2320.2,
+    "SBI-2008": 19202,
+    "description": "Recyclingbedrijven voor afgewerkte olie",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2320.2,
+    "SBI-2008": 19202,
+    "description": "Aardolieproduktenfabrieken n.e.g.",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 233,
+    "SBI-2008": "201, 212, 244",
+    "description": "Splijt- en kweekstoffenbewerkingsbedrijven",
+    "radius": 1500,
+    "category": 6
+  },
+  {
+    "SBI-1993": 24,
+    "SBI-2008": 20,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 24,
+    "SBI-2008": 20,
+    "description": "VERVAARDIGING VAN CHEMISCHE PRODUKTEN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2411,
+    "SBI-2008": 2011,
+    "description": "Vervaardiging van industri�le gassen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2411,
+    "SBI-2008": 2011,
+    "description": "- luchtscheidingsinstallatie v.c. >= 10 t/d lucht",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 2411,
+    "SBI-2008": 2011,
+    "description": "- overige gassenfabrieken, niet explosief",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 2411,
+    "SBI-2008": 2011,
+    "description": "- overige gassenfabrieken, explosief",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 2412,
+    "SBI-2008": 2012,
+    "description": "Kleur- en verfstoffenfabrieken",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2413,
+    "SBI-2008": 2012,
+    "description": "Anorg. chemische grondstoffenfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2413,
+    "SBI-2008": 2012,
+    "description": "- niet vallend onder \"post-Seveso-richtlijn",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2413,
+    "SBI-2008": 2012,
+    "description": "- vallend onder \"post-Seveso-richtlijn",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 2414.1,
+    "SBI-2008": 20141,
+    "description": "Organ. chemische grondstoffenfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2414.1,
+    "SBI-2008": 20141,
+    "description": "- niet vallend onder \"post-Seveso-richtlijn",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2414.1,
+    "SBI-2008": 20141,
+    "description": "- vallend onder \"post-Seveso-richtlijn",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 2414.1,
+    "SBI-2008": 20141,
+    "description": "Methanolfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2414.1,
+    "SBI-2008": 20141,
+    "description": "- p.c. < 100.000 t/j",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2414.1,
+    "SBI-2008": 20141,
+    "description": "- p.c. >= 100.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2414.2,
+    "SBI-2008": 20149,
+    "description": "Vetzuren en alkanolenfabrieken (niet synth.):",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2414.2,
+    "SBI-2008": 20149,
+    "description": "- p.c. < 50.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2414.2,
+    "SBI-2008": 20149,
+    "description": "- p.c. >= 50.000 t/j",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 2415,
+    "SBI-2008": 2015,
+    "description": "Kunstmeststoffenfabrieken",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 2416,
+    "SBI-2008": 2016,
+    "description": "Kunstharsenfabrieken e.d.",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 242,
+    "SBI-2008": 202,
+    "description": "Landbouwchemicali�nfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 242,
+    "SBI-2008": 202,
+    "description": "fabricage",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 242,
+    "SBI-2008": 202,
+    "description": "formulering en afvullen",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 243,
+    "SBI-2008": 203,
+    "description": "Verf, lak en vernisfabrieken",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2441,
+    "SBI-2008": 2110,
+    "description": "Farmaceutische grondstoffenfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2441,
+    "SBI-2008": 2110,
+    "description": "- p.c. < 1.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2441,
+    "SBI-2008": 2110,
+    "description": "- p.c. >= 1.000 t/j",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 2442,
+    "SBI-2008": 2120,
+    "description": "Farmaceutische produktenfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2442,
+    "SBI-2008": 2120,
+    "description": "formulering en afvullen geneesmiddelen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 2442,
+    "SBI-2008": 2120,
+    "description": "verbandmiddelenfabrieken",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 2451,
+    "SBI-2008": 2041,
+    "description": "Zeep-, was- en reinigingsmiddelenfabrieken",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2452,
+    "SBI-2008": 2042,
+    "description": "Parfumerie- en cosmeticafabrieken",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2461,
+    "SBI-2008": 2051,
+    "description": "Kruit-, vuurwerk-, en springstoffenfabrieken",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 2462,
+    "SBI-2008": 2052,
+    "description": "Lijm- en plakmiddelenfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2462,
+    "SBI-2008": 2052,
+    "description": "zonder dierlijke grondstoffen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2462,
+    "SBI-2008": 2052,
+    "description": "met dierlijke grondstoffen",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 2464,
+    "SBI-2008": 205902,
+    "description": "Fotochemische produktenfabrieken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2466,
+    "SBI-2008": 205903,
+    "description": "Chemische kantoorbenodigdhedenfabrieken",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 2466,
+    "SBI-2008": 205903,
+    "description": "Overige chemische produktenfabrieken n.e.g.",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 247,
+    "SBI-2008": 2060,
+    "description": "Kunstmatige synthetische garen- en vezelfabrieken",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 25,
+    "SBI-2008": 22,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 25,
+    "SBI-2008": 22,
+    "description": "VERVAARDIGING VAN PRODUKTEN VAN RUBBER EN KUNSTSTOF",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2511,
+    "SBI-2008": 221101,
+    "description": "Rubberbandenfabrieken",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2512,
+    "SBI-2008": 221102,
+    "description": "Loopvlakvernieuwingsbedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2512,
+    "SBI-2008": 221102,
+    "description": "- vloeropp. < 100 m2",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 2512,
+    "SBI-2008": 221102,
+    "description": "- vloeropp. >= 100 m2",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2513,
+    "SBI-2008": 2219,
+    "description": "Rubber-artikelenfabrieken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 252,
+    "SBI-2008": 222,
+    "description": "Kunststofverwerkende bedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 252,
+    "SBI-2008": 222,
+    "description": "zonder fenolharsen",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 252,
+    "SBI-2008": 222,
+    "description": "met fenolharsen",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 252,
+    "SBI-2008": 222,
+    "description": "productie van verpakkingsmateriaal en assemblage van kunststofbouwmaterialen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 26,
+    "SBI-2008": 23,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 26,
+    "SBI-2008": 23,
+    "description": "VERVAARDIGING VAN GLAS, AARDEWERK, CEMENT-, KALK- EN GIPSPRODUKTEN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 261,
+    "SBI-2008": 231,
+    "description": "Glasfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 261,
+    "SBI-2008": 231,
+    "description": "- glas en glasprodukten, p.c. < 5.000 t/j",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 261,
+    "SBI-2008": 231,
+    "description": "- glas en glasprodukten, p.c. >= 5.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 261,
+    "SBI-2008": 231,
+    "description": "- glaswol en glasvezels, p.c.< 5.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 261,
+    "SBI-2008": 231,
+    "description": "- glaswol en glasvezels, p.c. >= 5.000 t/j",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 2615,
+    "SBI-2008": 231,
+    "description": "Glasbewerkingsbedrijven",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": "262, 263",
+    "SBI-2008": "232, 234",
+    "description": "Aardewerkfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "262, 263",
+    "SBI-2008": "232, 234",
+    "description": "- vermogen elektrische ovens totaal < 40 kW",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": "262, 263",
+    "SBI-2008": "232, 234",
+    "description": "- vermogen elektrische ovens totaal >= 40 kW",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 264,
+    "SBI-2008": 233,
+    "description": "Baksteen en baksteenelementenfabrieken",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 264,
+    "SBI-2008": 233,
+    "description": "Dakpannenfabrieken",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2651,
+    "SBI-2008": 2351,
+    "description": "Cementfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2651,
+    "SBI-2008": 2351,
+    "description": "- p.c. < 100.000 t/j",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 2651,
+    "SBI-2008": 2351,
+    "description": "- p.c. >= 100.000 t/j",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 2652,
+    "SBI-2008": 235201,
+    "description": "Kalkfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2652,
+    "SBI-2008": 235201,
+    "description": "- p.c. < 100.000 t/j",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2652,
+    "SBI-2008": 235201,
+    "description": "- p.c. >= 100.000 t/j",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 2653,
+    "SBI-2008": 235202,
+    "description": "Gipsfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2653,
+    "SBI-2008": 235202,
+    "description": "- p.c. < 100.000 t/j",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2653,
+    "SBI-2008": 235202,
+    "description": "- p.c. >= 100.000 t/j",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 2661.1,
+    "SBI-2008": 23611,
+    "description": "Betonwarenfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2661.1,
+    "SBI-2008": 23611,
+    "description": "- zonder persen, triltafels en bekistingtrille",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2661.1,
+    "SBI-2008": 23611,
+    "description": "- met persen, triltafels of bekistingtrillers, p.c. < 100 t/d",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2661.1,
+    "SBI-2008": 23611,
+    "description": "- met persen, triltafels of bekistingtrillers, p.c. >= 100 t/d",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 2661.2,
+    "SBI-2008": 23612,
+    "description": "Kalkzandsteenfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2661.2,
+    "SBI-2008": 23612,
+    "description": "- p.c. < 100.000 t/j",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2661.2,
+    "SBI-2008": 23612,
+    "description": "- p.c. >= 100.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2662,
+    "SBI-2008": 2362,
+    "description": "Mineraalgebonden bouwplatenfabrieken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": "2663, 2664",
+    "SBI-2008": "2363, 2364",
+    "description": "Betonmortelcentrales:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "2663, 2664",
+    "SBI-2008": "2363, 2364",
+    "description": "- p.c. < 100 t/u",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": "2663, 2664",
+    "SBI-2008": "2363, 2364",
+    "description": "- p.c. >= 100 t/u",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": "2665, 2666",
+    "SBI-2008": "2365, 2369",
+    "description": "Vervaardiging van produkten van beton, (vezel)cement en gips:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "2665, 2666",
+    "SBI-2008": "2365, 2369",
+    "description": "- p.c. < 100 t/d",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": "2665, 2666",
+    "SBI-2008": "2365, 2369",
+    "description": "- p.c. >= 100 t/d",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 267,
+    "SBI-2008": 237,
+    "description": "Natuursteenbewerkingsbedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 267,
+    "SBI-2008": 237,
+    "description": "- zonder breken, zeven en drogen: p.o. > 2.000 m?",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 267,
+    "SBI-2008": 237,
+    "description": "- zonder breken, zeven en drogen: p.o. <= 2.000 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 267,
+    "SBI-2008": 237,
+    "description": "- met breken, zeven of drogen,   v.c. < 100.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 267,
+    "SBI-2008": 237,
+    "description": "- met breken, zeven of drogen,   v.c. >= 100.000 t/j",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 2681,
+    "SBI-2008": 2391,
+    "description": "Slijp- en polijstmiddelen fabrieken",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 2682,
+    "SBI-2008": 2399,
+    "description": "Bitumineuze materialenfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2682,
+    "SBI-2008": 2399,
+    "description": "- p.c. < 100 t/u",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2682,
+    "SBI-2008": 2399,
+    "description": "- p.c. >= 100 t/u",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 2682,
+    "SBI-2008": 2399,
+    "description": "Isolatiematerialenfabrieken (excl. glaswol):",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2682,
+    "SBI-2008": 2399,
+    "description": "- steenwol, p.c. >= 5.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2682,
+    "SBI-2008": 2399,
+    "description": "overige isolatiematerialen",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2682,
+    "SBI-2008": 2399,
+    "description": "Minerale produktenfabrieken n.e.g.",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2682,
+    "SBI-2008": 2399,
+    "description": "Asfaltcentrales: p.c.< 100 ton/uur",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2682,
+    "SBI-2008": 2399,
+    "description": "- asfaltcentrales, p.c. >= 100 ton/uur",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 27,
+    "SBI-2008": 24,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 27,
+    "SBI-2008": 24,
+    "description": "VERVAARDIGING VAN METALEN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 271,
+    "SBI-2008": 241,
+    "description": "Ruwijzer- en staalfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 271,
+    "SBI-2008": 241,
+    "description": "- p.c. < 1.000 t/j",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 271,
+    "SBI-2008": 241,
+    "description": "- p.c. >= 1.000 t/j",
+    "radius": 1500,
+    "category": 6
+  },
+  {
+    "SBI-1993": 272,
+    "SBI-2008": 245,
+    "description": "IJzeren- en stalenbuizenfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 272,
+    "SBI-2008": 245,
+    "description": "- p.o. < 2.000 m2",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 272,
+    "SBI-2008": 245,
+    "description": "- p.o. >= 2.000 m2",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 273,
+    "SBI-2008": 243,
+    "description": "Draadtrekkerijen, koudbandwalserijen en profielzetterijen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 273,
+    "SBI-2008": 243,
+    "description": "- p.o. < 2.000 m2",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 273,
+    "SBI-2008": 243,
+    "description": "- p.o. >= 2.000 m2",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 274,
+    "SBI-2008": 244,
+    "description": "Non-ferro-metaalfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 274,
+    "SBI-2008": 244,
+    "description": "- p.c. < 1.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 274,
+    "SBI-2008": 244,
+    "description": "- p.c. >= 1.000 t/j",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 274,
+    "SBI-2008": 244,
+    "description": "Non-ferro-metaalwalserijen, -trekkerijen e.d.:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 274,
+    "SBI-2008": 244,
+    "description": "- p.o. < 2.000 m2",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 274,
+    "SBI-2008": 244,
+    "description": "- p.o. >= 2.000 m2",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": "2751, 2752",
+    "SBI-2008": "2451, 2452",
+    "description": "IJzer- en staalgieterijen/ -smelterijen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "2751, 2752",
+    "SBI-2008": "2451, 2452",
+    "description": "- p.c. < 4.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": "2751, 2752",
+    "SBI-2008": "2451, 2452",
+    "description": "- p.c. >= 4.000 t/j",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": "2753, 2754",
+    "SBI-2008": "2453, 2454",
+    "description": "Non-ferro-metaalgieterijen/ -smelterijen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "2753, 2754",
+    "SBI-2008": "2453, 2454",
+    "description": "- p.c. < 4.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": "2753, 2754",
+    "SBI-2008": "2453, 2454",
+    "description": "- p.c. >= 4.000 t/j",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 28,
+    "SBI-2008": 25,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 28,
+    "SBI-2008": "25, 31",
+    "description": "VERVAARD. EN REPARATIE VAN PRODUKTEN VAN METAAL (EXCL. MACH./TRANSPORTMIDD.)",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 281,
+    "SBI-2008": "251, 331",
+    "description": "Constructiewerkplaatsen",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 281,
+    "SBI-2008": "251, 331",
+    "description": "gesloten gebouw",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 281,
+    "SBI-2008": "251, 331",
+    "description": "- gesloten gebouw, p.o. < 200 m2",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 281,
+    "SBI-2008": "251, 331",
+    "description": "- in open lucht, p.o. < 2.000 m2",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 281,
+    "SBI-2008": "251, 331",
+    "description": "- in open lucht, p.o. >= 2.000 m2",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2821,
+    "SBI-2008": "2529, 3311",
+    "description": "Tank- en reservoirbouwbedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2821,
+    "SBI-2008": "2529, 3311",
+    "description": "- p.o. < 2.000 m2",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 2821,
+    "SBI-2008": "2529, 3311",
+    "description": "- p.o. >= 2.000 m2",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": "2822, 2830",
+    "SBI-2008": "2521, 2530, 3311",
+    "description": "Vervaardiging van verwarmingsketels, radiatoren en stoomketels",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 284,
+    "SBI-2008": "255, 331",
+    "description": "Stamp-, pers-, dieptrek- en forceerbedrijven",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 284,
+    "SBI-2008": "255, 331",
+    "description": "Smederijen, lasinrichtingen, bankwerkerijen e.d.",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 284,
+    "SBI-2008": "255, 331",
+    "description": "Smederijen, lasinrichtingen, bankwerkerijen e.d., p.o. < 200 m2",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "Metaaloppervlaktebehandelingsbedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "algemeen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "stralen",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "metaalharden",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "lakspuiten en moffelen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "scoperen (opspuiten van zink)",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "thermisch verzinken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "thermisch vertinnen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "- mechanische oppervlaktebehandeling (slijpen, polijsten)",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "- anodiseren, eloxeren",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "chemische oppervlaktebehandeling",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "emailleren",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2851,
+    "SBI-2008": "2561, 3311",
+    "description": "- galvaniseren (vernikkelen, verchromen, verzinken, verkoperen ed)",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2852,
+    "SBI-2008": "2562, 3311",
+    "description": "Overige metaalbewerkende industrie",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 2852,
+    "SBI-2008": "2562, 3311",
+    "description": "Overige metaalbewerkende industrie, inpandig, p.o. <200m2",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 287,
+    "SBI-2008": "259, 331",
+    "description": "Grofsmederijen, anker- en kettingfabrieken:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 287,
+    "SBI-2008": "259, 331",
+    "description": "- p.o. < 2.000 m2",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 287,
+    "SBI-2008": "259, 331",
+    "description": "- p.o. >= 2.000 m2",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 287,
+    "SBI-2008": "259, 331",
+    "description": "Overige metaalwarenfabrieken n.e.g.",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 287,
+    "SBI-2008": "259, 331",
+    "description": "Overige metaalwarenfabrieken n.e.g.; inpandig, p.o. <200 m2",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 29,
+    "SBI-2008": "27, 28, 33",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 29,
+    "SBI-2008": "27, 28, 33",
+    "description": "VERVAARDIGING VAN MACHINES EN APPARATEN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 29,
+    "SBI-2008": "27, 28, 33",
+    "description": "Machine- en apparatenfabrieken incl. reparatie:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 29,
+    "SBI-2008": "27, 28, 33",
+    "description": "- p.o. < 2.000 m2",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 29,
+    "SBI-2008": "27, 28, 33",
+    "description": "- p.o. >= 2.000 m2",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 29,
+    "SBI-2008": "28, 33",
+    "description": "- met proefdraaien verbrandingsmotoren >= 1 MW",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 30,
+    "SBI-2008": "26, 28, 33",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 30,
+    "SBI-2008": "26, 28, 33",
+    "description": "VERVAARDIGING VAN KANTOORMACHINES EN COMPUTERS",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 30,
+    "SBI-2008": "26, 28, 33",
+    "description": "Kantoormachines- en computerfabrieken incl. reparatie",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 31,
+    "SBI-2008": "26, 27, 33",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 31,
+    "SBI-2008": "26, 27, 33",
+    "description": "VERVAARDIGING VAN OVER. ELEKTR. MACHINES, APPARATEN EN BENODIGDH.",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 311,
+    "SBI-2008": "271, 331",
+    "description": "Elektromotoren- en generatorenfabrieken incl. reparatie",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 312,
+    "SBI-2008": "271, 273",
+    "description": "Schakel- en installatiemateriaalfabrieken",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 313,
+    "SBI-2008": 273,
+    "description": "Elektrische draad- en kabelfabrieken",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 314,
+    "SBI-2008": 272,
+    "description": "Accumulatoren- en batterijenfabrieken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 315,
+    "SBI-2008": 274,
+    "description": "Lampenfabrieken",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 316,
+    "SBI-2008": 293,
+    "description": "Elektrotechnische industrie n.e.g.",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 3162,
+    "SBI-2008": 2790,
+    "description": "Koolelektrodenfabrieken",
+    "radius": 1500,
+    "category": 6
+  },
+  {
+    "SBI-1993": 32,
+    "SBI-2008": "26, 33",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 32,
+    "SBI-2008": "26, 33",
+    "description": "VERVAARDIGING VAN AUDIO-, VIDEO-, TELECOM-APPARATEN EN -BENODIGDH.",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "321 t/m 323",
+    "SBI-2008": "261, 263, 264, 331",
+    "description": "Vervaardiging van audio-, video- en telecom-apparatuur e.d. incl. reparatie",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 3210,
+    "SBI-2008": 2612,
+    "description": "Fabrieken voor gedrukte bedrading",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 33,
+    "SBI-2008": "26, 32, 33",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 33,
+    "SBI-2008": "26, 32, 33",
+    "description": "VERVAARDIGING VAN MEDISCHE EN OPTISCHE APPARATEN EN INSTRUMENTEN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 33,
+    "SBI-2008": "26, 32, 33",
+    "description": "Fabrieken voor medische en optische apparaten en instrumenten e.d. incl. reparatie",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 34,
+    "SBI-2008": 29,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 34,
+    "SBI-2008": 29,
+    "description": "VERVAARDIGING VAN AUTO'S, AANHANGWAGENS EN OPLEGGERS",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 341,
+    "SBI-2008": 291,
+    "description": "Autofabrieken en assemblagebedrijven",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 341,
+    "SBI-2008": 291,
+    "description": "- p.o. < 10.000 m2",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 341,
+    "SBI-2008": 291,
+    "description": "- p.o. >= 10.000 m2",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 3420.1,
+    "SBI-2008": 29201,
+    "description": "Carrosseriefabrieken",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 3420.2,
+    "SBI-2008": 29202,
+    "description": "Aanhangwagen- en opleggerfabrieken",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 343,
+    "SBI-2008": 293,
+    "description": "Auto-onderdelenfabrieken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 35,
+    "SBI-2008": 30,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 35,
+    "SBI-2008": 30,
+    "description": "VERVAARDIGING VAN TRANSPORTMIDDELEN (EXCL. AUTO'S, AANHANGWAGENS)",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 351,
+    "SBI-2008": "301, 3315",
+    "description": "Scheepsbouw- en reparatiebedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 351,
+    "SBI-2008": "301, 3315",
+    "description": "houten schepen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 351,
+    "SBI-2008": "301, 3315",
+    "description": "kunststof schepen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 351,
+    "SBI-2008": "301, 3315",
+    "description": "- metalen schepen < 25 m",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 351,
+    "SBI-2008": "301, 3315",
+    "description": "- metalen schepen >= 25m en/of proefdraaien motoren >= 1 MW",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 3511,
+    "SBI-2008": 3831,
+    "description": "Scheepssloperijen",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 352,
+    "SBI-2008": "302, 317",
+    "description": "Wagonbouw- en spoorwegwerkplaatsen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 352,
+    "SBI-2008": "302, 317",
+    "description": "algemeen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 352,
+    "SBI-2008": "302, 317",
+    "description": "- met proefdraaien van verbrandingsmotoren >= 1 MW",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 353,
+    "SBI-2008": "303, 3316",
+    "description": "Vliegtuigbouw en -reparatiebedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 353,
+    "SBI-2008": "303, 3316",
+    "description": "zonder proefdraaien motoren",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 353,
+    "SBI-2008": "303, 3316",
+    "description": "met proefdraaien motoren",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 354,
+    "SBI-2008": 309,
+    "description": "Rijwiel- en motorrijwielfabrieken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 355,
+    "SBI-2008": 3099,
+    "description": "Transportmiddelenindustrie n.e.g.",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 36,
+    "SBI-2008": 31,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 36,
+    "SBI-2008": 31,
+    "description": "VERVAARDIGING VAN MEUBELS EN OVERIGE GOEDEREN N.E.G.",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 361,
+    "SBI-2008": 310,
+    "description": "Meubelfabrieken",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 361,
+    "SBI-2008": 9524,
+    "description": "Meubelstoffeerderijen b.o. < 200 m2",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 362,
+    "SBI-2008": 321,
+    "description": "Fabricage van munten, sieraden e.d.",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 363,
+    "SBI-2008": 322,
+    "description": "Muziekinstrumentenfabrieken",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 364,
+    "SBI-2008": 323,
+    "description": "Sportartikelenfabrieken",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 365,
+    "SBI-2008": 324,
+    "description": "Speelgoedartikelenfabrieken",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 3663.1,
+    "SBI-2008": 32991,
+    "description": "Sociale werkvoorziening",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 3663.2,
+    "SBI-2008": 32999,
+    "description": "Vervaardiging van overige goederen n.e.g.",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 37,
+    "SBI-2008": 38,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 37,
+    "SBI-2008": 38,
+    "description": "VOORBEREIDING TOT RECYCLING",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 371,
+    "SBI-2008": 383201,
+    "description": "Metaal- en autoschredders",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 372,
+    "SBI-2008": 383202,
+    "description": "Puinbrekerijen en -malerijen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 372,
+    "SBI-2008": 383202,
+    "description": "- v.c. < 100.000 t/j",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 372,
+    "SBI-2008": 383202,
+    "description": "- v.c. >= 100.000 t/j",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 372,
+    "SBI-2008": 383202,
+    "description": "Rubberregeneratiebedrijven",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 372,
+    "SBI-2008": 383202,
+    "description": "Afvalscheidingsinstallaties",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "PRODUKTIE EN DISTRIB. VAN STROOM, AARDGAS, STOOM EN WARM WATER",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "Elektriciteitsproduktiebedrijven (electrisch vermogen >= 50 MWe)",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- kolengestookt (incl. meestook biomassa), thermisch vermogen > 75 MWth",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- oliegestookt, thermisch vermogen > 75 MWth",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- gasgestookt (incl. bijstook biomassa), thermisch vermogen > 75 MWth,in",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "#NAME?",
+    "radius": 1500,
+    "category": 6
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- warmte-kracht-installaties (gas), thermisch vermogen > 75 MWth",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "bio-energieinstallaties electrisch vermogen < 50 MWe:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- covergisting, verbranding en vergassing van mest, slib, GFT en reststromen voedingsindustrie",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- vergisting, verbranding en vergassing van overige biomassa",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "Elektriciteitsdistributiebedrijven, met transformatorvermogen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- < 10 MVA",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- 10 - 100 MVA",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- 100 - 200 MVA",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- 200 - 1000 MVA",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- >= 1000 MVA",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "Gasdistributiebedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- gascompressorstations vermogen < 100 MW",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- gascompressorstations vermogen >= 100 MW",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- gas: reduceer-, compressor-, meet- en regelinst. Cat. A",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- gasdrukregel- en meetruimten (kasten en gebouwen), cat. B en C",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- gasontvang- en -verdeelstations, cat. D",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "Warmtevoorzieningsinstallaties, gasgestookt:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "stadsverwarming",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "blokverwarming",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "windmolens:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- wiekdiameter 20 m",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- wiekdiameter 30 m",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 40,
+    "SBI-2008": 35,
+    "description": "- wiekdiameter 50 m",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 41,
+    "SBI-2008": 36,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 41,
+    "SBI-2008": 36,
+    "description": "WINNING EN DITRIBUTIE VAN WATER",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 41,
+    "SBI-2008": 36,
+    "description": "Waterwinning-/ bereiding- bedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 41,
+    "SBI-2008": 36,
+    "description": "met chloorgas",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 41,
+    "SBI-2008": 36,
+    "description": "bereiding met chloorbleekloog e.d. en/of straling",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 41,
+    "SBI-2008": 36,
+    "description": "Waterdistributiebedrijven met pompvermogen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 41,
+    "SBI-2008": 36,
+    "description": "- < 1 MW",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 41,
+    "SBI-2008": 36,
+    "description": "- 1 - 15 MW",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 41,
+    "SBI-2008": 36,
+    "description": "- >= 15 MW",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 45,
+    "SBI-2008": "41, 42, 43",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 45,
+    "SBI-2008": "41, 42, 43",
+    "description": "BOUWNIJVERHEID",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 45,
+    "SBI-2008": "41, 42, 43",
+    "description": "Bouwbedrijven algemeen: b.o. > 2.000 m?",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 45,
+    "SBI-2008": "41, 42, 43",
+    "description": "- bouwbedrijven algemeen: b.o. <= 2.000 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 45,
+    "SBI-2008": "41, 42, 43",
+    "description": "Aannemersbedrijven met werkplaats: b.o. > 1000 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 45,
+    "SBI-2008": "41, 42, 43",
+    "description": "- aannemersbedrijven met werkplaats: b.o.< 1000 m?",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 50,
+    "SBI-2008": "45, 47",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 50,
+    "SBI-2008": "45, 47",
+    "description": "HANDEL/REPARATIE VAN AUTO'S, MOTORFIETSEN; BENZINESERVICESTATIONS",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "501, 502, 504",
+    "SBI-2008": "451, 452, 454",
+    "description": "Handel in auto's en motorfietsen, reparatie- en servicebedrijven",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 501,
+    "SBI-2008": 451,
+    "description": "Handel in vrachtauto's (incl. import en reparatie)",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 5020.4,
+    "SBI-2008": 45204,
+    "description": "Autoplaatwerkerijen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 5020.4,
+    "SBI-2008": 45204,
+    "description": "Autobeklederijen",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 5020.4,
+    "SBI-2008": 45204,
+    "description": "Autospuitinrichtingen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 5020.5,
+    "SBI-2008": 45205,
+    "description": "Autowasserijen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": "503, 504",
+    "SBI-2008": 453,
+    "description": "Handel in auto- en motorfietsonderdelen en -accessoires",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 505,
+    "SBI-2008": 473,
+    "description": "Benzineservisestations:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 505,
+    "SBI-2008": 473,
+    "description": "- met LPG > 1000 m3/jr",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 505,
+    "SBI-2008": 473,
+    "description": "- met LPG < 1000 m3/jr",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 505,
+    "SBI-2008": 473,
+    "description": "zonder LPG",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 51,
+    "SBI-2008": 46,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 51,
+    "SBI-2008": 46,
+    "description": "GROOTHANDEL EN HANDELSBEMIDDELING",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 511,
+    "SBI-2008": 461,
+    "description": "Handelsbemiddeling (kantoren)/ Handelsbemiddeling (kantoren): kantoren b.v.o.  <=1.500 m2 per objec",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 511,
+    "SBI-2008": 461,
+    "description": "Handelsbemiddeling (kantoren)/Handelsbemiddeling (kantoren): kantoren b.v.o.  > 1.500 m2 per objec",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 5121,
+    "SBI-2008": 4621,
+    "description": "Grth in akkerbouwprodukten en veevoeders",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 5121,
+    "SBI-2008": 4621,
+    "description": "Grth in akkerbouwprodukten en veevoeders met een verwerkingscapaciteit van 500 ton/uur of meer",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 5122,
+    "SBI-2008": 4622,
+    "description": "Grth in bloemen en planten",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5123,
+    "SBI-2008": 4623,
+    "description": "Grth in levende dieren",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 5124,
+    "SBI-2008": 4624,
+    "description": "Grth in huiden, vellen en leder",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": "5125, 5131",
+    "SBI-2008": "46217, 4631",
+    "description": "Grth in ruwe tabak, groenten, fruit en consumptie-aardappelen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": "5132, 5133",
+    "SBI-2008": "4632, 4633",
+    "description": "Grth in vlees, vleeswaren, zuivelprodukten, eieren, spijsoli�n",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 5134,
+    "SBI-2008": 4634,
+    "description": "Grth in dranken",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5135,
+    "SBI-2008": 4635,
+    "description": "Grth in tabaksprodukten",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5136,
+    "SBI-2008": 4636,
+    "description": "Grth in suiker, chocolade en suikerwerk",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5137,
+    "SBI-2008": 4637,
+    "description": "Grth in koffie, thee, cacao en specerijen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": "5138, 5139",
+    "SBI-2008": "4638, 4639",
+    "description": "Grth in overige voedings- en genotmiddelen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 514,
+    "SBI-2008": "464, 46733",
+    "description": "Grth in overige consumentenartikelen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5148.7,
+    "SBI-2008": 46499,
+    "description": "Grth in vuurwerk en munitie:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 5148.7,
+    "SBI-2008": 46499,
+    "description": "- consumentenvuurwerk, verpakt, opslag < 10 ton",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5148.7,
+    "SBI-2008": 46499,
+    "description": "- consumentenvuurwerk, verpakt, opslag 10 tot 50 ton",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 5148.7,
+    "SBI-2008": 46499,
+    "description": "- professioneel vuurwerk, netto expl. massa per bewaarplaats < 750 kg (en > 25 kg theatervuurwerk)",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 5148.7,
+    "SBI-2008": 46499,
+    "description": "- professioneel vuurwerk, netto expl. massa per bewaarplaats 750 kg tot 6 ton",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 5148.7,
+    "SBI-2008": 46499,
+    "description": "munitie",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5151.1,
+    "SBI-2008": 46711,
+    "description": "Grth in vaste brandstoffen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 5151.1,
+    "SBI-2008": 46711,
+    "description": "- klein, lokaal verzorgingsgebied",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 5151.1,
+    "SBI-2008": 46711,
+    "description": "- kolenterminal, opslag opp. >= 2.000 m2",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 5151.2,
+    "SBI-2008": 46712,
+    "description": "Grth in vloeibare en gasvormige brandstoffen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 5151.2,
+    "SBI-2008": 46712,
+    "description": "- vloeistoffen, o.c. < 100.000 m3",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 5151.2,
+    "SBI-2008": 46712,
+    "description": "- vloeistoffen, o.c. >= 100.000 m3",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 5151.2,
+    "SBI-2008": 46712,
+    "description": "tot vloeistof verdichte gassen",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 5151.3,
+    "SBI-2008": 46713,
+    "description": "Grth minerale olieprodukten (excl. brandstoffen)",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 5152.1,
+    "SBI-2008": 46721,
+    "description": "Grth in metaalertsen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 5152.1,
+    "SBI-2008": 46721,
+    "description": "- opslag opp. < 2.000 m2",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 5152.1,
+    "SBI-2008": 46721,
+    "description": "- opslag opp. >= 2.000 m2",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": "5152.2 /.3",
+    "SBI-2008": "46722, 46723",
+    "description": "Grth in metalen en -halffabrikaten",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 5153,
+    "SBI-2008": 4673,
+    "description": "Grth in hout en bouwmaterialen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 5153,
+    "SBI-2008": 4673,
+    "description": "- algemeen: b.o. > 2000 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 5153,
+    "SBI-2008": 4673,
+    "description": "- algemeen: b.o. <= 2000 m?",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5153.4,
+    "SBI-2008": 46735,
+    "description": "zand en grind:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 5153.4,
+    "SBI-2008": 46735,
+    "description": "- algemeen: b.o. > 200 m?",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 5153.4,
+    "SBI-2008": 46735,
+    "description": "- algemeen: b.o. <= 200 m?",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5154,
+    "SBI-2008": 4674,
+    "description": "Grth in ijzer- en metaalwaren en verwarmingsapparatuur:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 5154,
+    "SBI-2008": 4674,
+    "description": "- algemeen: b.o. > 2.000 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 5154,
+    "SBI-2008": 4674,
+    "description": "- algemeen: b.o. < = 2.000 m?",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5155.1,
+    "SBI-2008": 46751,
+    "description": "Grth in chemische produkten",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 5155.2,
+    "SBI-2008": 46752,
+    "description": "Grth in kunstmeststoffen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5156,
+    "SBI-2008": 4676,
+    "description": "Grth in overige intermediaire goederen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5157,
+    "SBI-2008": 4677,
+    "description": "Autosloperijen: b.o. > 1000 m?",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 5157,
+    "SBI-2008": 4677,
+    "description": "- autosloperijen: b.o. <= 1000 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": "5157.2/3",
+    "SBI-2008": 4677,
+    "description": "Overige groothandel in afval en schroot: b.o. > 1000 m?",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": "5157.2/3",
+    "SBI-2008": 4677,
+    "description": "- overige groothandel in afval en schroot: b.o. <= 1000 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 518,
+    "SBI-2008": 466,
+    "description": "Grth in machines en apparaten:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 518,
+    "SBI-2008": 466,
+    "description": "machines voor de bouwnijverheid",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 518,
+    "SBI-2008": 466,
+    "description": "overige",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 519,
+    "SBI-2008": "466, 469",
+    "description": "Overige grth (bedrijfsmeubels, emballage, vakbenodigdheden e.d.",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 52,
+    "SBI-2008": 47,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 52,
+    "SBI-2008": 47,
+    "description": "DETAILHANDEL EN REPARATIE T.B.V. PARTICULIEREN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 52,
+    "SBI-2008": 47,
+    "description": "Detailhandel voor zover n.e.g.",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "5211/2,5246/9",
+    "SBI-2008": 471,
+    "description": "Supermarkten, warenhuizen: complexen > 5 winkels met samen > 1000m2 en winkels b.v.o. > 2000m",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "5211/2,5246/9",
+    "SBI-2008": 471,
+    "description": "Supermarkten, warenhuizen",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "5222, 5223",
+    "SBI-2008": "4722, 4723",
+    "description": "Detailhandel vlees, wild, gevogelte, met roken, koken, bakken",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 5224,
+    "SBI-2008": 4724,
+    "description": "Detailhandel brood en banket met bakken voor eigen winkel",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "5231, 5232",
+    "SBI-2008": "4773, 4774",
+    "description": "Apotheken en drogisterijen",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "5246/9",
+    "SBI-2008": 4752,
+    "description": "Bouwmarkten, tuincentra, hypermarkten/Hypermarkten: complexen > 5 winkels met samen > 1000m2 b.v.o. en winkels b.v.o. > 2000m",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": "5246/9",
+    "SBI-2008": 4752,
+    "description": "Bouwmarkten, tuincentra b.v.o. > 3000m2",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": "5246/9",
+    "SBI-2008": 4752,
+    "description": "Bouwmarkten, tuincentra, hypermarkten",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5249,
+    "SBI-2008": 4778,
+    "description": "Detailhandel in vuurwerk tot 10 ton verpakt",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 5261,
+    "SBI-2008": 4791,
+    "description": "Postorderbedrijven",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 527,
+    "SBI-2008": 952,
+    "description": "Reparatie t.b.v. particulieren (excl. auto's en motorfietsen)",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 55,
+    "SBI-2008": 55,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 55,
+    "SBI-2008": 55,
+    "description": "LOGIES-, MAALTIJDEN- EN DRANKENVERSTREKKING",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "",
+    "SBI-2008": "",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "5511, 5512",
+    "SBI-2008": 5510,
+    "description": "Hotels en pensions met keuken, conferentie-oorden en congrescentra/Hotels en pensions met keuken b.v.o.> 1500m",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "5511, 5512",
+    "SBI-2008": 5510,
+    "description": "Hotels en pensions met keuken, conferentie-oorden en congrescentr/Conferentie-oorden en congrescentra",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "5511, 5512",
+    "SBI-2008": 5510,
+    "description": "Hotels en pensions met keuken, conferentie-oorden en congrescentr",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 552,
+    "SBI-2008": "553, 552",
+    "description": "Kampeerterreinen, vakantiecentra, e.d. (met keuken)/Kampeerterreinen, vakantiecentra, e.d. (met keuken) > 50 mensen kunnen meer dan 40 uur per week aanwezig zijn",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 552,
+    "SBI-2008": "553, 552",
+    "description": "Kampeerterreinen, vakantiecentra, e.d. (met keuken)",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 553,
+    "SBI-2008": 561,
+    "description": "Restaurants, cafetaria's, snackbars, ijssalons met eigen ijsbereiding, viskramen e.d./Restaurants b.v.o. >375m2",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 553,
+    "SBI-2008": 561,
+    "description": "Restaurants, cafetaria's, snackbars, ijssalons met eigen ijsbereiding, viskramen e.d.",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 554,
+    "SBI-2008": 563,
+    "description": "Caf�'s, bars/Caf�'s, bars b.v.o. > 150m2",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 554,
+    "SBI-2008": 563,
+    "description": "Caf�'s, bars",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 554,
+    "SBI-2008": 563,
+    "description": "Discotheken, muziekcaf�'s/ b.v.o.> 150m2",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 554,
+    "SBI-2008": 563,
+    "description": "Discotheken, muziekcaf�'s",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 5551,
+    "SBI-2008": 5629,
+    "description": "Kantines",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 5552,
+    "SBI-2008": 562,
+    "description": "Cateringbedrijven",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 60,
+    "SBI-2008": 49,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 60,
+    "SBI-2008": 49,
+    "description": "VERVOER OVER LAND",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 601,
+    "SBI-2008": "491, 492",
+    "description": "Spoorwegen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 601,
+    "SBI-2008": "491, 492",
+    "description": "stations",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 601,
+    "SBI-2008": "491, 492",
+    "description": "- rangeerterreinen, overslagstations (zonder rangeerheuvel)",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 6021.1,
+    "SBI-2008": 493,
+    "description": "Bus-, tram- en metrostations en -remises",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 6022,
+    "SBI-2008": 493,
+    "description": "Taxibedrijven",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 6023,
+    "SBI-2008": 493,
+    "description": "Touringcarbedrijven",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 6024,
+    "SBI-2008": 494,
+    "description": "Goederenwegvervoerbedrijven (zonder schoonmaken tanks): b.o. > 1000 m?",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 6024,
+    "SBI-2008": 494,
+    "description": "- Goederenwegvervoerbedrijven (zonder schoonmaken tanks) b.o. <= 1000 m?",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 603,
+    "SBI-2008": 495,
+    "description": "Pomp- en compressorstations van pijpleidingen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": "61, 62",
+    "SBI-2008": "50, 51",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "61, 62",
+    "SBI-2008": "50, 51",
+    "description": "VERVOER OVER WATER / DOOR DE LUCHT",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "61, 62",
+    "SBI-2008": "50, 51",
+    "description": "Vervoersbedrijven (uitsluitend kantoren)/kantoren b.v.o. <= 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "61, 62",
+    "SBI-2008": "50, 51",
+    "description": "Vervoersbedrijven (uitsluitend kantoren)/kantoren b.v.o.> 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 63,
+    "SBI-2008": 52,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 63,
+    "SBI-2008": 52,
+    "description": "DIENSTVERLENING T.B.V. HET VERVOER",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 6311.1,
+    "SBI-2008": 52241,
+    "description": "Laad-, los- en overslagbedrijven t.b.v. zeeschepen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 6311.1,
+    "SBI-2008": 52241,
+    "description": "containers",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 6311.1,
+    "SBI-2008": 52241,
+    "description": "stukgoederen",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 6311.1,
+    "SBI-2008": 52241,
+    "description": "- ertsen, mineralen e.d., opslagopp. >= 2.000 m2",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 6311.1,
+    "SBI-2008": 52241,
+    "description": "- granen of meelsoorten, v.c. >= 500 t/u",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 6311.1,
+    "SBI-2008": 52241,
+    "description": "- steenkool, opslagopp. >= 2.000 m2",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 6311.1,
+    "SBI-2008": 52241,
+    "description": "- olie, LPG, e.d.",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 6311.1,
+    "SBI-2008": 52241,
+    "description": "tankercleaning",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 6311.2,
+    "SBI-2008": 52242,
+    "description": "Laad-, los- en overslagbedrijven t.b.v. binnenvaart:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 6311.2,
+    "SBI-2008": 52242,
+    "description": "containers",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 6311.2,
+    "SBI-2008": 52242,
+    "description": "tankercleaning",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 6311.2,
+    "SBI-2008": 52242,
+    "description": "stukgoederen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 6311.2,
+    "SBI-2008": 52242,
+    "description": "- ertsen, mineralen, e.d., opslagopp. < 2.000 m?",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 6311.2,
+    "SBI-2008": 52242,
+    "description": "- ersten, mineralen, e.d., opslagopp. >= 2.000 m?",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 6311.2,
+    "SBI-2008": 52242,
+    "description": "- granen of meelsoorten , v.c. < 500 t/u",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 6311.2,
+    "SBI-2008": 52242,
+    "description": "- granen of meelsoorten, v.c. >= 500 t/u",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 6311.2,
+    "SBI-2008": 52242,
+    "description": "- steenkool, opslagopp. < 2.000 m2",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 6311.2,
+    "SBI-2008": 52242,
+    "description": "- steenkool, opslagopp. >= 2.000 m2",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 6311.2,
+    "SBI-2008": 52242,
+    "description": "- olie, LPG, e.d.",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 6312,
+    "SBI-2008": "52102, 52109",
+    "description": "Distributiecentra, pak- en koelhuizen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 6312,
+    "SBI-2008": 52109,
+    "description": "Opslaggebouwen (verhuur opslagruimte)",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 6321,
+    "SBI-2008": 5221,
+    "description": "Autoparkeerterreinen, parkeergarages",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 6321,
+    "SBI-2008": 5221,
+    "description": "Stalling van vrachtwagens (met koelinstallaties)",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": "6322, 6323",
+    "SBI-2008": 5222,
+    "description": "Overige dienstverlening t.b.v. vervoer (kantoren)/kantoren b.v.o. <= 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "6322, 6323",
+    "SBI-2008": 5222,
+    "description": "Overige dienstverlening t.b.v. vervoer (kantoren)/kantoren b.v.o.> 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 6323,
+    "SBI-2008": 5223,
+    "description": "Luchthavens",
+    "radius": 1500,
+    "category": 6
+  },
+  {
+    "SBI-1993": 6323,
+    "SBI-2008": 5223,
+    "description": "Helikopterlandplaatsen",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 633,
+    "SBI-2008": 791,
+    "description": "Reisorganisaties/(kantoren) b.v.o. > 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 633,
+    "SBI-2008": 791,
+    "description": "Reisorganisaties",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 634,
+    "SBI-2008": 5229,
+    "description": "Expediteurs, cargadoors (kantoren)/kantoren b.v.o. <= 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 634,
+    "SBI-2008": 5229,
+    "description": "Expediteurs, cargadoors (kantoren)",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 64,
+    "SBI-2008": 64,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 64,
+    "SBI-2008": 53,
+    "description": "POST EN TELECOMMUNICATIE",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 641,
+    "SBI-2008": "531, 532",
+    "description": "Post- en koeriersdiensten",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 642,
+    "SBI-2008": 61,
+    "description": "Telecommunicatiebedrijven/(kantoren) b.v.o. > 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 642,
+    "SBI-2008": 61,
+    "description": "Telecommunicatiebedrijven",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 642,
+    "SBI-2008": 61,
+    "description": "zendinstallaties:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 642,
+    "SBI-2008": 61,
+    "description": "- LG en MG, zendervermogen < 100 kW (bij groter vermogen: onderzoek!)",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 642,
+    "SBI-2008": 61,
+    "description": "FM en TV",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 642,
+    "SBI-2008": 61,
+    "description": "GSM en UMTS-steunzenders (indien bouwvergunningplichtig)",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "65, 66, 67",
+    "SBI-2008": "64, 65, 66",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "65, 66, 67",
+    "SBI-2008": "64, 65, 66",
+    "description": "FINANCIELE INSTELLINGEN EN VERZEKERINGSWEZEN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "65, 66, 67",
+    "SBI-2008": "64, 65, 66",
+    "description": "Banken, verzekeringsbedrijven, beurzen/b.v.o. <= 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "65, 66, 67",
+    "SBI-2008": "64, 65, 66",
+    "description": "Banken, verzekeringsbedrijven, beurzen/  b.v.o. > 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 70,
+    "SBI-2008": "41, 68",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 70,
+    "SBI-2008": "41, 68",
+    "description": "VERHUUR VAN EN HANDEL IN ONROEREND GOED",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 70,
+    "SBI-2008": "41, 68",
+    "description": "Verhuur van en handel in onroerend goed",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 71,
+    "SBI-2008": 77,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 71,
+    "SBI-2008": 77,
+    "description": "VERHUUR VAN TRANSPORTMIDDELEN, MACHINES, ANDERE ROERENDE GOEDEREN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 711,
+    "SBI-2008": 7711,
+    "description": "Personenautoverhuurbedrijven",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 712,
+    "SBI-2008": "7712, 7739",
+    "description": "Verhuurbedrijven voor transportmiddelen (excl. personenauto's)",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 713,
+    "SBI-2008": 773,
+    "description": "Verhuurbedrijven voor machines en werktuigen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 714,
+    "SBI-2008": 772,
+    "description": "Verhuurbedrijven voor roerende goederen n.e.g.",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 72,
+    "SBI-2008": 62,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 72,
+    "SBI-2008": 62,
+    "description": "COMPUTERSERVICE- EN INFORMATIETECHNOLOGIE",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 72,
+    "SBI-2008": 62,
+    "description": "Computerservice- en informatietechnologie-bureau's e.d./(kantoren) b.v.o. > 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 72,
+    "SBI-2008": 62,
+    "description": "Computerservice- en informatietechnologie-bureau's e.d.",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 72,
+    "SBI-2008": "58, 63",
+    "description": "Datacentra",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 73,
+    "SBI-2008": 72,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 73,
+    "SBI-2008": 72,
+    "description": "SPEUR- EN ONTWIKKELINGSWERK",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 731,
+    "SBI-2008": 721,
+    "description": "Natuurwetenschappelijk speur- en ontwikkelingswerk",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 732,
+    "SBI-2008": 722,
+    "description": "Maatschappij- en geesteswetenschappelijk onderzoek",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 74,
+    "SBI-2008": "63, 69tm71, 73, 74, 77, 78, 80tm82",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 74,
+    "SBI-2008": "63, 69tm71, 73, 74, 77, 78, 80tm82",
+    "description": "OVERIGE ZAKELIJKE DIENSTVERLENING",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 74,
+    "SBI-2008": "63, 69tm71, 73, 74, 77, 78, 80tm82",
+    "description": "Overige zakelijke dienstverlening: kantoren/kantoren b.v.o. <= 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 74,
+    "SBI-2008": "63, 69tm71, 73, 74, 77, 78, 80tm82",
+    "description": "Overige zakelijke dienstverlening: kantoren/kantoren b.v.o. > 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 747,
+    "SBI-2008": 812,
+    "description": "Reinigingsbedrijven voor gebouwen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 7481.3,
+    "SBI-2008": 74203,
+    "description": "Foto- en filmontwikkelcentrales",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 7484.3,
+    "SBI-2008": 82991,
+    "description": "Veilingen voor landbouw- en visserijprodukten",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 7484.4,
+    "SBI-2008": 82992,
+    "description": "Veilingen voor huisraad, kunst e.d.",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 75,
+    "SBI-2008": 84,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 75,
+    "SBI-2008": 84,
+    "description": "OPENBAAR BESTUUR, OVERHEIDSDIENSTEN, SOCIALE VERZEKERINGEN",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 75,
+    "SBI-2008": 84,
+    "description": "Openbaar bestuur (kantoren e.d.)/ b.v.o. <= 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 75,
+    "SBI-2008": 84,
+    "description": "Openbaar bestuur (kantoren e.d.)/b.v.o. > 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 7522,
+    "SBI-2008": 8422,
+    "description": "Defensie-inrichtingen/kazernes",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 7522,
+    "SBI-2008": 8422,
+    "description": "Defensie-inrichtingen",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 7525,
+    "SBI-2008": 8425,
+    "description": "Brandweerkazernes",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 80,
+    "SBI-2008": 85,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 80,
+    "SBI-2008": 85,
+    "description": "ONDERWIJS",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "801, 802",
+    "SBI-2008": "852, 8531",
+    "description": "Scholen voor basis- en algemeen voortgezet onderwijs",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": "",
+    "SBI-2008": "",
+    "description": "Scholen voor basis- en algemeen voortgezet onderwijs/ b.v.o.> 375m2 of bestemd voor minderjarigen, ouderen en/of gehandicapten",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "803, 804",
+    "SBI-2008": "8532, 854, 855",
+    "description": "Scholen voor beroeps-, hoger en overig onderwijs",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 85,
+    "SBI-2008": 86,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 85,
+    "SBI-2008": 86,
+    "description": "GEZONDHEIDS- EN WELZIJNSZORG",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 8511,
+    "SBI-2008": 8610,
+    "description": "Ziekenhuizen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": "8512, 8513",
+    "SBI-2008": "8621, 8622, 8623",
+    "description": "Artsenpraktijken, klinieken en dagverblijven",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": "8514, 8515",
+    "SBI-2008": "8691, 8692",
+    "description": "Consultatiebureaus",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 853,
+    "SBI-2008": 871,
+    "description": "Verpleeghuizen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 853,
+    "SBI-2008": 8891,
+    "description": "Kinderopvang",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 90,
+    "SBI-2008": "37, 38, 39",
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 90,
+    "SBI-2008": "37, 38, 39",
+    "description": "MILIEUDIENSTVERLENING",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 9001,
+    "SBI-2008": 3700,
+    "description": "RWZI's en gierverwerkingsinricht., met afdekking voorbezinktanks:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 9001,
+    "SBI-2008": 3700,
+    "description": "- < 100.000 i.e.",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 9001,
+    "SBI-2008": 3700,
+    "description": "- 100.000 - 300.000 i.e.",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 9001,
+    "SBI-2008": 3700,
+    "description": "- >= 300.000 i.e.",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 9001,
+    "SBI-2008": 3700,
+    "description": "rioolgemalen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9002.1,
+    "SBI-2008": 381,
+    "description": "Vuilophaal-, straatreinigingsbedrijven e.d.",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 9002.1,
+    "SBI-2008": 381,
+    "description": "Gemeentewerven (afval-inzameldepots)",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 9002.1,
+    "SBI-2008": 381,
+    "description": "Vuiloverslagstations",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "Afvalverwerkingsbedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "mestverwerking/korrelfabrieken",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "kabelbranderijen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "verwerking radio-actief afval",
+    "radius": 1500,
+    "category": 6
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "pathogeen afvalverbranding (voor ziekenhuizen)",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "oplosmiddelterugwinning",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "- afvalverbrandingsinrichtingen, thermisch vermogen > 75 MW",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "verwerking fotochemisch en galvano-afval",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "Vuilstortplaatsen",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "Composteerbedrijven:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "- niet-belucht v.c. < 5.000 ton/jr",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "- niet-belucht v.c. 5.000 tot 20.000 ton/jr",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "- belucht v.c. < 20.000 ton/jr",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "- belucht v.c. > 20.000 ton/jr",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 9002.2,
+    "SBI-2008": 382,
+    "description": "GFT in gesloten gebouw",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 91,
+    "SBI-2008": 94,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 91,
+    "SBI-2008": 94,
+    "description": "DIVERSE ORGANISATIES",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 9111,
+    "SBI-2008": "941, 942",
+    "description": "Bedrijfs- en werknemersorganisaties (kantoren)/b.v.o.  <= 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 9111,
+    "SBI-2008": "941, 942",
+    "description": "Bedrijfs- en werknemersorganisaties (kantoren)/b.v.o.  > 1.500 m2 per object",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 9131,
+    "SBI-2008": 9491,
+    "description": "Kerkgebouwen e.d.",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9133.1,
+    "SBI-2008": 94991,
+    "description": "Buurt- en clubhuizen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9133.1,
+    "SBI-2008": 94991,
+    "description": "Hondendressuurterreinen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 92,
+    "SBI-2008": 59,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 92,
+    "SBI-2008": 59,
+    "description": "CULTUUR, SPORT EN RECREATIE",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "921, 922",
+    "SBI-2008": "591, 592, 601, 602",
+    "description": "Studio's (film, TV, radio, geluid)/ b.v.o.> 375m2",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": "921, 922",
+    "SBI-2008": "591, 592, 601, 602",
+    "description": "Studio's (film, TV, radio, geluid)",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9213,
+    "SBI-2008": 5914,
+    "description": "Bioscopen/b.v.o.> 375m2",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 9213,
+    "SBI-2008": 5914,
+    "description": "Bioscopen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9232,
+    "SBI-2008": 9004,
+    "description": "Theaters, schouwburgen, concertgebouwen, evenementenhallen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9233,
+    "SBI-2008": 9321,
+    "description": "Recreatiecentra, vaste kermis e.d./> 50 mensen kunnen meer dan 40 uur per week aanwezig zijn",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 9233,
+    "SBI-2008": 9321,
+    "description": "Recreatiecentra, vaste kermis e.d.",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 9234,
+    "SBI-2008": 8552,
+    "description": "Muziek- en balletscholen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9234.1,
+    "SBI-2008": 85521,
+    "description": "Dansscholen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": "9251, 9252",
+    "SBI-2008": "9101, 9102",
+    "description": "Bibliotheken, musea, ateliers, e.d./ b.v.o. > 2250m2",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": "9251, 9252",
+    "SBI-2008": "9101, 9102",
+    "description": "Bibliotheken, musea, ateliers, e.d.",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 9253.1,
+    "SBI-2008": 91041,
+    "description": "Dierentuinen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 9253.1,
+    "SBI-2008": 91041,
+    "description": "Kinderboerderijen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Zwembaden:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "overdekt",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "niet overdekt",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Sporthallen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Bowlingcentra /b.v.o. > 375m2",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Bowlingcentra",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Overdekte kunstijsbanen/> 50 mensen kunnen meer dan 40 uur per week aanwezig zijn",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Overdekte kunstijsbanen",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Stadions",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Stadions en open-lucht-ijsbanen/ > 50 mensen kunnen meer dan 40 uur per week aanwezig zijn",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Open-lucht-ijsbanen",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Maneges",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Tennisbanen (met verlichting)",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Veldsportcomplex (met verlichting)",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Golfbanen",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Kunstskibanen/ > 50 mensen kunnen meer dan 40 uur per week aanwezig zijn",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Kunstskibanen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Schietinrichtingen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "binnenbanen: geweer- en pistoolbanen",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "buitenbanen met voorzieningen: pistoolbanen",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "buitenbanen met voorzieningen: boogbanen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "binnenbanen: boogbanen",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "vrije buitenbanen: kleiduiven",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "vrije buitenbanen: schietbomen",
+    "radius": 1500,
+    "category": 6
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "vrije buitenbanen: geweerbanen",
+    "radius": 1500,
+    "category": 6
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "vrije buitenbanen: pistoolbanen",
+    "radius": 1500,
+    "category": 6
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "vrije buitenbanen: boogbanen",
+    "radius": 200,
+    "category": 4.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "buitenbanen met voorzieningen: schietbomen",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "buitenbanen met voorzieningen: geweerbanen",
+    "radius": 1500,
+    "category": 6
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Skelter- en kartbanen, in een hal",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Skelter- en kartbanen, open lucht, < 8 uur/week in gebruik",
+    "radius": 500,
+    "category": 5.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Skelter- en kartbanen, open lucht, >=8 uur/week in gebruik/en b.v.o. > 2250m2",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Skelter- en kartbanen, open lucht, >=8 uur/week in gebruik",
+    "radius": 1000,
+    "category": 5.3
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Autocircuits, motorcrossterreinen e.d., < 8 uur/week in gebruik",
+    "radius": 700,
+    "category": 5.2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Autocircuits, motorcrossterreinen e.d., >=8 uur/week in gebruik",
+    "radius": 1500,
+    "category": 6
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Sportscholen, gymnastiekzalen b.v.o. > 900m2",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 931,
+    "description": "Sportscholen, gymnastiekzalen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 932,
+    "description": "Jachthavens met diverse voorzieningen > 50 mensen kunnen meer dan 40 uur per week aanwezig zijn",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 926,
+    "SBI-2008": 932,
+    "description": "Jachthavens met diverse voorzieningen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 9271,
+    "SBI-2008": 9200,
+    "description": "Casino's b.v.o. > 375 m2",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9271,
+    "SBI-2008": 9200,
+    "description": "Casino's",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9272.1,
+    "SBI-2008": 92009,
+    "description": "Amusementshallen b.v.o. > 375 m2",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9272.1,
+    "SBI-2008": 92009,
+    "description": "Amusementshallen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9272.4,
+    "SBI-2008": 93299,
+    "description": "Modelvliegtuig-velden",
+    "radius": 300,
+    "category": 4.2
+  },
+  {
+    "SBI-1993": 93,
+    "SBI-2008": 93,
+    "description": "",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 93,
+    "SBI-2008": 96,
+    "description": "OVERIGE DIENSTVERLENING",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 9301.1,
+    "SBI-2008": 96011,
+    "description": "Wasserijen en strijkinrichtingen",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 9301.1,
+    "SBI-2008": 96011,
+    "description": "Tapijtreinigingsbedrijven",
+    "radius": 50,
+    "category": 3.1
+  },
+  {
+    "SBI-1993": 9301.2,
+    "SBI-2008": 96012,
+    "description": "Chemische wasserijen en ververijen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9301.3,
+    "SBI-2008": 96013,
+    "description": "Wasverzendinrichtingen",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9301.3,
+    "SBI-2008": 96013,
+    "description": "Wasserettes, wassalons",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 9302,
+    "SBI-2008": 9602,
+    "description": "Kappersbedrijven en schoonheidsinstituten",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 9303,
+    "SBI-2008": 9603,
+    "description": "Begrafenisondernemingen:",
+    "radius": "",
+    "category": ""
+  },
+  {
+    "SBI-1993": 9303,
+    "SBI-2008": 9603,
+    "description": "uitvaartcentra",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 9303,
+    "SBI-2008": 96031,
+    "description": "begraafplaatsen",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 9303,
+    "SBI-2008": 96032,
+    "description": "crematoria",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 9304,
+    "SBI-2008": "9313, 9604",
+    "description": "Fitnesscentra, badhuizen en sauna-baden b.v.o. > 900m2",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9304,
+    "SBI-2008": "9313, 9604",
+    "description": "Fitnesscentra, badhuizen en sauna-baden",
+    "radius": 30,
+    "category": 2
+  },
+  {
+    "SBI-1993": 9305,
+    "SBI-2008": 9609,
+    "description": "Dierenasiels en -pensions",
+    "radius": 100,
+    "category": 3.2
+  },
+  {
+    "SBI-1993": 9305,
+    "SBI-2008": 9609,
+    "description": "Persoonlijke dienstverlening > 50 mensen kunnen meer dan 40 uur per week aanwezig zijn",
+    "radius": 10,
+    "category": 1
+  },
+  {
+    "SBI-1993": 9305,
+    "SBI-2008": 9609,
+    "description": "Persoonlijke dienstverlening n.e.g.",
+    "radius": 10,
+    "category": 1
+  }
+]

@@ -1,0 +1,48 @@
+@charset 'UTF-8';
+
+// Configuration and helpers
+@import
+  'abstracts/variables',
+  'abstracts/functions',
+  'abstracts/mixins';
+
+//Vendor
+@import "../../../node_modules/uikit/src/scss/variables-theme.scss";
+@import "../../../node_modules/uikit/src/scss/mixins-theme.scss";
+@import "../../../node_modules/uikit/src/scss/uikit-theme.scss";
+@import "../../../node_modules/leaflet-draw/dist/leaflet.draw.css";
+@import "../../../node_modules/leaflet.pm/dist/leaflet.pm.css";
+
+// Base stuff
+@import
+  'base/base',
+  'base/fonts',
+  'base/typography',
+  'base/helpers';
+
+// Layout-related sections
+@import
+  'layout/header',
+  'layout/footer';
+
+// Components
+@import
+  'components/utility',
+  'components/searchModal',
+  'components/elementsList',
+  'components/previewBox',
+  'components/infoModal',
+  'components/exploreNavbar',
+  'components/filterSidebar',
+  'components/social_icons';
+
+// Page-specific styles
+@import
+  'pages/home',
+  'pages/explore';
+
+// Themes
+@import
+  'themes/default';
+
+

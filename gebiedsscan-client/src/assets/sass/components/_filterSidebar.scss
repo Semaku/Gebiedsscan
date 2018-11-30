@@ -1,0 +1,51 @@
+
+.sk-filter-sidebar-card {
+    position: absolute;
+    width: 320px !important;
+    padding: 0 !important;
+    height: 80%;
+    overflow: auto;
+    z-index: 1001;
+    background: #fff;
+    top: 20px;
+    left: 20px;
+    border-radius: 10px;
+}
+
+.sk-filter-sidebar-header {
+    & > li {
+        height: 40px;
+        &> a {
+            height: 40px;
+            padding: 10px 0;
+            font-size: 0.8em;
+        }
+    }
+}
+
+.sk-filter-sidebar-header > .uk-active {
+    background: #fff;
+    color: #999;
+    text-transform: uppercase;
+    transition: .1s ease-in-out;
+    transition-property: color,background-color;
+
+    & > a:hover {
+        color: #999 !important;
+    }
+
+}
+
+.sk-filter-sidebar-header > li {
+    background: $base-red;
+    
+    & > a {
+        color: #fff;
+        border-bottom: 2px solid #fff !important;
+    }
+
+    & > a:hover {
+        color: #fff !important;
+    }
+}
+

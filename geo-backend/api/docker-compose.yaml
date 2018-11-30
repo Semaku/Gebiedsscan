@@ -1,0 +1,27 @@
+version: "2"
+services:
+  api:
+    build: .    
+    image: kadaster-api
+    container_name: kadaster-api
+    ports:
+        - "3003:3003"
+    restart: always
+    environment:
+      - VIRTUAL_HOST=api.kadaster.semaku.com
+      - VIRTUAL_PORT=3003
+      - VIRTUAL_NETWORK=nginx-proxy
+      - LETSENCRYPT_HOST=api.kadaster.semaku.com
+      - LETSENCRYPT_EMAIL=jasper.mennink@semaku.com
+      - NODE_ENV=production
+      - NODE_PORT=3003
+      - DB_USER=postgres
+      - DB_PASS=postgres
+      - DB_HOST=kadaster-db
+      - DB_NAME=kadaster-db
+      - DB_PORT=5432
+    # docker network create kadaster-network    
+networks:
+  default:
+    external:
+      name: nginx-proxy
