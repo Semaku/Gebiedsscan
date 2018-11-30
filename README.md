@@ -13,8 +13,9 @@ $ npm start
 
 ### Configurations
 The application configurations can be changed by having the following environmental variables.
+
 | Env. Variable | Description | Mandatory |
-| ------ | ------ | ---- |
+| ------ | ------ | ------ |
 | DB_HOST | Database host | Yes |
 | DB_PORT | Database port | No |
 | DB_USER | Database user | Yes |
@@ -34,7 +35,7 @@ After building the client the contens on the /dist folder can be served. For cor
 The application configurations can be changed by changing the values in config.js
 
 | Field | Description | Mandatory |
-| ------ | ------ | ---- |
+| ------ | ------ | ------ |
 | baseUrl | Base url for the geo-backend including the protocol | Yes |
 
 ## Database
