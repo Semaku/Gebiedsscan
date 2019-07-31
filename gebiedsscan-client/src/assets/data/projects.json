@@ -45,8 +45,8 @@
           [
             {
               "organization": "Woningcorporatie Wooninc",
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.nl"
+              "phone_nr": "040 265 44 00",
+              "e_mail": "info@wooninc.nl"
             },
             {},
             {}
@@ -55,21 +55,10 @@
         "external": [
           [
             {
-              "resource_title": "Hurks van start met bouw prestigieus PicusKade",
-              "resource_description": "Het team van Hurks is nu echt van start gegaan met de bouw van het prestigieuze (her)ontwikkelingsplan PicusKade in Eindhoven. Op de locatie tussen het DAF Museum en het NRE-terrein in Eindhoven aan het Eindhovensch Kanaal -- het oudste industrieterrein van Eindhoven -- is stilaan de bouwplaats in gereedheid gebracht voor deze omvangrijke investering van de opdrachtgevers. Deze week gaat de eerste paal de grond in.",
-              "resource_img_url": "http://www.hurks.nl/application/files/cache/f3d8af093c0bd69107f8e4d42c65af50.jpg",
-              "resource_url": "http://www.hurks.nl/nl/over-ons/nieuws/Hurks-start-met-bouw-van-prestigieus-PicusKade"
-            },
-            {
               "resource_title": "PicusKade facebook",
               "resource_description": "facebook page",
               "resource_img_url": "https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/9766_674872939293679_2864153935746960373_n.jpg?oh=475d96b107ba752bb481eab65210bc8e&oe=5B4E30F4",
               "resource_url": "https://nl-nl.facebook.com/PicusKade/"
-            },
-            {
-              "resource_title": "PicusKade koop",
-              "resource_img_url": "https://www.wooninc.nl/upload/housing/projects/15/header_1.jpg",
-              "resource_url": "https://www.wooninc.nl/woningaanbod/nieuwbouw/picuskade-koop/"
             }
           ]
         ],
@@ -141,7 +130,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -206,7 +195,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -241,11 +230,11 @@
         "extra_vision": "156 appartementen",
         "start": null,
         "status": null,
-        "oplevering": null,
+        "oplevering": "2019",
         "author": null,
         "created": "NA",
         "modified": null,
-        "likes_shares": 8,
+        "likes_shares": 18,
         "architecten": null,
         "nr_participans_wanted": "NA",
         "interesting_areas": null,
@@ -271,7 +260,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -336,7 +325,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -400,14 +389,14 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
         "external": [
           [
             {
-              "resource_url": "http://www.debeverarchitecten.nl/index.php?pag=2&sub=4&id=71&nav=1&info=1"
+              "resource_url": null
             }
           ]
         ],
@@ -434,18 +423,18 @@
         "extra_vision": "Zakelijk, 9.200 m2, Multifunctioneel\r\nWerken\r\nOntspannen\r\nLeren & Ontmoeten",
         "start": "januari 2014",
         "status": "In ontwikkeling",
-        "oplevering": "2019",
+        "oplevering": "Nov. 2019",
         "author": null,
-        "created": 2013,
+        "created": 2014,
         "modified": null,
         "likes_shares": 5,
         "architecten": null,
         "nr_participans_wanted": 2,
         "interesting_areas": null,
-        "hero_image": "https://www.dela.nl/-/media/images/headers/marienhage_header2.jpg?la=nl-nl&hash=4ED3FBA66BBD308F2E43451E281FB2771571CBC6",
+        "hero_image": "https://www.greatervenues.com/wp-content/uploads/2018/06/50_cam_02_preview.jpeg",
         "pano_id": "kLPQuazs3SWxoBd5R4qfcQ",
         "development_theme": [
-          "Inclusiviteit"
+          "Inclusiviteit", "Repurposing", "Renovation"
         ],
         "woningtypen": [
           ["ceremoniehuis", " Multifunctioneel", " Werken", "\r\nOntspannen", " Leren", " Ontmoeten"]
@@ -469,8 +458,8 @@
               "first_name": "Bert",
               "last_name": "Dirrix",
               "organization": "Diederendirrix",
-              "phone_nr": "+31 (0)12 34 56 789",
-              "e_mail": "mail@dummy.nl"
+              "phone_nr": "+31 (0)40 26 06 740",
+              "e_mail": "b.dirrix@diederendirrix.nl"
             }
           ]
         ],
@@ -480,7 +469,7 @@
               "resource_title": "Marienhage",
               "resource_description": "Eén van de oudste verborgen pareltjes van Eindhoven, het ensemble van gebouwen van kloostercomplex Mariënhage wordt gerenoveerd, uitgebreid en herbestemd tot ceremoniehuis en congrescentrum DELAmondo. In opdracht van coöperatie DELA wordt in de Paterskerk en de Studentenkapel een eigentijdse plek gecreëerd die niet alleen herinneringen ademt, maar ook ruimte biedt aan een uiteenlopend programma voor rouw- en trouwplechtigheden, concerten, congressen, lezingen en kerkdiensten. In het voormalig jongensinternaat en gymnasium,  Augustinianum, wordt een conferentiehotel met 66 kamers ingericht; de benedenverdieping van de Studentenkapel biedt ruimte voor een restaurant.",
               "resource_img_url": "http://www.diederendirrix.nl/website/wp-content/uploads/2017/05/Marienhage_1600px-500x500.jpg",
-              "resource_url": "https://www.dela.nl/over-dela/marienhage, http://www.diederendirrix.nl/nl/projecten/marienhage/"
+              "resource_url": "https://www.diederendirrix.nl/en/projecten/marienhage/"
             }
           ]
         ],
@@ -515,7 +504,7 @@
         "architecten": null,
         "nr_participans_wanted": 4,
         "interesting_areas": null,
-        "hero_image": "http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/v1/103636/Bunker_Tower03_Credit_Powerhouse_Company_en_DELVA_fgb9jf.jpg",
+        "hero_image": "https://static.dezeen.com/uploads/2017/01/the-bunker-powerhouse-company-architecture-news-residential-apartments-eindhoven_dezeen_hero-852x479.jpg",
         "pano_id": "nFZn_zTbSlYEvbIWwRHC9g",
         "development_theme": [
           ["Duurzamheid", " Inclusiviteit"]
@@ -540,23 +529,23 @@
           [
             {
               "organization": "Being Development",
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.nl"
+              "phone_nr": "020-8202181",
+              "e_mail": "info@beingdevelopment.nl"
             },
             {
               "organization": "RED Company",
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.nl"
+              "phone_nr": "+31 (0)10 303 75 33",
+              "e_mail": "contact@realedc.com"
             },
             {
               "organization": "Powerhouse Company",
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.nl"
+              "phone_nr": "31 10 404 67 89",
+              "e_mail": "office@powerhouse-company.com"
             },
             {
               "organization": "Delva architecten",
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.nl"
+              "phone_nr": "31 (0)20 220 90 78",
+              "e_mail": "info@delva.la"
             }
           ]
         ],
@@ -565,7 +554,7 @@
             {
               "resource_title": "De Bunker",
               "resource_description": "web site of the Bunker",
-              "resource_img_url": "http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1920,f_auto,q_auto/v1/103636/Bunker_Tower01_Credit_Powerhouse_Company_lh8bzr.jpg",
+              "resource_img_url": "https://static.dezeen.com/uploads/2017/01/the-bunker-powerhouse-company-architecture-news-residential-apartments-eindhoven_dezeen_hero-852x479.jpg",
               "resource_url": "http://www.debunkereindhoven.nl/"
             },
             {},
@@ -607,7 +596,7 @@
         "architecten": null,
         "nr_participans_wanted": "NA",
         "interesting_areas": null,
-        "hero_image": "https://delva.la/wp-content/uploads/2017/09/DELVA-Landscape-Architects-Amsterdam-Antwerpen-Steven-Delva-BPD-Boei-studioninedots-Coberco-Eindhoven-Campina3.jpg",
+        "hero_image": "https://www.brabantsgoed.net/wp-content/uploads/2018/12/de-zuivelfabriek-BPD.jpg",
         "pano_id": "fR66tYrnm5iBOah3ggCznw",
         "development_theme": [
           null
@@ -629,7 +618,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -702,7 +691,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -778,7 +767,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -786,7 +775,7 @@
           [
             {
               "resource_title": "Discussieavond over kop van kanaal in Eindhoven",
-              "resource_description": "EINDHOVEN <U+0096> De ontwikkelingen rond de kop van het Eindhovensch Kanaal zijn maandag 10 oktober onderwerp van een discussieavond van het Architectuurcentrum Eindhoven. Diverse bouwplannen en de ontwikkeling van het NRE daar komen nu van de grond.",
+              "resource_description": "EINDHOVEN De ontwikkelingen rond de kop van het Eindhovensch Kanaal zijn maandag 10 oktober onderwerp van een discussieavond van het Architectuurcentrum Eindhoven. Diverse bouwplannen en de ontwikkeling van het NRE daar komen nu van de grond.",
               "resource_img_url": "https://images2.persgroep.net/rcs/6YEw1q3f6WKSrmi9-GQvLW-biI8/diocontent/70927513/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
               "resource_url": "https://www.ed.nl/default/discussieavond-over-kop-van-kanaal-in-eindhoven~a858d2f9/"
             }
@@ -865,7 +854,7 @@
           [
             {
               "organization": "cooperatie Dela",
-              "phone_nr": "+31 (0)12 345 67 89"
+              "phone_nr": "040 260 16 36"
             },
             {},
             {}
@@ -881,11 +870,6 @@
               "resource_title": "DELA realiseert ceremoniehuis",
               "resource_description": "youtube link",
               "resource_url": "https://www.youtube.com/watch?v=R_KnrzTaHCc"
-            },
-            {
-              "resource_title": "Verbinden",
-              "resource_description": "DELAmondo: Een nieuwe eenheid van de\r\nEindhovense Paterskerk, het oude Augustinianum\r\nen de Studentenkapel.",
-              "resource_url": "https://eindhoven.raadsinformatie.nl/document/1711507/1/document"
             }
           ]
         ],
@@ -968,7 +952,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             },
             {}
           ]
@@ -979,7 +963,7 @@
             {
               "resource_title": "NRE-terrein Eindhoven",
               "resource_description": "NRE terrein presentation",
-              "resource_url": "https://prezi.com/lgnr99joaeed/nre-terrein-eindhoven/"
+              "resource_url": null
             }
           ]
         ],
@@ -1060,7 +1044,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -1130,8 +1114,8 @@
               "first_name": "Tom",
               "last_name": "van Tuijn",
               "organization": "TOM VAN TUIJN STEDENBOUW",
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.com"
+              "phone_nr": "0031 6 212 212 39",
+              "e_mail": "info@tomvantuijn.com"
             }
           ]
         ],
@@ -1199,13 +1183,13 @@
           [
             {
               "organization": "Arom ruimtelijk advies",
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.nl"
+              "phone_nr": "31 (0)40 782 0660",
+              "e_mail": "w@arom.nl"
             },
             {
               "organization": "FAAM Architects",
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.nl"
+              "phone_nr": "31(40) 296 33 96",
+              "e_mail": "info@faamarchitects.nl"
             },
             {
               "organization": "Stuyvesant"
@@ -1284,8 +1268,8 @@
         "contact": [
           [
             {
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.com"
+              "phone_nr": "0499 375 537",
+              "e_mail": "info@fifthnre.com"
             },
             {}
           ]
@@ -1371,11 +1355,6 @@
               "resource_description": "web site",
               "resource_img_url": "https://www.dok40eindhoven.nl/cms_file.php?fromDB=3835&width=&height=&forceJPEG&jpegQuality=90",
               "resource_url": "https://www.dok40eindhoven.nl/"
-            },
-            {
-              "resource_title": "Vansantvoort DOK 40",
-              "resource_img_url": "https://www.vansantvoort.nl/wp-content/uploads/48215978-768x543.jpeg",
-              "resource_url": "https://www.vansantvoort.nl/nieuwbouw-project/eindhoven-dok40/"
             }
           ]
         ],
@@ -1444,7 +1423,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -1521,7 +1500,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -1590,18 +1569,13 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             },
             {}
           ]
         ],
         "external": [
           [
-            {
-              "resource_title": "Campinaterrein Eindhoven",
-              "resource_img_url": "https://www.zuivelfabriekeindhoven.nl/media/131561/nieuwbouw-eindhoven-campina-collage-vogelvlucht.jpg",
-              "resource_url": "https://www.zuivelfabriekeindhoven.nl/?gclid=EAIaIQobChMIhfqToZPf2AIVgzgbCh1GTQixEAAYASAAEgIM_vD_BwE"
-            },
             {
               "resource_title": "BPD gaat Campinaterrein Eindhoven omvormen tot wijkje De Zuivelfabriek",
               "resource_img_url": "https://images4.persgroep.net/rcs/4N8D2SrulGTdo0VYDhME6M4_dvs/diocontent/100580990/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.9",
@@ -1672,8 +1646,8 @@
           [
             {
               "organization": "Hurks",
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.nl"
+              "phone_nr": "040 262 61 00",
+              "e_mail": "info@hurks.nl"
             }
           ]
         ],
@@ -1752,13 +1726,13 @@
           [
             {
               "organization": "Studio Leon Thier",
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.nl"
+              "phone_nr": "31 (0)70 358 40 00",
+              "e_mail": "info@studioleonthier.nl"
             },
             {
               "organization": "www.architecten-en-en.nl",
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.nl"
+              "phone_nr": "040 246 27 28",
+              "e_mail": "info@architecten-en-en.nl"
             }
           ]
         ],
@@ -1767,7 +1741,7 @@
             {
               "resource_title": "Augustinianum Eindhoven",
               "resource_img_url": "http://www.architecten-en-en.nl/images/frontend/bgfader/78/afbeeldingen/EnEn_Augustinianum_BASE_11.jpg",
-              "resource_url": "http://www.architecten-en-en.nl/projecten/onderwijs/augustinianum-eindhoven.html\r\n"
+              "resource_url": null
             },
             {
               "resource_title": "Drukte in de gangen van het nieuwe Augustinianum Eindhoven",
@@ -1837,8 +1811,8 @@
         "contact": [
           [
             {
-              "phone_nr": "+31 (0)12 345 67 89",
-              "e_mail": "mail@dummy.nl"
+              "phone_nr": "14 030",
+              "e_mail": "merwedekanaalzone@utrecht.nl"
             }
           ]
         ],
@@ -2404,7 +2378,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -2468,7 +2442,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -2532,7 +2506,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -2596,7 +2570,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -2660,7 +2634,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -2724,7 +2698,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@eindhoven.nl"
             }
           ]
         ],
@@ -2788,7 +2762,7 @@
         "contact": [
           [
             {
-              "e_mail": "mail@dummy.nl"
+              "e_mail": "info@utrecht.nl"
             }
           ]
         ],
